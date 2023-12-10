@@ -3,10 +3,17 @@ layout: default
 title: Home page
 ---
 
-# Welcome to CS 320, Spring 2024!
+# Welcome to CS320 (Software Engineering), Spring 2024!
 
-This is the website for CS 320, Spring 2024 at York College.
-All information about the course will be posted here.
+This is the website for Professor Hake's sections of CS 320, Spring 2024 at York College.
+
+CS320-101: M-W-F 10:00a to 10:50a in KEC 119 (Hake)
+CS320-102: M-W-F  1:00p to  1:50p in KEC 119 (Hake)
+CS320-103: M-W-F  2:00p to  2:50p in KEC 119 (Zeller)
+
+If you are in Professor Zeller's section, please contact him at <dzeller@ycp.edu> for details about his version of the course.
+
+All information about Professor Hake's sections of CS320 will be posted here.
 
 ## Links
 
@@ -93,4 +100,4 @@ All information about the course will be posted here.
 
 -->
 
-* **Jan 26** - Welcome back to Kinsley and the most **FUN** you've ever had in a CS course (and where you'll discover just how much **WORK** it takes to have so much **FUN**...!  :-)
+* **Jan 26** - Welcome back to Kinsley and the most **FUN** you've ever had in a CS course (and where you'll discover just how much **WORK** it takes to have so much **FUN**, and where you'll all discover just how much **FUN** you it is doing so much **WORK*...!  Please bear in mind that I have a pretty warped sence of **FUN**:-)

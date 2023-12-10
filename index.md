@@ -13,9 +13,13 @@ This is the website for Professor Hake's sections of CS 320, Spring 2024 at York
 
 - CS320-103: M-W-F  2:00p to  2:50p in KEC 119 (Zeller)
 
-**NOTE:** If you are in Professor Zeller's section, please contact him at <dzeller@ycp.edu> for details about his version of the course.
+**NOTE:** For anyone who is in Professor Zeller's section (CS320-103), please contact him at <dzeller@ycp.edu> for details about his section of CS320, as Professor Hake and Professor Zeller will be taking different approaches for teaching CS320 this coming semester.
 
 **All information about Professor Hake's sections of CS320 will be posted here.**
+
+# The Spring 2024 CS320 course website is currently UNDER CONSTRUCTION.
+
+As such, some of the links below could return 404 Page Not Found Errors.  Professor Hake will be developing the course website over Semester Break.  If you would like to see what the organization and content of a previous CS320 class looked like, go to [CS320-Spring2022](https://ycpcs.github.io/cs320-spring2022).  The Spring 2024 CS320 course will be somewhat different, but will contain all of the content, labs, assignments, projects, and expected outcomes from the Spring 2022 course.
 
 ## Links
 
@@ -100,4 +104,4 @@ This is the website for Professor Hake's sections of CS 320, Spring 2024 at York
 
 -->
 
-* **Jan 26** - Welcome back to Kinsley and the most **FUN** you've ever had in a CS course (and where you'll discover just how much **WORK** it takes to have so much **FUN**, and where you'll all discover just how much **FUN** you it is doing so much **WORK*...!  Please bear in mind that I have a pretty warped sence of **FUN**:-)
+* **Jan 26** - Welcome back to KEC and the most **FUN** you've ever had in a CS course (and where you'll discover just how much **WORK** it takes to have so much **FUN**, and where you'll also discover just how much **FUN** it is doing so much **WORK*...!  AND, where you'll also learn that I have a pretty warped sense of **FUN**...  :-)

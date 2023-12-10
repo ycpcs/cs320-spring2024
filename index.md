@@ -106,8 +106,8 @@ As such, some of the links below could return 404 Page Not Found Errors.  Profes
 
 * **Jan 26** - Welcome back to KEC and the most **FUN** you've ever had in a CS course.
 
-* AND where you'll discover just how much **WORK** having that much **FUN** will be...!
+* **AND** where you'll discover just how much **WORK** having that much **FUN** will be...!
 
-* AND where you'll also discover just how much **FUN** doing that much **WORK** will be...!
+* **AND** where you'll also discover just how much **FUN** doing that much **WORK** will be...!
 
- *AND where you'll also discover **(rather quickly)** that Professor Hake has a rather warped sense of **FUN**...  :-)
+* **AND** where you'll also discover **(rather quickly)** that Professor Hake has a rather warped sense of **FUN**...  :-)

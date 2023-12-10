@@ -7,13 +7,15 @@ title: Home page
 
 This is the website for Professor Hake's sections of CS 320, Spring 2024 at York College.
 
-CS320-101: M-W-F 10:00a to 10:50a in KEC 119 (Hake)
-CS320-102: M-W-F  1:00p to  1:50p in KEC 119 (Hake)
-CS320-103: M-W-F  2:00p to  2:50p in KEC 119 (Zeller)
+- CS320-101: M-W-F 10:00a to 10:50a in KEC 119 (Hake)
+ 
+- CS320-102: M-W-F  1:00p to  1:50p in KEC 119 (Hake)
 
-If you are in Professor Zeller's section, please contact him at <dzeller@ycp.edu> for details about his version of the course.
+- CS320-103: M-W-F  2:00p to  2:50p in KEC 119 (Zeller)
 
-All information about Professor Hake's sections of CS320 will be posted here.
+**NOTE:** If you are in Professor Zeller's section, please contact him at <dzeller@ycp.edu> for details about his version of the course.
+
+**All information about Professor Hake's sections of CS320 will be posted here.**
 
 ## Links
 
@@ -31,8 +33,6 @@ All information about Professor Hake's sections of CS320 will be posted here.
 ## News
 
 <!-- Commenting out News until it's needed - and the dates will change, anyway
-
-
 
 * **Apr 22** - [Team Project Final Presentation and Demonstration](assign/assign08.html) is schedule for each section's final exam period.  These will be 20-25 minute formal presentations.  See [Assignment 8](assign/assign08.html) for the details and guidelines.
 	- **8:00 section (101) - 8:00a to 10:00a on Monday, 5-9-22**

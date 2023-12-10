@@ -11,7 +11,7 @@ This is the website for Professor Hake's sections of CS 320, Spring 2024 at York
  
 - CS320-102: M-W-F  1:00p to  1:50p in KEC 119 (Hake)
 
-**NOTE:** For anyone who is in Professor Zeller's section (CS320-103):
+**NOTE:** For anyone who is in Professor Zeller's section:
 
 - CS320-103: M-W-F  2:00p to  2:50p in KEC 119 (Zeller)
 
@@ -104,4 +104,10 @@ As such, some of the links below could return 404 Page Not Found Errors.  Profes
 
 -->
 
-* **Jan 26** - Welcome back to KEC and the most **FUN** you've ever had in a CS course.  AND where you'll discover just how much **WORK** it takes to have so much **FUN**.  AND where you'll also discover just how much **FUN** it is doing so much **WORK**...!  AND where you'll also discover **(rather quickly)** that Professor Hake has a rather warped sense of **FUN**...  :-)
+* **Jan 26** - Welcome back to KEC and the most **FUN** you've ever had in a CS course.
+
+Where you'll discover how much **WORK** **FUN** can be...!
+
+AND where you'll also discover how much **FUN** **WORK** can be...!
+
+AND where you'll also discover **(rather quickly)** that Professor Hake has a rather warped sense of **FUN**...  :-)

@@ -3,7 +3,7 @@ layout: default
 title: Home page
 ---
 
-# Welcome to CS320 (Software Engineering), Spring 2024!
+# Welcome to Software Engineering, Spring 2024!
 
 This is the website for Professor Hake's sections of CS 320, Spring 2024 at York College.  **All information about Professor Hake's sections of CS320 will be posted here.**
 
@@ -104,4 +104,4 @@ As such, some of the links below could return 404 Page Not Found Errors.  Profes
 
 -->
 
-* **Jan 26** - Welcome back to KEC and the most **FUN** you've ever had in a CS course (and where you'll discover just how much **WORK** it takes to have so much **FUN**, and where you'll also discover just how much **FUN** it is doing so much **WORK**...!  AND, where you'll also learn **(rather quickly)** that I have a rather warped sense of **FUN**...  :-)
+* **Jan 26** - Welcome back to KEC and the most **FUN** you've ever had in a CS course.  AND where you'll discover just how much **WORK** it takes to have so much **FUN**.  AND where you'll also discover just how much **FUN** it is doing so much **WORK**...!  AND where you'll also discover **(rather quickly)** that Professor Hake has a rather warped sense of **FUN**...  :-)

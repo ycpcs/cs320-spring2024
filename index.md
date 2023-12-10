@@ -5,21 +5,21 @@ title: Home page
 
 # Welcome to CS320 (Software Engineering), Spring 2024!
 
-This is the website for Professor Hake's sections of CS 320, Spring 2024 at York College.
+This is the website for Professor Hake's sections of CS 320, Spring 2024 at York College.  **All information about Professor Hake's sections of CS320 will be posted here.**
 
 - CS320-101: M-W-F 10:00a to 10:50a in KEC 119 (Hake)
  
 - CS320-102: M-W-F  1:00p to  1:50p in KEC 119 (Hake)
 
+**NOTE:** For anyone who is in Professor Zeller's section (CS320-103):
+
 - CS320-103: M-W-F  2:00p to  2:50p in KEC 119 (Zeller)
 
-**NOTE:** For anyone who is in Professor Zeller's section (CS320-103), please contact him at <dzeller@ycp.edu> for details about his section of CS320, as Professor Hake and Professor Zeller will be taking different approaches for teaching CS320 this coming semester.
+Please contact him at <dzeller@ycp.edu> for details about his section of CS320, as Professor Hake and Professor Zeller will be taking different approaches for teaching CS320 this coming semester.
 
-**All information about Professor Hake's sections of CS320 will be posted here.**
+# WEBSITE UNDER CONSTRUCTION.
 
-# The Spring 2024 CS320 course website is currently UNDER CONSTRUCTION.
-
-As such, some of the links below could return 404 Page Not Found Errors.  Professor Hake will be developing the course website over Semester Break.  If you would like to see what the organization and content of a previous CS320 class looked like, go to [CS320-Spring2022](https://ycpcs.github.io/cs320-spring2022).  The Spring 2024 CS320 course will be somewhat different, but will contain all of the content, labs, assignments, projects, and expected outcomes from the Spring 2022 course.
+As such, some of the links below could return 404 Page Not Found Errors.  Professor Hake will be developing the course website over Semester Break.  If you would like to see what the organization and content of a previous CS320 class looked like (and what you are getting yourself into), go to [CS320-Spring2022](https://ycpcs.github.io/cs320-spring2022).  The Spring 2024 CS320 course will be somewhat different, but will contain all of the content, labs, assignments, projects, and expected outcomes from the Spring 2022 course.
 
 ## Links
 
@@ -104,4 +104,4 @@ As such, some of the links below could return 404 Page Not Found Errors.  Profes
 
 -->
 
-* **Jan 26** - Welcome back to KEC and the most **FUN** you've ever had in a CS course (and where you'll discover just how much **WORK** it takes to have so much **FUN**, and where you'll also discover just how much **FUN** it is doing so much **WORK*...!  AND, where you'll also learn that I have a pretty warped sense of **FUN**...  :-)
+* **Jan 26** - Welcome back to KEC and the most **FUN** you've ever had in a CS course (and where you'll discover just how much **WORK** it takes to have so much **FUN**, and where you'll also discover just how much **FUN** it is doing so much **WORK**...!  AND, where you'll also learn **(rather quickly)** that I have a rather warped sense of **FUN**...  :-)

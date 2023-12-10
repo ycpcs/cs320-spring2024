@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home page
+title: Home Page
 ---
 
 # Welcome to Software Engineering, Spring 2024!

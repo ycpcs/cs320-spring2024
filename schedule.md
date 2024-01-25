@@ -19,7 +19,7 @@ Fri, Feb 2    | Version Control (Git) | [Lecture 12: Git for Designers](https://
 Mon, Feb 5    | Introduction to Web Applications <br> Lab 2 Assigned | [Lecture 4: Web Applications](lectures/lecture04.html) <br>  [Lab 2: Web Applications I](./labs/lab02.html)
 Wed, Feb 7    | Web Applications I <br> Lab 2a Assigned | [Lab 2a: Web Applications II](./labs/lab02a.html)
 Fri, Feb 9    | Web Applications II <br> Web Applications Lab Review |
-Mon, Feb 12   | Intro to Relational Databases, SQL, JDBC, ORM Labs<br>[Lecture 13: Relational Databases](lectures/lecture13.html)<br>[Lecture 14: Database Applications, JDBC](lectures/lecture14.html) <br> [Lecture 15: ORM, Designing a Persistence Layer](lectures/lecture15.html) | <br> [Lab 4: SQL Lab](./labs/lab04.html) <br> [Lab 5: JDBC Lab](./labs/lab05.html) <br> [Lab 6: ORM Lab](./labs/lab06.html)
+Mon, Feb 12   | Intro to Relational Databases & SQL Labs<br>[Lecture 13: Relational Databases](lectures/lecture13.html)<br>[Lecture 14: Database Applications, JDBC](lectures/lecture14.html) <br> [Lecture 15: ORM, Designing a Persistence Layer](lectures/lecture15.html) | <br> [Lab 4: SQL Lab](./labs/lab04.html) <br> [Lab 5: JDBC Lab](./labs/lab05.html) <br> [Lab 6: ORM Lab](./labs/lab06.html)
 Wed, Feb 14   | Development Processes & Waterfall Model | UD: Chapter 2 <br> [Lecture 6: Development Process](lectures/lecture06.html)
 Fri, Feb 16   | Agile Process & Scrum w/Examples |  SG: [2016 Scrum Guide](lectures/lecture07/2016_Scrum_Guide_US.pdf) <br> [Lecture 7: Agile & Scrum](lectures/lecture07.html) <br> [Manifesto for Agile Software Development](https://www.sciencedirect.com/topics/computer-science/agile-manifesto)
 Mon, Feb 19   | Requirements<br>User Requirements Exercise and <br> Brainstorming Session (in-class) | UD: Chapter 9 <br>[Lecture 8: Requirements](lectures/lecture08.html)
@@ -44,9 +44,9 @@ Fri, Mar 29   | **Spring Break, no class**
 Mon, Apr 1    | **Spring Break, no class**
 Wed, Apr 3    | Library Project Example Analysis & Review (part 1) |
 Fri, Apr 5    | Library Project Example Analysis & Review (part 2) |
-Mon, Apr 8    | Individual Project Milestone 3:<br> **FINAL PROJECT DEMOS** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
-Wed, Apr 10   | Testing and Code Coverage <br> Ensuring Code Quality | [Lecture 16: Testing](lectures/lecture16.html) <br> [Lecture 17: Ensuring Code Quality](lectures/lecture17.html) <br> **Take Home Exam (handed out)**
-Fri, Apr 12   | Work Ethic Lecture | **Take Home Exam (due, in class)**
+Mon, Apr 8    | Individual Project Milestone 3:<br> **FINAL PROJECT DEMO** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
+Wed, Apr 10   | Testing and Code Coverage <br> Ensuring Code Quality <br> **Take Home Exam (handed out)** | [Lecture 16: Testing](lectures/lecture16.html) <br> [Lecture 17: Ensuring Code Quality](lectures/lecture17.html)
+Fri, Apr 12   | Work Ethic Lecture <br> **Take Home Exam (due, in class)** |
 Mon, Apr 15   | Team Project Work Session (in-class) |
 Wed, Apr 17   | Team Project Work Session (in-class) |
 Fri, Apr 19   | Team Project Work Session (in-class) |

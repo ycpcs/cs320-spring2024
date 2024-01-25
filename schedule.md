@@ -45,7 +45,7 @@ Mon, Apr 1    | **Spring Break, no class**
 Wed, Apr 3    | Library Project Example Analysis & Review (part 1) |
 Fri, Apr 5    | Library Project Example Analysis & Review (part 2) |
 Mon, Apr 8    | Individual Project Milestone 3:<br> **FINAL PROJECT DEMO** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
-Wed, Apr 10   | Testing and Code Coverage <br> Ensuring Code Quality <br> **Take Home Exam (handed out)** | [Lecture 16: Testing](lectures/lecture16.html) <br> [Lecture 17: Ensuring Code Quality](lectures/lecture17.html)
+Wed, Apr 10   | Testing and Code Coverage <br> Ensuring Code Quality <br> **Take Home Exam (handed out)** | [Lecture 16: Testing](lectures/lecture16.html) <br> [Lecture 17: Ensuring Code Quality](lectures/lecture17.html) <br>
 Fri, Apr 12   | Work Ethic Lecture <br> **Take Home Exam (due, in class)** |
 Mon, Apr 15   | Team Project Work Session (in-class) |
 Wed, Apr 17   | Team Project Work Session (in-class) |

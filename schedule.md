@@ -10,8 +10,8 @@ This is the schedule for the course.  It may be updated from time to time.  Upda
 * SG is *Scrum Guide, 2016*
 * UD is *UML Distilled, 3rd ed.*
 
-Day/Date         | Topic/Activity               | Reading
----------------- | ---------------------------- | ----------------------------
+Day / Date    | Topic / Activity             | Reading / Lab
+--------------| ---------------------------- | ----------------------------
 Fri, Jan 26   | Course Overview <br> **Prep Exam Assigned** | [Lecture 1: Course Overview](lectures/lecture01.html)
 Mon, Jan 29   | Course Content: OOP, Agile, Projects, Self-Learning <br> **Prep Exam Due (Marmoset)** | [Lecture 1: Course Overview, OOP, Agile](lectures/lecture01.html)<br>[Lab 0: Using ChatGPT](./labs/lab00.html)
 Wed, Jan 31   | HTML (content) & CSS (style) using ChatGPT <br> HTML/CSS Resume Lab Assigned | [Lecture 2: HTML and CSS](lectures/lecture02.html)<br> [Lab 1: HTML and CSS Lab](./labs/lab01.html)

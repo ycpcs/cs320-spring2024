@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Lab 0: Learning to Use ChatGPT 3.5"
+title: "Lab 0: Using ChatGPT 3.5"
 ---
 
 ChatGPT
@@ -53,7 +53,7 @@ In terms of exacts, here are some common teaching practices that will help limit
 6. Copy and paste the relevant conversations into a word processor, e.g. Google Doc, for editing.
 7. Edit the responses, and eliminate any irrelevant material. It may be necessary to abbreviate long responses, as they could be quite large. Test ChatGPT of both conceptual knowledge and the ability to write programs.
 8. Within the document, take notes on the responses given. Use the highlighter tool to identify notes as separate from the conversation.  Comment on the correctness and creativity of the ChatGPT responses.
-9. Upload the conversation document in PDF form to Marmoset.
+9. Upload the conversation document in PDF form to Lab00 in Marmoset - see the instructions at the end of this page.
 
 ### Analyze for Correctness
 
@@ -92,3 +92,18 @@ Creativity among AI is a controversial topic. Does AI have actual creativity (li
 ### Alternates to AI
 
 Large language models such as ChatGPT should not be taken lightly. It is still unknown what potential side effects can occur from using AI. As such, there are alternate instructions for a student wishing to complete the lab and assignment without the use of ChatGPT. See the instructor to discuss alternate instructions. However, using these alternate instructions does not alleviate the student from learning about ChatGPT and its potential functionality in the industry.
+
+Submitting
+==========
+
+When you are done, submit the lab to the Marmoset server using the method below.
+
+
+From a web browser
+------------------
+
+Save your conversation document in PDF form as **CS320_Lab00.pdf**.
+
+Upload your PDF to the **Lab00** project under **CS320, Spring 2024** on the Marmoset server. The Marmoset server URL is:
+
+> [https://cs.ycp.edu/marmoset/](https://cs.ycp.edu/marmoset/)

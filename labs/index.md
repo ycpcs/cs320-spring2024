@@ -18,13 +18,13 @@ Example: If I was submitting Lab02, I would refactor the **CS320\_Lab02** projec
 
 Due Date | Lab | File
 ---- | --- | ----
-Wednesday, 1-31-24, by start of class (Marmoset) | [Lab 0: Using ChatGPT](lab00.html) | n/a
-Sunday, 2-4-24, by Noon (Marmoset) | [Lab 1: HTML and CSS](lab01.html) | n/a
+Wednesday, 1-31-24, by 10:00a (Marmoset) | [Lab 0: Using ChatGPT](lab00.html) | n/a
+Sunday, 2-4-24, by Noon (Marmoset) | [Lab 1: HTML/CSS Resume](lab01.html) | n/a
 Monday, 2-5-24 (in-class) | [Lab 3: Git Part I](lab03.html) | n/a
 Sunday, 2-20-24, by Noon (sign-off and Marmoset) | [Lab 2a: Web Applications II](lab02a.html) | [CS320\_Lab02.zip](CS320_Lab02.zip), [CS320\_Jetty9.zip](CS320_Jetty9.zip)
-Thursday, 3-21-24, by Noon (Marmoset) | [Lab 4: SQL, Queries, Joins](lab04.html) | [CS320\_Lab04.zip](CS320_Lab04.zip), [CS320\_Derby.zip](CS320_Derby.zip)
+Thursday, 3-21-24, by Noon (Marmoset) | [Lab 4: SQL Queries & Joins](lab04.html) | [CS320\_Lab04.zip](CS320_Lab04.zip), [CS320\_Derby.zip](CS320_Derby.zip)
 Saturday, 3-23-24, by Noon (Marmoset) | [Lab 5: JDBC](lab05.html) | [CS320\_Lab05.zip](CS320_Lab05.zip)
-Tuesday, 4-2-24, by Noon (Marmoset) | [Lab 6: ORM](lab06.html) | [CS320\_Lab06.zip](CS320_Lab06.zip)
+Tuesday, 4-1-24, by Noon (Marmoset) | [Lab 6: ORM](lab06.html) | [CS320\_Lab06.zip](CS320_Lab06.zip)
 
 All of the above labs, with the exception of Lab03 (Git Lab) are to be completed individually. I encourage you to discuss high level concepts and strategies with other students, but any work you submit **must be yours alone**.
 

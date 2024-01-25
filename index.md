@@ -104,11 +104,9 @@ As such, some of the links below could return 404 Page Not Found Errors.  Profes
 * **Jan 26** - [Assignment 3](assign/assign03.html) describes the expectations for the team project milestones.
 * **Jan 26** - Please see the **Projects** page for [Some Possible Team Projects](projects/index.html).
 * **Jan 26** - The class rosters were included in the CS320 introductory email.  You should start to consider choosing your project teams.
-
 * **Jan 26** - [Assign02: Individual Project Proposal](assign/assign02.html) is posted and is **due by Noon, Saturday, 2-10-24**. 
-
 * **Jan 26** - [Lab01: HTML/CSS Resume](labs/lab01.html) is posted and is **due by Noon, Sunday, 2-4-24**.
-* **Jan 26** - [Lab00: Using ChatGPT](labs]lab00.htm,) is posted and is **due before class, Wednesday, 1-31-24** 
+* **Jan 26** - [Lab00: Using ChatGPT](labs/lab00.html) is posted and is **due before class, Wednesday, 1-31-24**.
 * **Jan 26** - Please verify that you can into your Marmoset account.  We will be using Marmoset for several submissions.  If you forgot your password, please email me and I will generate a new one for you.
 
 * **Jan 26** - Welcome back to KEC and the most **FUN** you've ever had in a CS course.

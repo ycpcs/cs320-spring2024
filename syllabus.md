@@ -3,7 +3,7 @@ layout: default
 title: Syllabus
 ---
 
-CS 320 - Software Engineering and Design for Sections 101 and 102
+CS 320 - Software Engineering and Design <br> Prof Hake: Sections 101 and 102
 =================================================================
 
 **Spring 2024**

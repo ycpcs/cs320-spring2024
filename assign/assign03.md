@@ -5,19 +5,18 @@ title: "Assignment 3: Team Project Milestones"
 
 In the [Schedule](../schedule.html) you will notice days designated as team project milestones.  These are opportunities for your group to demonstrate progress on your team project.
 
-This document describes the expectations for each milestone.
+This document describes the expectations for each milestone.  See the [Assignment Schedule](./index.html) for actual due dates.
 
-> Date | Milestone
-> ---- | ---------
-> Monday, 3-14-22    | Milestone 1: Minimal Working System (Basic navigation)
-> Monday, 3-28-22    | Milestone 2: Progress on Features (interaction with fake database)
-> Monday, 4-25-22    | Milestone 3: "75%" Working System (operational persistent SQL database)
-> Saturday, 5-7-22   | Final Technical Report: due by 7:00am (Marmoset)
-> Monday, 5-9-22     | Final Presentation & Demo (sections 101 & 103), during final exam period
-> Wednesday, 5-11-22 | Final Presentation & Demo (section 102), during final exam period
+> Assignment | Milestone
+> ---------- | ---------
+> Assignment 3a      | Milestone 1: Minimal Working System (Basic navigation)
+> Assignment 3b      | Milestone 2: Progress on Features (interaction with fake database)
+> Assignment 3c      | Milestone 3: "75%" Working System (operational persistent SQL database)
+> Assignment 8a      | Final Technical Report - submit in PDF form to Marmoset
+> Assignment 8b      | Final Presentation & Demo, during final exam period
 
 ## Expectations
-Each milestone will be a **formal** presentation, where your team should be assembling a collection of 5-10 PowerPoint slides, along with a demonstration of your working code, and a run of the complete set of test cases that you have developed to that point.  Bear in mind that it is acceptable for **some** of your test cases to fail, as you will not have implemented all of your code - at least for the aboce 3 milestones.
+Each milestone will be a **formal** presentation, where your team should be assembling a collection of 5-10 PowerPoint slides, along with a demonstration of your working code, and a run of the complete set of test cases that you have developed to that point.  Bear in mind that it is acceptable for **some** of your test cases to fail, as you will not have implemented all of your code - at least for the first three (3) milestones above.
 
 Slides to consider (you may include others, as you see fit):
 * Project title slide that also includes all of the names of the team members.

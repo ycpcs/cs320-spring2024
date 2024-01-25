@@ -159,8 +159,7 @@ Instructors have full discretion to assign a sanction up to and including a grad
 Violations will be reported to the Associate Provost of Student Success as outlined in the policy.  You cannot withdraw from a class if you have been charged with an academic integrity violation.  
 If at any point you are unsure whether something is allowed under the academic integrity policy, please ask your instructor!
 
-Additional clarifications for CS320
------------------------------------
+> **Additional clarifications for CS320**
 
 **The following policy pertains to homework and graded (individual) programming assignments/labs in this course:**
 

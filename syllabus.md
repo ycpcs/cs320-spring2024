@@ -135,8 +135,7 @@ This year's exam will be a take home exam.  You will be allowed to use all of th
 
 Academic dishonesty will not be tolerated at York College. Academic dishonesty refers to actions such as, but not limited to, cheating, plagiarism, fabrication of research, falsification of academic documents, etc., and includes all situations where students make use of the work of others and claim such work as their own.
 
-York College of Pennsylvania’s Policy
--------------------------------------
+> **York College of Pennsylvania’s Policy**
 
 For the full policy, go to the Academic Standards section of the current Course Catalog (https://www.ycp.edu/about-us/offices-and-departments/registrar/catalogs/).
 

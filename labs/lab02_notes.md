@@ -14,13 +14,13 @@ If you are using an older version of the **JRE System Library**, you might need 
 
 In KEC 119 and KEC 123, the latest version of the **JRE System Library** is **1.8.0\_301**.  I recommend using the same version as installed on the lab PCs.
 
-* Create a folder on your YCP home drive **(H:)** or on your own PC **(C:)** named **cs320-spring2022**.
+* Create a folder on your YCP home drive **(H:)** or on your own PC **(C:)** named **cs320-spring2024**.
 
 * Set the **Default Workspace** for Eclipse to that location.
 
 * Download **CS320\_Jetty9.zip** and **CS320\_Lab02.zip**.
 
-* Open Eclipse, switch the **Workspace** to **H:/cs320-spring2022** (on a lab PC) or **C:/cs320-spring2022** (on your own PC).
+* Open Eclipse, switch the **Workspace** to **H:/cs320-spring2024** (on a lab PC) or **C:/cs320-spring2024** (on your own PC).
 
 * Import **CS320\_Jetty9.zip**.
 
@@ -93,4 +93,4 @@ There are some other issues that have been popping up with **CS320\_Lab02**.
 
 * When you start Eclipse on the lab PCs, Windows might warn you about running a program that was downloaded from the Internet.  You can ignore this and move on.
 
-* When you go to run **main()** in the **CS320\_Lab02** project, you mmight get a Windows Firewall warning.  You can hit **Cancel** and the lab will work.
+* When you go to run **main()** in the **CS320\_Lab02** project, you might get a Windows Firewall warning.  You can hit **Cancel** and the lab will work.

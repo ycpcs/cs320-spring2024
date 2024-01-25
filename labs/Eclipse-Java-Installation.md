@@ -7,7 +7,7 @@ title: "Installing Eclipse and Java for CS320"
 
 These instructions are for installing **Eclipse 2020-06** (which is installed on the PCs in KEC 119 and KEC 123).  The instructions will be similar for other versions of Eclipse - but there might be some slight differences.
 
-All of the labs have been reconfigured to use **JRE System Library[JavaSE-1.8]**, which is installed on the PC's in both KEC 119 and KEC 123.  The CS320 labs and example projects will all work with **jre/jdk1.8.0_\301**, which is the specific version of Java that is installed in KEC 119 and KEC 123, along with other earlier versions.  
+All of the labs have been reconfigured to use **JRE System Library[JavaSE-1.8]**, which is installed on the PC's in both KEC 119 and KEC 123.  The CS320 labs and example projects will all work with **jre/jdk1.8.0\_301**, which is the specific version of Java that is installed in KEC 119 and KEC 123, along with other earlier versions.  
 
 
 Installing Java
@@ -48,7 +48,7 @@ Installation is simply a matter of unzipping the download into a known location:
   
   2) After unzipping into your chosen folder, go to that folder, and double-click on the **eclipse application**
   
-  3) Select a Workspace location: create a folder called **c:/cs320-spring2022**, and then browse to it when prompted
+  3) Select a Workspace location: create a folder called **c:/cs320-spring2024**, and then browse to it when prompted
   
   4) Click the Workspace button in the upper right corner after eclipse starts, that will take you to the IDE.
   

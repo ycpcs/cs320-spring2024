@@ -24,7 +24,7 @@ CS 320 - Software Engineering and Design for Sections 101 and 102
 Course Description
 ------------------
 
-This course describes the software development process in detail, including the software life cycle and models of software development; requirements analysis and software design techniques, such as Textual Analysis and UML, within the Object-Oriented Programing (OOP) paradigm; techniques for software quality assurance, including design reviews, automated testing, metrics, and an introduction to program verification; and software project planning, organization, and management. Students will be expected to participate in a semester-long team-programming project, as well as select, design, and implement their own individual self-learning project.  Students will also gain exposure to using and interacting with ChatGPY 3.5 as a one-on-oen assistant and tutor.
+This course describes the software development process in detail, including the software life cycle and models of software development; requirements analysis and software design techniques, such as Textual Analysis and UML, within the Object-Oriented Programing (OOP) paradigm; techniques for software quality assurance, including design reviews, automated testing, metrics, and an introduction to program verification; and software project planning, organization, and management. Students will be expected to participate in a semester-long team-programming project, as well as select, design, and implement their own individual self-learning project.  Students will also gain exposure to using and interacting with ChatGPT 3.5 as a one-on-oen assistant and tutor.
 
 There is a possibility that during this course, classroom lectures may be recorded in accordance with York College of Pennsylvania policies for Student Accessibility Services.
 
@@ -44,9 +44,9 @@ Martin Fowler, [UML Distilled](http://www.informit.com/store/product.aspx?isbn=0
 Course Structure and Expectations
 ---------------------------------
 
-The overall goals of this course are to explore the issues surrounding "real world" software development, and to learn how to work effectively with the people involved in a software project.
+The overall goals of this course are to explore the issues surrounding "real world" software development, learn how to work effectively with the people involved in a software project, as well as develop self-learning skills.
 
-The course will heavily emphasize discussion and participation. As such, I expect you to attend class and participate fully in the in-class activities. Repeated absences or failure to participate will negatively affect your grade.
+The course will heavily emphasize discussion and participation. As such, you are expected to attend class and participate fully in the in-class activities. Repeated absences or failure to participate **will** negatively affect your grade.
 
 Throughout the semester, you will be working in a team to design and implement a substantial software system. This project will allow you to apply the concepts you are learning about in the readings and the in-class activities.
 
@@ -59,7 +59,7 @@ By the end of the course, you will be able to:
 -   Develop analysis and design models
 -   Critique analysis and design models to suggest possible improvements
 -   Use analysis/design models to guide implementation
--   Use analsysis/design models to create an agile development schedule through regular sprints
+-   Use analsysis/design models to create an agile development schedule using regular sprints
 -   Use version control to track software issues, changes, and develop a project in a team-based setting
 -   Assess and ensure software quality using unit tests, system tests, metrics, and static analysis
 -   Understand the software lifecycle
@@ -109,15 +109,15 @@ At a minimum, you attendance grade will be reduced by 1 percentage point for eve
 
 Reading assignments are posted on the [Schedule](schedule.html) page.
 
-Because we will be using class time for discussion and activities, as well as lectures, it is important that you do the reading ad the labs in order to be prepared for clas.
+Because we will be using class time for discussion and activities, as well as lectures, it is important that you do the reading and start the labs **before class** in order to be prepared **for class**.
 
 ### Posting and submission of assignments and labs
 
-Assignments and labs will be posted as zip files on the course web page, <http://ycpcs.github.io/cs320-spring2024/>.
+Code for assignments and labs will be posted as zip files on the course web page, <http://ycpcs.github.io/cs320-spring2024/>.
 
-Written assignments will be created and submitted via shared Google Docs.
+Written assignments will be created and submitted via Marmoset and/or shared Google Docs.
 
-Programming assignments and labs will be submitted using the server <https://cs.ycp.edu/marmoset/>. If you do not already have a Marmoset account, you will receive an email containing the username and password you should use for this server.  If you do have an existing Marmoset account, then use your current username and password to access Marmoset for CS320.
+Programming assignments and labs will be submitted using the YCP server at <https://cs.ycp.edu/marmoset/>. If you do not already have a Marmoset account, you will receive an email containing the username and password you should use for this server.  If you do have an existing Marmoset account, then use your current username and Marmoset password to access Marmoset for CS320.
 
 ### Late Assignment Policy
 
@@ -135,7 +135,8 @@ This year's exam will be a take home exam.  You will be allowed to use all of th
 
 Academic dishonesty will not be tolerated at York College. Academic dishonesty refers to actions such as, but not limited to, cheating, plagiarism, fabrication of research, falsification of academic documents, etc., and includes all situations where students make use of the work of others and claim such work as their own.
 
->	**York College of Pennsylvania’s Policy**
+York College of Pennsylvania’s Policy
+-------------------------------------
 
 For the full policy, go to the Academic Standards section of the current Course Catalog (https://www.ycp.edu/about-us/offices-and-departments/registrar/catalogs/).
 
@@ -159,17 +160,18 @@ Instructors have full discretion to assign a sanction up to and including a grad
 Violations will be reported to the Associate Provost of Student Success as outlined in the policy.  You cannot withdraw from a class if you have been charged with an academic integrity violation.  
 If at any point you are unsure whether something is allowed under the academic integrity policy, please ask your instructor!
 
->	**Additional clarifications for CS320**
+Additional clarifications for CS320
+-----------------------------------
 
 **The following policy pertains to homework and graded (individual) programming assignments/labs in this course:**
 
-> All homework assignments and graded (individual) programming assignments/labs are to be completed individually. I encourage you to discuss high level concepts and strategies with other students, but any work you submit **must be yours alone**.
->
-> Because the **INDIVIDUAL** assignments/labs are essential for working towards and demonstrating the achievement of the course outcomes, you must solve them on your own.  You may discuss the problem and high-level (pseudo-code) approaches to solving the problem with other students.  You may *not*, under any circumstances, discuss or share concrete implementation techniques or code.  Examples of forbidden types of collaboration include, but are not limited to: looking at another student's code, allowing another student to see your code, viewing and/or using code from an external source such as a web page, discussing the use of specific API functions to solve a problem, giving or receiving help debugging specific code.
->
-> Direct copying of code or other work from other students, web sites, or other sources **is absolutely forbidden under any circumstances**.
->
-> Any sources (books, websites, articles, fellow students, ChatGPT, etc.) that you consult in completing an assignment **must be properly acknowledged**. In general, I strongly discourage you from using any resource not explicitly listed in the course syllabus or on the course web page. When you work on a programming assignment, it must be **your** program, not your adaptation of someone else's program.
+All homework assignments and graded (individual) programming assignments/labs are to be completed individually. I encourage you to discuss high level concepts and strategies with other students, but any work you submit **must be yours alone**.
+
+Because the **INDIVIDUAL** assignments/labs are essential for working towards and demonstrating the achievement of the course outcomes, you must solve them on your own.  You may discuss the problem and high-level (pseudo-code) approaches to solving the problem with other students.  You may *not*, under any circumstances, discuss or share concrete implementation techniques or code.  Examples of forbidden types of collaboration include, but are not limited to: looking at another student's code, allowing another student to see your code, viewing and/or using code from an external source such as a web page, discussing the use of specific API functions to solve a problem, giving or receiving help debugging specific code.
+
+Direct copying of code or other work from other students, web sites, or other sources **is absolutely forbidden under any circumstances**.
+
+Any sources (books, websites, articles, fellow students, ChatGPT, etc.) that you consult in completing an assignment **must be properly acknowledged**. In general, I strongly discourage you from using any resource not explicitly listed in the course syllabus or on the course web page. When you work on a programming assignment, it must be **your** program, not your adaptation of someone else's program.
 
 With regard to using **ChatGPT** - athough we will be using ChatGPT extensively in class, with the exception of the ChatGPT and HTML/CSS labs, you are **strictly prohibited** from using ChatGPT (or any other AI code assistant) for **any of the other individual labs**.  I may modify that policy as the semester progresses, but it is still imperative that you learn how to read code that is not your own, modify and extend that code, and learn how to troubleshoot your own mistakes.  **If I suspect that a student has used ChatGPT to assist in their individual labs, I reserve the right to ask then to explain to me (and perhaps the class) how their code works, and how they arrived at their solution.**
 

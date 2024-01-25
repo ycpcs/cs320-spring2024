@@ -17,9 +17,12 @@ This is the website for Professor Hake's sections of CS 320, Spring 2024 at York
 
 Please contact him at <dzeller@ycp.edu> for details about his section of CS320, as Professor Hake and Professor Zeller will be taking different approaches for teaching CS320 this coming semester.
 
+<!-- Commenting out until it's needed next year
+
 # WEBSITE UNDER CONSTRUCTION.
 
-As such, some of the links below could return 404 Page Not Found Errors.  Professor Hake will be developing the course website over Semester Break.  If you would like to see what the organization and content of a previous CS320 class looked like (and what you are getting yourself into), go to [CS320-Spring2022](https://ycpcs.github.io/cs320-spring2022).  The Spring 2024 CS320 course will be somewhat different, but will contain all of the content, labs, assignments, projects, and expected outcomes from the Spring 2022 course.
+As such, some of the links below could return 404 Page Not Found Errors.  Professor Hake will be developing the course website over Semester Break.  If you would like to see what the organization and content of a previous CS320 class looked like (and what you are getting yourself into), go to [CS320-Spring2024](https://ycpcs.github.io/cs320-spring2024).  The Spring 2025 CS320 course will be somewhat different, but will contain all of the content, labs, assignments, projects, and expected outcomes from the Spring 2024 course.
+-->
 
 ## Links
 
@@ -95,14 +98,18 @@ As such, some of the links below could return 404 Page Not Found Errors.  Profes
 
 * **Feb 1** - [Lab03: Git and eGit Lab PartI](labs/lab03.html) is posted, and is **due by the start of class, Friday, 2-4-22**.  You are required to establish your GitHub account, create the SSH key pair to access it, and Fork the example project (do all steps through Step 4: Fork).  You may certainly do more than this - we will be getting to Part II of this lab next week. 
 
-* **Jan 27** - [Assignment 4](assign/assign04.html) describes the expectations for the individual project milestones. 
-* **Jan 27** - [Assignment 3](assign/assign03.html) describes the expectations for the team project milestones. 
-* **Jan 27** - [Assign02: Individual Project Proposal](assign/assign02.html) is posted and is **due by 7:00am, Sunday, 2-6-22**. 
-* **Jan 27** - [Class Rosters](teams-and-rosters/index.html) are posted - choose your teams. 
-* **Jan 27** - Please see the **Projects** page for [Some Possible Team Projects](projects/index.html). 
-* **Jan 27** - [Lab01: HTML and CSS](labs/lab01.html) is posted and is **due by 7:00am, Thursday, 2-3-22**. 
-
 -->
+
+* **Jan 26** - [Assignment 4](assign/assign04.html) describes the expectations for the individual project milestones. 
+* **Jan 26** - [Assignment 3](assign/assign03.html) describes the expectations for the team project milestones.
+* **Jan 26** - Please see the **Projects** page for [Some Possible Team Projects](projects/index.html).
+* **Jan 26** - The class rosters were included in the CS320 introductory email.  You should start to consider choosing your project teams.
+
+* **Jan 26** - [Assign02: Individual Project Proposal](assign/assign02.html) is posted and is **due by Noon, Saturday, 2-10-24**. 
+
+* **Jan 26** - [Lab01: HTML/CSS Resume](labs/lab01.html) is posted and is **due by Noon, Sunday, 2-4-24**.
+* **Jan 26** - [Lab00: Using ChatGPT](labs]lab00.htm,) is posted and is **due before class, Wednesday, 1-31-24** 
+* **Jan 26** - Please verify that you can into your Marmoset account.  We will be using Marmoset for several submissions.  If you forgot your password, please email me and I will generate a new one for you.
 
 * **Jan 26** - Welcome back to KEC and the most **FUN** you've ever had in a CS course.
 

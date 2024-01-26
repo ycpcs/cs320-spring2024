@@ -109,7 +109,7 @@ As such, some of the links below could return 404 Page Not Found Errors.  Profes
 * **Jan 26** - [Lab01: HTML/CSS Resume](labs/lab01.html) is posted and is **due by Noon, Sunday, 2-4-24**.
 * **Jan 26** - [Lab00: Using ChatGPT](labs/lab00.html) is posted and is **due before class, Wednesday, 1-31-24**.
 
-* **Jan 26** - [CS320 Preparation Exam](./CS320-Sp24-Prep-Exam.txt) is **due before class, Monday, 1-29-24**.  Download/print/copy the document and follow the instructions in the document.  Fill in your answers directly on the "exam" document and submit to the CS320 Preparation Exam project under CS320, Spring 2024 on Marmoset.
+* **Jan 26** - [CS320 Preparation Exam](./CS320-Sp24-Prep-Exam.txt) is **due before class, Monday, 1-29-24**.  Download/copy the "exam" document and follow the instructions in the document.  Fill your answers in directly on the document and submit to the CS320 Preparation Exam project under CS320, Spring 2024 on Marmoset.
 
 * **Jan 26** - Please verify that you can access your Marmoset account for CS320-Sp24.  We will be using Marmoset for several submissions.  If you forgot your password, please email me and I will generate a new one for you.
 

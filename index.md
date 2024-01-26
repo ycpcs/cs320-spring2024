@@ -104,6 +104,7 @@ As such, some of the links below could return 404 Page Not Found Errors.  Profes
 * **Jan 26** - [Assignment 3](assign/assign03.html) describes the expectations for the team project milestones.
 * **Jan 26** - Please see the **Projects** page for [Some Possible Team Projects](projects/index.html).
 * **Jan 26** - The class rosters were included in the CS320 introductory email.  You should start to consider choosing your project teams.
+* **Jan 26** - [Assign01: Team Project Proposal](assign/assign01.html) is posted and is **due by Noon, Sunday, 2-11-24**. 
 * **Jan 26** - [Assign02: Individual Project Proposal](assign/assign02.html) is posted and is **due by Noon, Saturday, 2-10-24**. 
 * **Jan 26** - [Lab01: HTML/CSS Resume](labs/lab01.html) is posted and is **due by Noon, Sunday, 2-4-24**.
 * **Jan 26** - [Lab00: Using ChatGPT](labs/lab00.html) is posted and is **due before class, Wednesday, 1-31-24**.

@@ -8,18 +8,19 @@ CS320 is a VERY fast-paced course and assumes that you have gained (and retained
 
 This "exam" is meant to inform me (and you) about your preparedness for CS320. I will review all of your answers, but this exercise does NOT factor into you course grade.  However, I will use the results to possibly recommend which team project(s) you should (or should not) consider tackling.  I do not expect that you will be able to answer all of the questions - this exercise is intentionally HARD.
 
-Also, you will be applying for, interviewing for, and going out on your first co-ops and internships this coming Summer.  As part of that interiew process, it is normal for the interviewer(s) to ask problem-solving and programming questions such as the ones that are in this "exam"
+Also, most of you will be applying for, interviewing for, and going out on your first co-ops and internships this coming Summer.  As part of that interview process, it is normal for the interviewer(s) to ask problem-solving and programming questions such as the ones that are in this "exam".  Being able to answer these types of questions - even just describing your thinking process so that the interviewers can observe how you tackle problems - is an integral part of success in an interview.
 
-Spend as much, or as little, time as you want on each question, but do NOT leave any answers blank.  If you cannot supply an actual answer, you must supply one of the following responses:
-   a) You did not have to implement this kind of problem in CS201
-   b) You did not feel like investing time into the problem
+Spend as much (or as little) time as you want on each question (and on the entire exam - it does NOT count toward your course grade), but do NOT leave any answers blank.  If you cannot supply an actual answer, you must copy and paste one of the following responses into the answer:
+
+   a) You never had to implement this type of problem in CS201
+   b) You did not feel like investing time in the problem
    c) You did not understand the question
    d) You did not know how to start the problem
    e) You attempted the problem, but could not make significant progress on it
 
 I want to obtain an accurate assessment of your current capabilities.  Please do NOT consult ChatGPT, or any other coding or web resources, outside of those that were available to you when you took CS201.  Work on the problems by yourself - do NOT consult with anyone else.  Please do NOT try to impress me - just give me your honest effort.
 
-I also want to assess your ability to deal with ambiguity, so I will not be answering any questions concerning this exercise.  Please do not email questions concerning this exercise to me.  Just do the best that you can, with whatever understanding of the question you have.
+I also want to assess your ability to deal with ambiguity, so I will not be answering any questions concerning this exercise.  Please do not email questions concerning this exercise to me.  Just do the best that you can, with whatever understanding of the questions you have.
 
 BTW - The questions related to chess are actually problems that you will need to solve in order to design and implement the chess team project - which will be the "easiest" of the team projects, and the one for which I will be providing the most guidance and support.
 
@@ -135,6 +136,11 @@ ANSWER:
 ANSWER:
 
 
-20) Is this a fair exam?
+20) How much time did you spend on this "exam"?
+
+ANSWER:
+
+
+21) Is this a fair "exam"?
 
 ANSWER:

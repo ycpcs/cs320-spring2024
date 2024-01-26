@@ -8,6 +8,8 @@ CS320 is a VERY fast-paced course and assumes that you have gained (and retained
 
 This "exam" is meant to inform me (and you) about your preparedness for CS320. I will review all of your answers, but this exercise does NOT factor into you course grade.  However, I will use the results to possibly recommend which team project(s) you should (or should not) consider tackling.  I do not expect that you will be able to answer all of the questions - this exercise is intentionally HARD.
 
+Also, you will be applying for, interviewing for, and going out on your first co-ops and internships this coming Summer.  As part of that interiew process, it is normal for the interviewer(s) to ask problem-solving and programming questions such as the ones that are in this "exam"
+
 Spend as much, or as little, time as you want on each question, but do NOT leave any answers blank.  If you cannot supply an actual answer, you must supply one of the following responses:
    a) You did not have to implement this kind of problem in CS201
    b) You did not feel like investing time into the problem
@@ -25,25 +27,44 @@ Please type you answers after each of the following questions.  For the problems
 
 *********************************************************************
 	
-1)	How many different ways are there to win in Tic Tac Toe?
+1) How many different ways are there to win in Tic Tac Toe?
+	
+ANSWER:
 
 	
-2)	Provide the code to check for a winner in a Tic Tac Toe program.
+2) Provide the code to check for a winner in a Tic Tac Toe program.
+
+ANSWER: 
+
+
+3) Describe a method for determining the winner of Tic Tac Toe WITHOUT testing any of the individual values in the Tic Tac Toe grid locations
+
+ANSWER:
 
 	
-3)	Describe an efficient way to check for a Draw in Tic Tac Toe?
+4) Describe an efficient way to check for a Draw in Tic Tac Toe?
+
+ANSWER:
 
 	
-4)	Given that the frame size is 300 x 300 pixels, evenly divided into a 3 x 3 grid of 100 x 100 pixel squares, describe how you would translate the mouse (X,Y) pixel coordinates (0-299) into Tic Tac Toe (Row, Column) grid locations (0-2).
+5) Given that the frame size is 300 x 300 pixels, evenly divided into a 3 x 3 grid of 100 x 100 pixel squares, describe how you would translate the mouse (X,Y) pixel coordinates (0-299) into Tic Tac Toe (Row, Column) grid locations (0-2).
+
+ANSWER:
 
 	
-5)	How would you do the above WITHOUT using any logic - using just a direct mathematical calculation, instead?
+6) How would you do the above WITHOUT using any logic - using just a direct mathematical calculation, instead?
+
+ANSWER:
 
 	
-6)	How would you efficiently scale that method to a 400 x 400 pixel grid for chess, evenly divided into an 8 x 8 grid of 50 x 50 pixel squares, so that you could determine which sqaure the mouse was clicked on?
+7) How would you efficiently scale that method to a 400 x 400 pixel grid for chess, evenly divided into an 8 x 8 grid of 50 x 50 pixel squares, so that you could determine which sqaure the mouse was clicked on?
+
+ANSWER:
 
 	
-7)	Describe how MVC works - what are the constraints that MVC imposes on various classes of an MVC application?
+8) Describe how MVC works - what are the responsibilities and constraints that MVC imposes on the various classes of an MVC application?
+
+ANSWER:
 
 
 *********************************************	
@@ -59,33 +80,61 @@ If a pawn reaches the opponent's end row of the board, the player can turn it in
 *********************************************
 
 
-8)	Create (write the code for) an abstract Piece class that can capture all of the above information.  Include all necessary methods to enforce encapsulation.  Also provide an abstract method called isValidMove() that can be implemented by the concrete Pieces to validate that Piece's move.  Make sure to define the parameters that isValidMove() needs in order to do its job.
+9) Create (write the code for) an abstract Piece class that can capture all of the above information.  Include all necessary methods to enforce encapsulation.  Also provide an abstract method called isValidMove() that can be implemented by the concrete Pieces to validate that Piece's move.  Make sure to define the parameters that isValidMove() needs in order to do its job.
+
+ANSWER:
 
 	
-9)	What does the Piece constructor look like?  What parameters does the Piece constructor need to have?
+10) What does the Piece constructor look like?  What parameters does the Piece constructor need to have?
+
+ANSWER:
 
 	
-10)	What information do you need to pass to the isValidMove() method?  What data type does the isValidMove() method return?  Do not write the logic for the isValidMove() method.
+11) What information do you need to pass to the isValidMove() method?  What data type does the isValidMove() method return?  Do not write the logic for the isValidMove() method.
+
+ANSWER:
 
 	
-11)	Describe how you would use the abstract Piece class to create the 6 different concrete Piece types.
+12) Describe how you would use the abstract Piece class to create the 6 different concrete Piece types.
+
+ANSWER:
 
 	
-12)	Describe how you would determine if a Piece can make a valid move from its current location to a specific board location.
+13) Describe how you would determine if a Piece can make a valid move from its current location to a specific board location.
 
-13)	Create (write the code for) the concrete King class from the Abstract Piece class.  Don't worry abourt providing the implementation of the abstract isValidMove() method.   And, then instantiate the White and Black Kings and put them in an ArrayList of Pieces.
-
-	
-14)	The King can move one square in any direction - but only if that move does not place the King in check (if the King could be captured by any of the opponent's Pieces on the opponent's next move).  Given an ArrayList of uncaptured opponent's Pieces, describe how you would use polymorphism in determining whether or not a King is in check.
+ANSWER:
 
 
-15)	Now provide the code to run through that ArrayList to determine whether the King is in check.
+14) Create (write the code for) the concrete King class from the Abstract Piece class.  Don't worry abourt providing the implementation of the abstract isValidMove() method.   And, then instantiate the White and Black Kings and put them in an ArrayList of Pieces.
 
-	
-16)	Describe two different ways that you could sort an ArrayList of uncaptured Pieces by color and then by rank in descending order using the Java Collections Sort() method.
+ANSWER:
 
 	
-17)	Describe how you would test the isValidMove() method for a Piece.
+15) A King can move one square in any direction - but only if that move does not place the King in check (if the King could be captured by any of the opponent's Pieces on the opponent's next move).  Given an ArrayList of uncaptured opponent's Pieces, describe how you would use polymorphism in determining whether or not a King is in check.
+
+ANSWER:
+
+
+16) Now provide the code to run through that ArrayList to determine whether the King is in check.
+	
+ANSWER:
 
 	
-18)	Assume that the state of a chess game is stored in a file when the game is paused, and that the game is resumed later by reading that file and recreating the Pieces and their locations from that file.  What Exceptions do you need to check for when reading the file?
+17) Describe how you would test the isValidMove() method for the King.	
+
+ANSWER:
+
+	
+18) Describe two different ways that you could sort an ArrayList of uncaptured Pieces by color and then by rank in descending order using the Java Collections Sort() method.
+
+ANSWER:
+	
+	
+19) Assume that the state of a chess game is stored in a file when the game is paused, and that the game is resumed later by reading that file and recreating the Pieces and their locations from that file.  What Exceptions do you need to check for when reading the file?
+
+ANSWER:
+
+
+20) Is this a fair exam?
+
+ANSWER:

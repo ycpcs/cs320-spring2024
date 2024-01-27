@@ -18,7 +18,7 @@ Spend as much (or as little) time as you want on each question (and on the entir
    d) You did not know how to start the problem
    e) You attempted the problem, but could not make significant progress on it
 
-I want to obtain an accurate assessment of your current capabilities.  Please do NOT consult ChatGPT, or any other coding or web resources, outside of those that were available to you when you took CS201.  Work on the problems by yourself - do NOT consult with anyone else.  Please do NOT try to impress me - just give me your honest effort.
+I want to obtain an accurate assessment of your current capabilities.  Please do NOT consult ChatGPT, or any other coding or web resources, outside of those that were available to you when you took CS201.  Work on the problems by yourself - do NOT consult with anyone else.  Please do NOT try to impress me - just give me your honest effort.  I want to find out what you know and can do, not what ChatGPT (or your friends/classmates) know and can do...  :-)
 
 I also want to assess your ability to deal with ambiguity, so I will not be answering any questions concerning this exercise.  Please do not email questions concerning this exercise to me.  Just do the best that you can, with whatever understanding of the questions you have.
 
@@ -28,7 +28,7 @@ Please type you answers after each of the following questions.  For the problems
 
 *********************************************************************
 	
-1) How many different ways are there to win in Tic Tac Toe?
+1) How many different ways are there to win in Tic Tac Toe?  List them.
 	
 ANSWER:
 

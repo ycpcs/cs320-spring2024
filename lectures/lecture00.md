@@ -10,21 +10,27 @@ What is this course really about?
 
 SW Engineering is about how to take a "word problem" (client proposal) and turn it into a working, deliverable application that meets the clients expectations, wants, and needs (those are different things, which we will discuss later in the course)
 
-My approach to SW Engineering (CS320) is as a "dry run" before your first internship or co-op, at least for the majority of you who have not yet been out in industry.
+My approach to SW Engineering (in CS320) is as a "dry run" before your first internship or co-op, at least for the majority of you who have not yet been out in industry.
    
-As such, throughout this course, I want you to experience what it **feels like** to be in industry - to be in your career.  You will learn (and feel) that by doing - ALOT OF DOING...!!!!  :-)
+As such, throughout this course, I want you to experience what it **feels like** to be a Project Engineer in industry - to be in your career.  You will learn (and feel) that by doing - **A LOT OF DOING...!!!!  :-)**
 
-Employers expect the following from their engineers:
-   > They can solve problems (they enjoy solving the problems that are handed to them)
-   > They can troubleshoot their way out of the problems they create for themselves, as well as the problems that other people create/encounter
-   > They can work cooperatively in a team setting
-   > Most importantly - they can learn for themselves
+Employers expect that their engineers can do all of the following:
+
+   > Solve problems (they enjoy solving the problems that are handed to them).
    
-You will be learning all of that by doing all of that this semester by researching, designing, and implementing two major projects during the semester.
+   > Troubleshoot (their way out of the problems they create, as well as the problems that other people create/encounter).
+   
+   > Work cooperatively in a team setting.
+   
+   > Work independently (no hand-holding)
+   
+   > Learn for themselves (probably the most important aspect).
+   
+You will be learning all of that by doing all of that this semester while researching, designing, and implementing the following two major projects during the semester.
 
 Individual Project
 ==================
-An individual project of your own choosing - choose something that you want to be able to do, that you don't already know how to do, do it, prove it (assignments 2, 4, 9).  The individual project will run for 10 weeks - starting now.
+An individual project of your own choosing - choose something that you want to be able to do, that you don't already know how to do, do it, and prove it.  The individual project will run for 10 weeks - starting now  (assignments 2, 4, 9).
  
 Why are we going to do that?
  
@@ -37,7 +43,7 @@ Learning how to learn for yourself is quite empowering.  You can solve any probl
 Team Project
 ============
    
-A semester long team project that you will choose from a list of projects that I have posted on the website (assignments 1, 3, 8).  The team project runs the entire semester - starting now.  Your final presentations will be during finals week.  Your team project MUST use a client-server architecture.  It must have a web front-end that connects to a server back-end.  The web front-end is the user interface (UI), the back-end does the processing, stores and retrieves the data in a SQL database, and serves up the web pages.  At a minimum, you will be using Eclipse, Java, HTML/CSS, and SQL for your project.  You will probably use javaScript, and more than that.
+A semester long team project that you will choose from a list of projects that I have posted on the website (assignments 1, 3, 8).  The team project runs the entire semester - starting now.  Your final presentations will be during finals week.  Your team project **MUST** use a client-server architecture.  It **MUST** have a web front-end that connects to a server back-end.  The web front-end is the user interface (UI), the back-end does the processing, stores and retrieves the data in a SQL database, and serves up the web pages.  At a minimum, you will be using Eclipse, Java, HTML/CSS, and SQL for your project.  You will probably use javaScript, and more than that.
 
 Why are we going to do this?
    

@@ -34,11 +34,11 @@ An individual project of your own choosing - choose something that you want to b
  
 Why are we going to do that?
  
-> Self-Learning: Your individual project will be all about self-learning.  You pick your "poison", you drink it, and then you have 10 weeks to find the "antidote".  All on your own - well, "on your own" in the sense that you will receive no explicit instruction from me on your individual project.  I will, at times, provide high level guidance.  You have the entire Internet (and anybody on the planet) at your disposal - and you may also use ChatGPT.  In fact, I highly recommend it.  You propose your project, then you figure it out.
+**Self-Learning:** Your individual project will be all about self-learning.  You pick your "poison", you drink it, and then you have 10 weeks to find the "antidote".  All on your own - well, "on your own" in the sense that you will receive no explicit instruction from me on your individual project.  I will, at times, provide high level guidance.  You have the entire Internet (and anybody on the planet) at your disposal - and you may also use ChatGPT.  In fact, I highly recommend it.  You propose your project, then you figure it out.
 
 Learning how to learn for yourself is quite empowering.  You can solve any problem, even if you have received no instruction in the knowledge domains in which that problem resides.
 
-> You can also use the individual project to explore an area that you want to eventually work in and/or prepare you for different aspects of you team project.  For instance, you can learn JavaScript - which we will not be covering in this course, but which most of you will end up using for your team project.
+**Self-Interest:** You can also use the individual project to explore an area that you want to eventually work in and/or prepare you for different aspects of you team project.  For instance, you can learn JavaScript - which we will not be covering in this course, but which most of you will end up using for your team project.
 
 Team Project
 ============

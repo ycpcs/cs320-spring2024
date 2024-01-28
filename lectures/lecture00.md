@@ -3,7 +3,7 @@ layout: default
 title: Course and Project Introductions
 ---
 
-All the Different Ways that I'm Going to Torture You
+All the Different Ways I'm Going to Torture You
 ====================================================
 
 What is this course really about?

@@ -64,4 +64,4 @@ This is the distinction between *design* and *implementation*:
 
 > Implementation is taking the desired behavior and figuring out HOW the behavior should be accomplished
 
-This course focuses on both the design (the WHAT), and the implementation (the HOW). You will be learning the WHAT while also learning HOW to do the HOW!
+This course focuses on both the design (the WHAT), and the implementation (the HOW). You will be learning WHAT the WHAT is while also learning HOW to do the HOW!

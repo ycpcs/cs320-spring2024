@@ -72,4 +72,4 @@ In terms of exacts, here are some common teaching practices that will help limit
 
 Ultimately, your teammates (in this course, and in the Capstone courses to come in your senior year) and your employers will hold you accountable for having learned the skills as well as completing the tasks. 
 
-Let's look at the [ChatGPT lab]](../labs/lab00.html).
+Let's look at the [ChatGPT lab](../labs/lab00.html).

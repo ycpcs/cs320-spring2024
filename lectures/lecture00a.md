@@ -16,15 +16,15 @@ As such, throughout this course, I want you to experience what it **feels like**
 
 Employers expect that their engineers can do all of the following:
 
-   > Solve problems (they enjoy solving the problems that are handed to them).
+- Solve problems (they enjoy solving the problems that are handed to them).
    
-   > Troubleshoot (their way out of the problems they create, as well as the problems that other people create/encounter).
+- Troubleshoot (their way out of the problems they create, as well as the problems that other people create/encounter).
    
-   > Work cooperatively in a team setting.
+- Work independently (no hand-holding)
    
-   > Work independently (no hand-holding)
+- Work cooperatively in a team setting.
    
-   > Learn for themselves (probably the most important aspect).
+- Learn for themselves (probably the most important aspect).
    
 You will be learning all of that **by doing all of that** this semester while researching, designing, and implementing the following two major projects.
 

@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "Assignment 1: Project Proposal"
+title: "Assignment 1: Team Project Proposal"
 ---
 
 **Due: [See Assignment Schedule](index.html)**
 
 This is a **Team** assignment.
 
-Project Proposal
-================
+Team Project Proposal
+=====================
 
 Your main task this semester is to complete a semester-long team software project. Your task in this assignment is to form your team and decide what your project will be.
 

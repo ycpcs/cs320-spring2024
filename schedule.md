@@ -13,9 +13,9 @@ This is the schedule for the course.  It may be updated from time to time.  Upda
 Day/Date        | Topic/Activity               | Reading/Lab
 ----------------| ---------------------------- | ----------------------------
 Fri, Jan 26   | Course Overview <br> **Prep Exam Assigned** | [Lecture 0: Course Overview](lectures/lecture00.html)
-Mon, Jan 29   | Course Overview and Introduction <br> Object Oriented Programming and ChatGPT<br> **Prep Exam Due (Marmoset)** | [Lecture 0: Course Overview](lectures/lecture00.html)<br>[Lecture 1: OOP and ChatGPT](lectures/lecture01.html)<br>[Lab 0: Using ChatGPT](./labs/lab00.html)
-Wed, Jan 31   | HTML (content) & CSS (style) using ChatGPT <br> HTML/CSS Resume Lab Assigned | [Lecture 2: HTML and CSS](lectures/lecture02.html)<br> [Lab 1: HTML and CSS Lab](./labs/lab01.html)
-Fri, Feb 2    | Version Control (Git) | [Lecture 12: Git for Designers](https://web.archive.org/web/20150301060509/http://hoth.entp.com/output/git_for_designers.html)<br>  [Lab 3: Git Lab Part I](./labs/lab03.html)
+Mon, Jan 29   | Course Overview and Introduction <br> Lab0: ChatGPT Lab assignes <br> **Prep Exam Due (Marmoset)** | [Lecture 0: Course Overview](lectures/lecture00.html) <br> [Lab 0: Using ChatGPT](./labs/lab00.html) <br>
+Wed, Jan 31   | Object Oriented Programming and ChatGPT <br> HTML (content) & CSS (style) using ChatGPT <br> HTML/CSS Resume Lab Assigned | [Lecture 1: OOP and ChatGPT](lectures/lecture01.html)<br> [Lecture 2: HTML and CSS](lectures/lecture02.html)<br> [Lab 1: HTML and CSS Lab](./labs/lab01.html)
+Fri, Feb 2    | Project Introductions<br>Version Control (Git) | <br> [Lecture 12: Git for Designers](https://web.archive.org/web/20150301060509/http://hoth.entp.com/output/git_for_designers.html)<br>  [Lab 3: Git Lab Part I](./labs/lab03.html)
 Mon, Feb 5    | Introduction to Web Applications <br> Lab 2 Assigned | [Lecture 4: Web Applications](lectures/lecture04.html) <br>  [Lab 2: Web Applications I](./labs/lab02.html)
 Wed, Feb 7    | Web Applications I <br> Lab 2a Assigned | [Lab 2a: Web Applications II](./labs/lab02a.html)
 Fri, Feb 9    | Web Applications II <br> Web Applications Lab Review |

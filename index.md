@@ -100,6 +100,8 @@ As such, some of the links below could return 404 Page Not Found Errors.  Profes
 
 -->
 
+* **Jan 30** - [Lab00: Using ChatGPT](labs/lab00.html) is now **due in Marmoset by 7:00am, Friday, 2-2-24**.
+
 * **Jan 26** - [Assignment 4](assign/assign04.html) describes the expectations for the individual project milestones. 
 * **Jan 26** - [Assignment 3](assign/assign03.html) describes the expectations for the team project milestones.
 * **Jan 26** - Please see the **Projects** page for [Some Possible Team Projects](projects/index.html).
@@ -107,7 +109,7 @@ As such, some of the links below could return 404 Page Not Found Errors.  Profes
 * **Jan 26** - [Assign01: Team Project Proposal](assign/assign01.html) is posted and is **due by Noon, Sunday, 2-11-24**. 
 * **Jan 26** - [Assign02: Individual Project Proposal](assign/assign02.html) is posted and is **due by Noon, Saturday, 2-10-24**. 
 * **Jan 26** - [Lab01: HTML/CSS Resume](labs/lab01.html) is posted and is **due by Noon, Sunday, 2-4-24**.
-* **Jan 26** - [Lab00: Using ChatGPT](labs/lab00.html) is posted and is **due before class, Wednesday, 1-31-24**.
+
 
 * **Jan 26** - [CS320 Preparation Exam](./CS320-Sp24-Prep-Exam.txt) is **due before class, Monday, 1-29-24**.  Download/copy the "exam" document and follow the instructions in the document.  Fill your answers directly into the document and submit it to the CS320 Preparation Exam project under CS320, Spring 2024 on Marmoset.
 

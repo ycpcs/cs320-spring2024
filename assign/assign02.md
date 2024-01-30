@@ -25,14 +25,14 @@ for you.
 
 Some possible examples:
 
-* Learn a new programming environment and language, e.g. C#, .NET, and MS Visual Studio; Android and IntelliJ; Python, PyCharm, 
-and PyGame
+* Learn a new programming environment and language, e.g. C#, .NET, and MS Visual Studio and SQL Server; Android and IntelliJ; iOS and Swift; Python, PyCharm, and PyGame; React for cross-platfom development
 * Learn about JavaScript (JS) for developing rich, interactive web client interfaces, developing a web application in JS.  There are many forms of JS from which to choose (node.js, vuew.js, angular.js, etc...).
-* Try developing your own website using Grails or Ruby on Rails or some other modern web development platform.
+* Contact the **RevMetrix Team** and learn how to develop in the languages, platforms, and tools they are using for the [RevMetrix Project](https://docs.revmetrix.io).  This would prepare you to work on that project when you reach your Capstone courses (Capstone I (CS/ECE400) and Capstone II (CS/ECE402), since the RevMetrix Project will still be in development  for the next several years.
 * Learn how to create your own fact-based Expert System by implementing an expert system in the [CLIPS language developed by NASA](https://www.clipsrules.net).  And there is a [CLIPS tutorial book](https://www.clipsrules.net/airbp) written by the creator of CLIPS (Gary Riley) with associated example and tutorial code available.  I happen to work with the CLIPS language for the BDXpert system that we use at Becton Dickinson.
 * Learn about machine learning by designing, training, and testing a neural network.  Look into TensorFlow, PyTorch, or MATLAB using the Neural Network ToolBox
 * Learn about programming embedded systems and hardware interfacing, e.g., AVR, Arduino, and then use it in a hardware project (a data logger, simple robot, etc.)
-* Contact the **RevMetrix Team** and learn how to develop in the languages, platforms, and tools they are using for the [RevMetrix Project](https://docs.revmetrix.io).  This would prepare you to work on that project when you reach your Capstone courses (Capstone I (CS/ECE400) and Capstone II (CS/ECE402), since the RevMetrix Project will still be in development  for the next several years.
+* Try developing in the Unity or Unreal Engine graphics platforms
+* Try developing your own website using Grails or Ruby on Rails or some other modern web development platform.
 * Learn how to create, deploy, and host a website through Digital Ocean or Amazon Web Services (AWS)
 * If you already know where you will have your internship or co-op, contact your manager and find out how you might use this assignment to prepare for your position with that company
 * You may also use this assignment to leverage new skills, tools, and technologies that **are not already** part of your team project

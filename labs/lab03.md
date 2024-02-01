@@ -38,7 +38,7 @@ Here are GitHub's instructions for creating an SSH keypair to use with you GitHu
 KEC Lab Computer
 -------------------
 
-**If you working from a KEC lab computer**, execute the following commands in a Windows 10/11 Command Window (enter "cmd" in the Windows search bar) or from Cygwin (Windows 7/10/11) or from a Linux terminal window.  Those instructions will take you to your **York College home (H:) drive**, and then will list the contents of the **.ssh** directory (if it already exists):
+**If you are working from a KEC lab computer**, execute the following commands in a Windows 10/11 Command Window (enter "cmd" in the Windows search bar) or from Cygwin (Windows 7/10/11) or from a Linux terminal window.  Those instructions will take you to your **York College home (H:) drive**, and then will list the contents of the **.ssh** directory (if it already exists):
 
 	cd h:
     ls .ssh
@@ -51,7 +51,7 @@ Then execute the following command to generate the SSH key pair:
 
     ssh-keygen -t rsa -b 4096
     
-You will want to save your SSH keys to your **YCP Home Drive (H:)**.  When prompted to enter the file in which to save the key, enter the following path and file name for the SSH key, otherwise the key will be stored at **C:/Users/your-YCP-username/.ssh** on the KEC lab computer you are working on and will **NOT** be available to you on other lab computers.  The path shown in parentheses is the default location - do **NOT** use the default location.  The second URL path is where you want to store the SSH keys, **on your H: drive.
+You will want to save your SSH keypair to your **YCP Home Drive (H:)**.  When prompted to enter the file in which to save the keypair, enter the following path and file name for the SSH keypair, otherwise the keypair will be stored at **C:/Users/your-YCP-username/.ssh** on the KEC lab computer you are working on and will **NOT** be available to you when you work on other lab computers.  The path shown in parentheses is the default location - do **NOT** use the default location.  The second URL path is where you want to store the SSH keypair, **on your H: drive.
 
 Windows 10/11:
 
@@ -65,12 +65,12 @@ Windows Cygwin:
 	
 When prompted for a passphrase, just press enter (twice).
 
-Now execute this command (which tells Eclipse where to find the SSH key):
-
-    set Eclipse SSH2 home to H:\.ssh
-    
 That will store your SSH keys in the **.ssh** directory on your York College home drive **(H:/.ssh)**.
 
+Now execute the following ccommand (which tells the Eclipse IDE where to find the SSH keypair):
+
+    set Eclipse SSH2 home to H:/.ssh
+    
 Now skip to Step 2.
 
 - Your Own Computer
@@ -89,27 +89,25 @@ Then execute the following command to generate the SSH key pair:
 
     ssh-keygen -t rsa -b 4096
     
-You will most likely want to save your SSH keys to your **C: drive (C:)**.  When prompted to enter the file in which to save the key, enter the following path and file name for the SSH key, otherwise the key will be stored at **C:/Users/your-Windows-username/.ssh** on your computer.  That's fine, if that's where you want to store it.  The path shown in parentheses is the default location.  If you want to store somewhere else, i.e., on the root directory of your C: drive,  the second URL path is where you specify that.
+You will most likely want to save your SSH keypair to **your computer's root drive (C:)**.  When prompted to enter the file in which to save the keypair, enter the following path and file name for the SSH keypair, otherwise the keypair will be stored at **C:/Users/your-Windows-username/.ssh** on your computer.  That's fine, if that's where you want to store it.  The path shown in parentheses is the default location.  If you want to store the keypair somewhere else, i.e., on the root directory of your C: drive, then the second URL path is where you specify that location
 
 Windows 10/11:
 
     Generating public/private rsa key pair.
-    Enter file in which to save the key (C:/User/your-Windows-username/.ssh/id_rsa): c:/.ssh/id_rsa
+    Enter file in which to save the key (/home/your-Windows-username/.ssh/id_rsa): c:/.ssh/id_rsa
 
 Windows Cygwin:
 
     Generating public/private rsa key pair.
-    Enter file in which to save the key (/home/your-YCP-username/.ssh/id_rsa): /cygdrive/c/.ssh/id_rsa
+    Enter file in which to save the key (/home/your-Windows-username/.ssh/id_rsa): /cygdrive/c/.ssh/id_rsa
 
 When prompted for a passphrase, just press enter (twice).
 
-That will store your SSH keys in the **.ssh** directory on your computer, at the location you specified, or the default location, if you did not specify a location.
+That will store your SSH keypair in the **.ssh** directory on your computer, at the location you specified, or the default location, if you did not specify a different location.
 
-Now execute this command, which tells Eclipse where to find the SSH key (adjust this command if you chose to save your SSH keys somewhere other than your root C: drive):
+Now execute the following command, which tells the Eclipse IDE where to find the SSH keypair (adjust this command if you chose to save your SSH keypair somewhere other than your root C: drive):
 
     set Eclipse SSH2 home to C:/.ssh
-	
-That will store your SSH keys in the **.ssh** directory on your computer at **(C:/.ssh)**.
     
 # Step 2: Create a GitHub Account
 
@@ -119,7 +117,7 @@ Pick a username, enter a valid email address (I strongly suggest you use your YC
 
 Select "Sign up for GitHub".
 
-Choose the free service - this is the default.
+Choose the free service - that is the default.
 
 Verify your email address.
 

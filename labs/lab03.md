@@ -40,46 +40,34 @@ KEC Lab Computer
 
 **If you working from a KEC lab computer**, execute the following commands in a Windows 10/11 Command Window (enter "cmd" in the Windows search bar) or from Cygwin (Windows 7/10/11) or from a Linux terminal window.  Those instructions will take you to your **York College home (H:) drive**, and then will list the contents of the **.ssh** directory (if it already exists):
 
-<div class="callout">
 	cd h:
     ls .ssh
-</div>
 
 If the above commands show the files **id\_rsa** and **id\_rsa.pub**, you can skip the following steps, and proceed to Step 2, as you already have SSH keys.  Otherwise, execute the following command to create the .ssh folder:
 
-<div class="callout">
     mkdir .ssh
-</div>
 
 Then execute the following command to generate the SSH key pair:
 
-<div class="callout">
     ssh-keygen -t rsa -b 4096
-</div>
     
 You will want to save your SSH keys to your **YCP Home Drive (H:)**.  When prompted to enter the file in which to save the key, enter the following path and file name for the SSH key, otherwise the key will be stored at **C:/Users/your-YCP-username/.ssh** on the KEC lab computer you are working on and will **NOT** be available to you on other lab computers.  The path shown in parentheses is the default location - do **NOT** use the default location.  The second URL path is where you want to store the SSH keys, **on your H: drive.
 
 Windows 10/11:
 
-<div class="callout">
     Generating public/private rsa key pair.
     Enter file in which to save the key (/home/your-YCP-username/.ssh/id_rsa): h:/.ssh/id_rsa
-</div>
 
 Windows Cygwin:
 
-<div class="callout">
     Generating public/private rsa key pair.
     Enter file in which to save the key (/home/your-YCP-username/.ssh/id_rsa): /cygdrive/h/.ssh/id_rsa
-</div>
 	
 When prompted for a passphrase, just press enter (twice).
 
 Now execute this command (which tells Eclipse where to find the SSH key):
 
-<div class="callout">
     set Eclipse SSH2 home to H:\.ssh
-</div>
     
 That will store your SSH keys in the **.ssh** directory on your York College home drive **(H:/.ssh)**.
 

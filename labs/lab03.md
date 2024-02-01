@@ -3,9 +3,11 @@ layout: default
 title: "Lab 3: Using Git"
 ---
 
-In this lab, you will practice using [Git](http://git-scm.com/), which is currently the most widely used and arguably the best version control system.
+In this lab, you will be using [Git](http://git-scm.com/), which is currently the most widely used and arguably the best version control system.  It is also the version control system that is built into [GitHub](https://github.com), which is the website you wil be using to host the team remote code repositories, along with the GitHub issue tracker function.
 
-In this course, we will mostly be using [EGit](https://www.eclipse.org/egit/), which is the Git client software built into Eclipse.  This lab will familiarize you with using EGit.
+In this course, you may also use [EGit](https://www.eclipse.org/egit/), which is the Git client software built into Eclipse.  This lab will familiarize you with using git and EGit.
+
+You may also use use the [GitHub Desktop Client](https://desktop.github.com) or the [Git-Tower Desktop Client](https://git-tower.com), both of which facilitate easy(er) access and use of Git.
 
 ## Before you start
 
@@ -22,48 +24,96 @@ As with most worthwhile skills, becoming proficient with Git takes some work.  T
 Another thing to keep in mind:
 
 <div class="callout">
-Git is one of the most awesome and powerful software development tools ever created.
+Git is one of the most awesome and powerful software development tools ever created.  Although it might take you a while to reach that conclusion - it could be years...
 </div>
 
 Like [OO Analysis](../lectures/lecture10.html), Git proficiency is a software development super power.
 
-## Step 1: Create an SSH keypair
+## Step 1: Create an SSH keypair using a KEC lab computer
 
-Execute the following commands in a Cygwin (Windows) or Linux terminal window, which take you to your home **(H:)** drive, and then lists the contents of the **.ssh** directory (if it already exists):
+[How to Create and SSH key pair for GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
+KEC Lab Computer
+----------------
+
+**If you working from a KEC lab computer**, execute the following commands in a Windows 10/11 Command Window (enter "cmd" in the Windows search bar) or from Cygwin (Windows 7/10/11) or from a Linux terminal window.  Those instructions will take you to your **York College home (H:) drive**, and then will list the contents of the **.ssh** directory (if it already exists):
 
 	cd h:
     ls .ssh
 
-If this command shows the files **id\_rsa** and **id\_rsa.pub**, you can skip the following steps, and proceed to Step 2.  Otherwise, execute the following command to create the .ssh folder on your h: drive.
+If the above commands show the files **id\_rsa** and **id\_rsa.pub**, you can skip the following steps, and proceed to Step 2, as you already have SSH keys.  Otherwise, execute the following command to create the .ssh folder:
 
     mkdir .ssh
     
-Then execute the following command to generate the SSH key:
+Then execute the following command to generate the SSH key pair:
 
-    ssh-keygen -t rsa -b 2048
+    ssh-keygen -t rsa -b 4096
     
-When prompted to enter the file in which to save the key, enter the following path and file name for the SSH key, otherwise the key will be stored at **C:/Users/username/.ssh** on the lab computer you are working on and will not be available to you on other lab computers:
+You will want to save your SSH keys to your **YCP Home Drive (H:)**.  When prompted to enter the file in which to save the key, enter the following path and file name for the SSH key, otherwise the key will be stored at **C:/Users/your-YCP-username/.ssh** on the KEC lab computer you are working on and will **NOT** be available to you on other lab computers.  The path shown in parentheses is the default location - do **NOT** use the default location.  The second URL path is where you want to store the SSH keys, **on your H: drive.
+
+Windows 10/11:
 
     Generating public/private rsa key pair.
-    Enter file in which to save the key (/home/username/.ssh/id_rsa): /cygdrive/h/.ssh/id_rsa
-    
+    Enter file in which to save the key (/home/your-YCP-username/.ssh/id_rsa): h:/.ssh/id_rsa
 
-That will store your SSH key in the **.ssh** directory on your home drive.  If you are working on your own PC, you will likely need to use a different drive letter, as you might not have an **H:** drive.  Note the location where you stored the SSH key - you will need it later to configure Eclipse.
+Windows Cygwin:
 
+    Generating public/private rsa key pair.
+    Enter file in which to save the key (/home/your-YCP-username/.ssh/id_rsa): /cygdrive/h/.ssh/id_rsa
+	
 When prompted for a passphrase, just press enter (twice).
 
-Again, if you are working on a lab computer, execute this command (which tells Eclipse where to find the SSH key):
+Now execute this command (which tells Eclipse where to find the SSH key):
 
     set Eclipse SSH2 home to H:\.ssh
     
-If you are working on your own PC, replace the above path with the path you specified when creating your SSH key.
+That will store your SSH keys in the **.ssh** directory on your York College home drive **(H:/.ssh)**.
 
+Now skip to Step 2.
 
+Your Own Computer
+-----------------
+
+**If you working from your own computer**, execute the following commands in a Windows 10/11 Command Window (enter "cmd" in the Windows search bar) or from Cygwin (Windows 7/10/11) or from a Linux terminal window.  Those instructions will take you to the drive you choose (for Windows, that would most likely be your **C:** drive), and then will list the contents of the **.ssh** directory (if it already exists):
+
+	cd c:
+    ls .ssh
+
+If the above commands show the files **id\_rsa** and **id\_rsa.pub**, you can skip the following steps, and proceed to Step 2, as you already have SSH keys.  Otherwise, execute the following command to create the .ssh folder:
+
+    mkdir .ssh
+    
+Then execute the following command to generate the SSH key pair:
+
+    ssh-keygen -t rsa -b 4096
+    
+You will most likely want to save your SSH keys to your **C: drive (C:)**.  When prompted to enter the file in which to save the key, enter the following path and file name for the SSH key, otherwise the key will be stored at **C:/Users/your-Windows-username/.ssh** on your computer.  That's fine, if that's where you want to store it.  The path shown in parentheses is the default location.  If you want to store somewhere else, i.e., on the root directory of your C: drive,  the second URL path is where you specify that.
+
+Windows 10/11:
+
+    Generating public/private rsa key pair.
+    Enter file in which to save the key (C:/User/your-Windows-username/.ssh/id_rsa): c:/.ssh/id_rsa
+
+Windows Cygwin:
+
+    Generating public/private rsa key pair.
+    Enter file in which to save the key (/home/your-YCP-username/.ssh/id_rsa): /cygdrive/c/.ssh/id_rsa
+
+When prompted for a passphrase, just press enter (twice).
+
+That will store your SSH keys in the **.ssh** directory on your computer, at the location you specified, or the default location, if you did not specify a location.
+
+Now execute this command, which tells Eclipse where to find the SSH key (adjust this command if you chose to save your SSH keys somewhere other than your root C: drive):
+
+    set Eclipse SSH2 home to C:/.ssh
+	
+That will store your SSH keys in the **.ssh** directory on your computer at **(C:/.ssh)**.
+    
 ## Step 2: Create a GitHub Account
 
 If you don't already have a GitHub account, go to [GitHub](https://github.com).
 
-Pick a username, enter a valid email address (I strongly suggest your YCP address), and select a password.
+Pick a username, enter a valid email address (I strongly suggest you use your YCP email address), and then select a password.
 
 Select "Sign up for GitHub".
 

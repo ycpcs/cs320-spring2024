@@ -29,12 +29,12 @@ Git is one of the most awesome and powerful software development tools ever crea
 
 Like [OO Analysis](../lectures/lecture10.html), Git proficiency is a software development super power.
 
-## Step 1: Create an SSH keypair using a KEC lab computer
+## Step 1: Create an SSH keypair
 
 [How to Create and SSH key pair for GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
-KEC Lab Computer
-----------------
+ - KEC Lab Computer
+-------------------
 
 **If you working from a KEC lab computer**, execute the following commands in a Windows 10/11 Command Window (enter "cmd" in the Windows search bar) or from Cygwin (Windows 7/10/11) or from a Linux terminal window.  Those instructions will take you to your **York College home (H:) drive**, and then will list the contents of the **.ssh** directory (if it already exists):
 
@@ -83,8 +83,8 @@ That will store your SSH keys in the **.ssh** directory on your York College hom
 
 Now skip to Step 2.
 
-Your Own Computer
------------------
+- Your Own Computer
+-------------------
 
 **If you working from your own computer**, execute the following commands in a Windows 10/11 Command Window (enter "cmd" in the Windows search bar) or from Cygwin (Windows 7/10/11) or from a Linux terminal window.  Those instructions will take you to the drive you choose (for Windows, that would most likely be your **C:** drive), and then will list the contents of the **.ssh** directory (if it already exists):
 

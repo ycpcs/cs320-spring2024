@@ -29,11 +29,13 @@ Git is one of the most awesome and powerful software development tools ever crea
 
 Like [OO Analysis](../lectures/lecture10.html), Git proficiency is a software development super power.
 
-## Step 1: Create an SSH keypair
+# Step 1: Create an SSH keypair
+
+Here are GitHub's instructions for creating an SSH keypair to use with you GitHub account:
 
 [How to Create and SSH key pair for GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
- - KEC Lab Computer
+KEC Lab Computer
 -------------------
 
 **If you working from a KEC lab computer**, execute the following commands in a Windows 10/11 Command Window (enter "cmd" in the Windows search bar) or from Cygwin (Windows 7/10/11) or from a Linux terminal window.  Those instructions will take you to your **York College home (H:) drive**, and then will list the contents of the **.ssh** directory (if it already exists):
@@ -121,7 +123,7 @@ Now execute this command, which tells Eclipse where to find the SSH key (adjust 
 	
 That will store your SSH keys in the **.ssh** directory on your computer at **(C:/.ssh)**.
     
-## Step 2: Create a GitHub Account
+# Step 2: Create a GitHub Account
 
 If you don't already have a GitHub account, go to [GitHub](https://github.com).
 
@@ -133,7 +135,7 @@ Choose the free service - this is the default.
 
 Verify your email address.
 
-## Step 3: Add your public key to your GitHub account
+# Step 3: Add your public key to your GitHub account
 
 Log into [GitHub](https://github.com).
 
@@ -147,7 +149,7 @@ Click the **New SSH key** button at the top right of the SSH Keys list.
 
 Enter "YCP" as the title.  In a text editor **Notepad++** or **Accessories &rarr; Text Editor**, open the file **.ssh/id\_rsa.pub**.  Copy the entire text in this file, and paste it into the **Key** textbox.  Then press the **Add SSH key** button.  You might need to enter the password for your GitHub account.
 
-## Step 4: Fork
+# Step 4: Fork
 
 Go to the following GitHub repository page:
 
@@ -157,7 +159,7 @@ Click "Clone or Download" and make sure that **Clone with SSH** is displayed for
 
 The repository you just forked contains an Eclipse project called **MoveTheSquare**, a game engine that will be the basis for the next great indie game.  You will just need to add some additional gameplay features!
 
-## Step 5: Configure Eclipse
+# Step 5: Configure Eclipse
 
 Start Eclipse.  Choose **Window &rarr; Preferences &rarr;** to open the preferences dialog.
 
@@ -186,7 +188,7 @@ It is <i>extremely</i> important that you set the <b>core.autocrlf</b> setting t
 
 (If all of the members of your team are using Linux or MacOS, you will probably not need to worry about this.)
 
-## Step 6: Clone your fork of the repository
+# Step 6: Clone your fork of the repository
 
 In Eclipse, choose the **Git** perspective.  Click the "Clone a Git Repository and add the clone to this view" button (3rd button from left in the Git Repositories perspective).
 
@@ -202,7 +204,7 @@ Next, in Eclipse, choose the **Java** perspective.  Choose **File &rarr; Import.
 
 To test that you can pull from your remote repository, right click on "Move the Square", and select **Team &rarr; Pull** and you'll get a message box titled "Pull Result for MoveTheSquare" that says that everything is up-to-date.
 
-## Step 7: Make changes
+# Step 7: Make changes
 
 You can run the program from **src &rarr; edu.ycp.cs320.movethesquare.ui**, right clicking on **GameView** and choosing **Run As &rarr; Java Application**.
 
@@ -214,7 +216,7 @@ Make some changes to the code:
 * make the square move faster
 * prevent the square from moving outside the boundaries of the window
 
-## Step 8: Commit and push your changes
+# Step 8: Commit and push your changes
 
 Once you have made a change, right-click on the **Move The Square** project and choose **Team &rarr; Commit**.  Enter a log message describing your changes.  Select **Commit**.  This commits your changes to your local repository, but does not yet push (send) them to your remote repository at GitHub.
 
@@ -226,7 +228,7 @@ You should now be able to refresh your GitHub repository web pages and see the c
 
 In GitHub, if you click on "MoveTheSquare" you can explore and see all of the changes that have been made to the files in the project.  You can even view the code in GitHub. You will want to familiarize yourself with the GitHub interface for future use while developing our project.
 
-## Step 9: Fetch and merge changes from other people
+# Step 9: Fetch and merge changes from other people
 
 Refer to the [Fetch/Merge](../resources/fetchMerge.html) document for instructions on how to set up remote tracking branches to track the changes made by other people.
 
@@ -234,7 +236,7 @@ Find someone in the class whose changes you want to fetch and merge.
 
 Using the Eclipse Git perspective, configure a *remote* for that person's public repository.  Then return to the Java perspective and fetch changes from the remote.  Finally, merge changes from the remote tracking branch containing the changes you fetched.
 
-### Merge conflicts
+## Merge conflicts
 
 If a merge does not cause any conflicts &mdash; meaning that the changes you merged did not make edits to any parts of the code that you edited in your changes &mdash; the merge succeeds and the result of the merge is committed to your private repository.
 
@@ -256,7 +258,7 @@ If you see a merge conflict where a conflict marker shows a conflict between two
 
 (Again, if no one on your team is using Windows, you will probably not need to worry about this.)
 
-### Pushing following a merge
+## Pushing following a merge
 
 Once a merge has been completed, you should do a push so that your public repository is updated with the results of the merge.
 

@@ -151,7 +151,7 @@ The repository you just forked contains an Eclipse project called **MoveTheSquar
 
 Now we will configure Eclipse to be able to directly access your GitHub repositories.  Most (if not all) modern IDEs have functionality that allows a team of developers to share and develop code directly from the IDE through a remote code repository.  Eclipse is one of those IDEs.  It can be confusing to get set up and to use it correctly.
 
-You may also use the [GitHub Desktop Client](https://desktop.github.com) or the [Git-Tower Desktop Client](https://git-tower.com), both of which facilitate easy(er) access and use of Git version control in a team setting and are free to download and use.  They each operate separately from the IDE - so will require separate steps to manage the code in your repository AND develop and test the code in your IDE.  That's not necessarily a bad thing, at this stage in the course.
+You and your team  may also use the [GitHub Desktop Client](https://desktop.github.com) or the [Git-Tower Desktop Client](https://git-tower.com), both of which facilitate easy(er) access and use of Git version control in a team setting and are free to download and use.  They each operate separately from the IDE - so will require separate steps to manage the code in your repository AND develop and test the code in your IDE.  That's not necessarily a bad thing, at this stage in the course.
 
 **Start Eclipse 2020-6**.  Choose **Window &rarr; Preferences &rarr;** to open the preferences dialog.
 

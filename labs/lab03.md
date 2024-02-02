@@ -73,7 +73,7 @@ Now execute the following ccommand (which tells the Eclipse IDE where to find th
     
 Now skip to Step 2.
 
-- Your Own Computer
+Your Own Computer
 -------------------
 
 **If you working from your own computer**, execute the following commands in a Windows 10/11 Command Window (enter "cmd" in the Windows search bar) or from Cygwin (Windows 7/10/11) or from a Linux terminal window.  Those instructions will take you to the drive you choose (for Windows, that would most likely be your **C:** drive), and then will list the contents of the **.ssh** directory (if it already exists):

@@ -7,7 +7,7 @@ In this lab, you will be using [Git](http://git-scm.com/), which is currently th
 
 In this course, you may also use [EGit](https://www.eclipse.org/egit/), which is the Git client software built into Eclipse.  This lab will familiarize you with using git and EGit.
 
-You may also use use the [GitHub Desktop Client](https://desktop.github.com) or the [Git-Tower Desktop Client](https://git-tower.com), both of which facilitate easy(er) access and use of Git.
+You may also use use the [GitHub Desktop Client](https://desktop.github.com) or the [Git-Tower Desktop Client](https://git-tower.com), both of which facilitate easy(er) access and use of Git and are free to download and use.
 
 ## Before you start
 
@@ -145,9 +145,15 @@ Click "Clone or Download" and make sure that **Clone with SSH** is displayed for
 
 The repository you just forked contains an Eclipse project called **MoveTheSquare**, a game engine that will be the basis for the next great indie game.  You will just need to add some additional gameplay features!
 
+**NOTE: You can stop after the conclusion of this step for Git Lab Part I.**  We will get back to it later in the semester in Git Lab Part II.  Although feel free to move forward in this lab at your own pace.  EGit configuation is **NOT** required for CS320 - there are other methods for accessing Git and GitHub - see below.
+
 # Step 5: Configure Eclipse
 
-Start Eclipse.  Choose **Window &rarr; Preferences &rarr;** to open the preferences dialog.
+Now we will configure Eclipse to be able to directly access your GitHub repositories.  Most (if not all) modern IDEs have functionality that allows a team of developers to share and develop code directly from the IDE through a remote code repository.  Eclipse is one of those IDEs.  It can be confusing to get set up and to use it correctly.
+
+You may also use the [GitHub Desktop Client](https://desktop.github.com) or the [Git-Tower Desktop Client](https://git-tower.com), both of which facilitate easy(er) access and use of Git version control in a team setting and are free to download and use.  They each operate separately from the IDE - so will require separate steps to manage the code in your repository AND develop and test the code in your IDE.  That's not necessarily a bad thing, at this stage in the course.
+
+**Start Eclipse 2020-6**.  Choose **Window &rarr; Preferences &rarr;** to open the preferences dialog.
 
 > Choose **General &rarr; Network Connections &rarr; SSH2**.  Make sure that **SSH2 home** is set to the drive and path that lead to your **/.ssh** folder (include **/.ssh** in the path). For lab PC's, this should be **H:/.ssh**.  Select OK when done.  Also verify that **Private keys** is set to the name of your private key file.  
 

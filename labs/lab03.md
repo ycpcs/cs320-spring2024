@@ -145,7 +145,7 @@ Click "Clone or Download" and make sure that **Clone with SSH** is displayed for
 
 The repository you just forked contains an Eclipse project called **MoveTheSquare**, a game engine that will be the basis for the next great indie game.  You will just need to add some additional gameplay features!
 
-**NOTE: You can stop after the conclusion of this step for Git Lab Part I.**  We will get back to it later in the semester in Git Lab Part II.  Although feel free to move forward in this lab at your own pace.  EGit configuation is **NOT** required for CS320 - there are other methods for accessing Git and GitHub - see below.
+**NOTE: You can stop after the conclusion of this step for Git Lab Part I.**  We will get back to it later in the semester in Git Lab Part II.  Feel free to move forward in this lab at your own pace.  EGit configuration is **NOT** required for CS320 - there are other methods for accessing Git and GitHub - see below.
 
 # Step 5: Configure Eclipse
 

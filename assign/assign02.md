@@ -45,8 +45,9 @@ Here are some examples of Individual Project Proposals from Spring 2022:
 - [Snake & Apples: Python, PyCharm, PyGame](Sp22-assign02-bneptune.pdf)
 - [Portfolio Website: React.js](Sp22-assign02-mconrad4.pdf)
 - [Songify: JavaScript & TensorFlow](Sp22-assign02-mhensel.pdf)
+- [Modular Synthesizer: JavaScript](Sp22-assign02-mwilliams.pdf)
 - [Robotic Cat Toy: JavaScript, Arduino, 3D-Printing](Sp22-assign02-pwalter3.pdf)
-- [Modular Synthesizer: JavaScript](Sp22-assign02-mwilliams28.pdf)
+
 
 Scope
 -----

@@ -40,7 +40,11 @@ Some possible examples:
 These are just examples: I encourage you to be creative and think of something that interests you personally.  The most important
 requirement is that you should **learn something new, interesting, and exciting for you!**
 
-Here are some examples of Individual Project Proposals from Spring 2022:
+Examples: 
+---------
+
+Here are some examples of previous Individual Project Proposal submissions:
+
 - [Mine Visuals: Python & MineCraft](examples-assign02/Sp22-assign02-bfleming2.pdf)
 - [Snake & Apples: Python, PyCharm, PyGame](examples-assign02/Sp22-assign02-bneptune.pdf)
 - [Portfolio Website: React.js](examples-assign02/Sp22-assign02-mconrad4.pdf)

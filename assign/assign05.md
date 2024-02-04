@@ -45,6 +45,14 @@ Note that TicTacToe is a pretty simple example: for a more complex problem, a us
 
 **Use the example format given in the [Use Case lecture](../lectures/lecture08.html) for the Use Cases you provide for this submission.**
 
+## Examples: 
+
+Here are some examples of previous Team Project Use Case submissions:
+
+- [Card Repository w/Multiplayer & Bots](examples-assign05/Sp22-assign05-bfleming2-iviveiros-mwilliams28-pwalter3.pdf)
+- [VSS: Virtual Stock Sim](examples-assign05/Sp20-assign05-bkearney1-dpalmieri-ekennedy2.pdf)
+- [Air Quality Monitor](examples-assign05/Sp20-assign05-dbieber-dmchugh-mtrost-tgerst.pdf)
+
 # Submitting your work
 
 Create a Google Doc for your group's Use Case document, and name it **assign05-www-xxx-yyy-zzz**, substituting the YCP user names of your project team members, **in alphabetical order**.  Place the Use Case document under your shared Google Drive Group Project folder.

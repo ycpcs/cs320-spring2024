@@ -35,6 +35,13 @@ In your description of the system, include sketches of what the user interface w
 
 I **strongly** recommend that you discuss your idea with me before you submit your proposal.
 
+Here are some examples of Team Project Proposals from Spring 2022 when I last taught CS320:
+- [YCP Personalized Commencement](Sp22-assign01-amott-bsimmons1-erosenberry-rwood7.pdf)
+- [Card Repository w/Multiplayer & Bots](Sp22-assign01-bfleming2-iviveiros-mwilliams28-pwalter3.pdf)
+- [TBAG - Great TBAG Ever Made](Sp22-assign01-btingley-hbarclay-rgreaves-wwyatt.pdf)
+- [Air Quality Monitor](Sp22-assign01-dbieber-dmchugh-mtrost-tgerst.pdf)
+- [TBAG - Minotaur's Labyrinth](Sp22-assign01-janderson7-lplaudsmith-zredcay.pdf)
+
 Here is the template for your [Team Project Proposal](CS320_Team_Project_Proposal_Template.pdf).  Download the [template document](CS320_Team_Project_Proposal_Template.docx), modify it, as necessary, and follow the submission instructions below.
 
 Submitting

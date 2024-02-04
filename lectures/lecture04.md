@@ -12,7 +12,7 @@ There are two basic approaches to developing web applications.
 
 The "traditional" approach is that the web application runs entirely on the server, and dynamically generates HTML to be displayed in the client web browser. The user interacts with the application by submitting form data, which is sent to the web server as an HTTP POST request. The server handles the request by decoding the form parameters, deciding how to handle the request, and then generating another HTML document as a response.
 
-The "modern" approach is that the web application runs both within the client web browser (as Javascript) and also on the server. The Javascript code can call code on the server using AJAX, which is a means of asynchronous communication with the server. Although we will not be covering Javascript and AJAX in this course, you will most likely want/need to use at least some Javascript for your team project.  Javascript will be an additional **opportunity** and **exercise** in self-learning through the use of ChatGPT and [w3schools](www.w3schools.com).
+The "modern" approach is that the web application runs both within the client web browser (as Javascript) and also on the server. The Javascript code can call code on the server using AJAX, which is a means of asynchronous communication with the server. Although we will not be covering Javascript and AJAX in this course, you will most likely want/need to use at least some Javascript for your team project.  Javascript will be an additional **opportunity** and **exercise** in self-learning through the use of ChatGPT and [w3schools](http://w3schools.com).
 
 Today we will discuss the "traditional" approach.
 

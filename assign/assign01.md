@@ -35,6 +35,9 @@ In your description of the system, include sketches of what the user interface w
 
 I **strongly** recommend that you discuss your idea with me before you submit your proposal.
 
+Examples: 
+---------
+
 Here are some examples of Team Project Proposals from Spring 2022:
 - [YCP Personalized Commencement](examples-assign01/Sp22-assign01-amott-bsimmons1-erosenberry-rwood7.pdf)
 - [Card Repository w/Multiplayer & Bots](examples-assign01/Sp22-assign01-bfleming2-iviveiros-mwilliams28-pwalter3.pdf)

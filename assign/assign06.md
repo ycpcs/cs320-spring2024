@@ -37,10 +37,16 @@ Step 3: Explain the Model
 
 In a text document of 1 page, *briefly* explain your analysis model. Discuss why you felt the classes you modeled are the most important ones. Is there a class or classes that seem to be "central" to the model? How did you determine where to put the important methods?
 
-Example: 
---------
+Examples: 
+---------
 
-Here is an [example submission](assign06-csperbec-asmit147-awalsh6.pdf) for this assignment from the Distributed Whiteboard Project completed in 2016 by Cara Sperbeck, Alex Smith, and Aaron Walsh.
+Here are some examples of previous Team Problem Domain Analysis submissions:
+
+- [YCP Personalized Commencement](examples-assign06/Sp22-assign06-amott-bsimmons1-erosenberry-rwood7.pdf)
+- [Card Repository w/Multiplayer & Bots](examples-assign06/Sp22-assign06-bfleming2-iviveiros-mwilliams28-pwalter3.pdf)
+- [VSS: Virtual Stock Sim](examples-assign06/Sp20-assign06-bkearney1-dpalmieri-ekennedy2.pdf)
+- [Air Quality Monitor](examples-assign06/Sp20-assign06-dbieber-dmchugh-mtrost-tgerst.pdf)
+
 
 Submitting
 ==========

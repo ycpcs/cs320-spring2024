@@ -115,7 +115,7 @@ You should see this pop-up window (note that it is showing the current settings 
 
 > <a href="images/eclipse-setting-SSH.JPG"><img style="width: 500px;" src="images/eclipse-setting-SSH.JPG" /></a>
 
-Now set your **SSH2 home** location and your **Private keys** from that location will appear after you select **Apply**.  If they don't, enter them in **Private keys**.  In either case, when you are done, select **Apply and Close**.
+Now set your **SSH2 home** location and then select your **Private keys** from that location.  When you are done, select **Apply and Close**.
 
 Alternately, you can do this directly in **Cygwin** by executing the following command, which fills in the same information in the Eclipse IDE as the above instructions do.  Adjust this command if you chose to save your SSH keypair somewhere other than your root C: drive):
 

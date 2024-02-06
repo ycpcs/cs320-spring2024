@@ -3,7 +3,7 @@ layout: default
 title: "Lecture 6: Software Development Processes"
 ---
 
-Development processes
+Development Processes
 ===================
 
 [From Chapter 2 in UML Distilled]

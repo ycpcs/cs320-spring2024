@@ -72,3 +72,7 @@ There are a lot of good things about agile processes:
 -   The system remains in a "ready to deploy" state at all times. (It might not implement all required features, but the features that are implemented work correctly.)
 
 Let's take a look at some examples of what an agile development sprint schedule looks like and how it leads to incremental improvements in application functionality.
+
+- [CS201: Disk Game](https://ycpcs.github.io/cs201-fall2021/assign/assign01.html)
+
+- [CS320: Web Applications Lab02a](../labs/lab02a.hml)

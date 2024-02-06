@@ -6,9 +6,13 @@ title: "Lab 2A: Web Applications II"
 Your Task
 ===============
 
-This lab builds upon the **AddNumbers** and **GuessingGame** examples from [CS320\_Lab02](lab02.html).  It will "force" you to investigate, explore, and learn the structure of a WebApp, from the server (**main()**), through **Web.xml**, the servlets, the controllers, the model, and the JSPs, as well as how to refactor project components.  You will need to have this kind of familiarity with the WebApp architecture in order to get started on your team project, as well as to be able to make significant technical contributions to any and all aspects of your team project.  
+See [Lab02: Web Applications I Lab](lab02.html) for instructions on how to download the two archive components for Lab02 and then import them into Eclipse.  This version of the lathen b (Lab02a: Web Applications II) assumes that you have downloaded and completed Lab02 and builds upon the **AddNumbers** and **GuessingGame** examples from that lab.
 
-**NOTE:** You must work individually on this lab.  It is imperative that everyone on your team be able to full comprehend, design, implement, toubleshoot, and debug the complete architecture of a standard client-server application.  This **WILL** come up on the exam.
+Lab02a will "force" you to investigate, explore, and learn the structure of a WebApp, from the server (**main()**), through **Web.xml**, the servlets, the controllers, the model, and the JSPs, as well as how to refactor project components.  You will need to have this kind of familiarity with the WebApp architecture in order to get started on your team project, as well as to be able to make significant technical contributions to any and all aspects of your team project.  
+
+**NOTE:** You must work individually on this lab.  It is imperative that everyone on your team be able to fully comprehend, design, implement, toubleshoot, and debug the complete architecture of a standard client-server application.  This **WILL** come up on the exam.
+
+**NOTE:** You **are** allowed to use ChatGPT to assist with with this lab.  If you do use ChatGPT, **you must mention it prominently in your comments**.
 
 **NOTE: This lab will require a significant effort, and you should start on it as soon as possible.**
 
@@ -18,7 +22,7 @@ You have six tasks:
 
 Example: I would refactor the copy of my **CS320\_Lab02\_djhake2** project to **CS320\_Lab02a\_djhake2** as soon as I imported the project into Eclipse.
 
-<!-- Commenting out this part - it is too much of a PITA
+<!-- Commenting out this part - it is too much of a PITA at this point in the semester
 
 After you refactor the project name, refactor the package names, change the locations specified in **Web.xml** and the JSP's, as well as the context folder specified in **main()** so that they all refer to **lab02a\_username**. Verify that both of the **AddNumbers** and **GuessingGame** WebApps still work - you will no longer be able to use the URL links included on the **CS320\_Lab02** page, you will need to modify those URLs to replace **lab02** with **lab02a\_username**.  You should save those new URLs as bookmarks in your browser.
 

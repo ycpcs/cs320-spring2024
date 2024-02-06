@@ -107,7 +107,11 @@ That will store your SSH keypair in the **.ssh** directory on your computer, at 
 
 Now you need to tell Eclipse where to find your SSH keypair:
 
-In Eclipse, open the **Window** tab, select **Preferences**, then **General**, then **Network Connections**, and finally **SSH**.  You should see this pop-up window (note that it is showing the current settings from Eclipse on my laptop):
+In Eclipse, open the **Window** tab, select **Preferences**, then **General**, then **Network Connections**, and finally **SSH**.  Or, more succinctly:
+
+	Window->Preferences->General->Network Connections->SSH.
+
+You should see this pop-up window (note that it is showing the current settings from Eclipse on my laptop):
 
 <img src="./images/eclipse-setting-SSH.jpg" alt="OOPS, where did the image go?">
 

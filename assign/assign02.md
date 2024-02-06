@@ -73,7 +73,7 @@ Here is the template for your [Individual Project Proposal](CS320_Individual_Pro
 Submitting
 ==========
 
-Name your Individual Project Proposal document "**assign02-username**", substituting your YCP username for "username".  Submit the proposal to Marmoset under "**Assign02: Individual Project Proposal**". Use only PDF format: **do NOT upload a Microsoft Word, Google Doc, or rich text document.**
+Name your Individual Project Proposal document "**assign02-username**", substituting your YCP username for "username".  Submit the proposal to Marmoset under "**Assign02: Individual Project Proposal**". Use only PDF format: do **NOT** upload a Microsoft Word, Google Doc, or rich text document.
 
 <div class="callout">
 <b>Important: Important: Your Project Proposal must be submitted in PDF format.</b> Submissions in any other format may receive a grade of 0.

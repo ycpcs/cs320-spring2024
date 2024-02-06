@@ -71,4 +71,4 @@ There are a lot of good things about agile processes:
 -   The customer is always "in the loop" and decides what work will be done. Developers don't spend time implementing unnecessary features. The most important features are the ones implemented first.
 -   The system remains in a "ready to deploy" state at all times. (It might not implement all required features, but the features that are implemented work correctly.)
 
-Let's look at some examples of what an agile development spring schedule looks like.
+Let's take a look at some examples of what an agile development sprint schedule looks like and how it leads to incremental improvements in application functionality.

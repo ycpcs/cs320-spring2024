@@ -24,7 +24,7 @@ The **Waterfall** process is intended to be a single iteration through the follo
 
 > Requirements → Analysis → Design → Implementation → Testing → Deployment (Release)
 
-An **Iterative** process is a series of short iterations (2-4 weeks), each of which is a "mini-waterfall" process, with a release at the end of each iteration.
+An **Iterative** process is a series of short iterations (2-4 weeks), each of which is a "mini-waterfall" process, with a release at the end of each iteration.  We will discuss the iterative process in the next lecture.
 
 Waterfall Process
 -----------------

@@ -21,18 +21,20 @@ Due Date | Lab | File
 Friday, 2-2-24, by 7:00a (Marmoset) | [Lab 0: Using ChatGPT](lab00.html) | n/a
 Sunday, 2-4-24, by Noon (Marmoset) | [Lab 1: HTML/CSS Resume](lab01.html) | n/a
 Monday, 2-5-24 (in-class) | [Lab 3: Git Part I](lab03.html) | n/a
-Sunday, 2-20-24, by Noon (sign-off and Marmoset) | [Lab 2a: Web Applications II](lab02a.html) | [CS320\_Lab02.zip](CS320_Lab02.zip), [CS320\_Jetty9.zip](CS320_Jetty9.zip)
+Monday, 2-19-24, after sign-off (Marmoset) | [Lab 2a: Web Applications II](lab02a.html) | [CS320\_Lab02.zip](CS320_Lab02.zip), [CS320\_Jetty9.zip](CS320_Jetty9.zip)
 Thursday, 3-21-24, by Noon (Marmoset) | [Lab 4: SQL Queries & Joins](lab04.html) | [CS320\_Lab04.zip](CS320_Lab04.zip), [CS320\_Derby.zip](CS320_Derby.zip)
 Saturday, 3-23-24, by Noon (Marmoset) | [Lab 5: JDBC](lab05.html) | [CS320\_Lab05.zip](CS320_Lab05.zip)
-Tuesday, 4-1-24, by Noon (Marmoset) | [Lab 6: ORM](lab06.html) | [CS320\_Lab06.zip](CS320_Lab06.zip)
+Tuesday, 4-2-24, by Noon (Marmoset) | [Lab 6: ORM](lab06.html) | [CS320\_Lab06.zip](CS320_Lab06.zip)
 
 All of the above labs, with the exception of Lab03 (Git Lab) are to be completed individually. I encourage you to discuss high level concepts and strategies with other students, but any work you submit **must be yours alone**.
 
-Because these labs are essential for working towards and demonstrating the capability to provide a significant technical contribution to your team project, as well the achievement of the course outcomes, you must solve them on your own.  You may discuss the problem and high-level (pseudo-code) approaches to solving the problem with other students.  You may *not*, under any circumstances, discuss or share concrete implementation techniques or code.  Examples of forbidden types of collaboration include, but are not limited to: looking at another student's code, allowing another student to see your code, viewing and/or using code from an external source such as a web page or ChatGPT, discussing the use of specific API functions to solve a problem, giving or receiving help debugging specific code.
+The exception to the above policy is that you may use ChatGPT (or any other similar servide) for Lab00 (Using ChatGPT), Lab01 (HTML/CSS Resume), Lab02 and Lab02a (Web Applications Labs).  You may **NOT** use ChatGPT for the SQL Lab (Lab04).  I haven't yet decided about ChatGPT for the JDBC Lab (Lab05) or the ORM Lab (Lab06). At this point, you are **NOT** allowed to use ChatGPT for Lab05 and Lab06.
 
-Direct copying of code or other work from other students, web sites, or other sources **is absolutely forbidden under any circumstances**.
+Because these labs are essential for working towards and demonstrating the capability to provide a significant technical contribution to your team project, as well the achievement of the course outcomes, you must solve them on your own.  You may discuss the problem and high-level (pseudo-code) approaches to solving the problem with other students.  You may *not*, under any circumstances, discuss or share concrete implementation techniques or code.  Examples of forbidden types of collaboration include, but are not limited to: looking at another student's code, allowing another student to see your code, viewing and/or using code from an external source such as a web page or ChatGPT (unless explicitly allowed by the instructor and/or the instructions), discussing the use of specific API functions to solve a problem, giving or receiving help debugging specific code.
 
-Any sources (books, websites, articles, fellow students, etc.) that you consult in completing an assignment **must be properly acknowledged**. In general, I strongly discourage you from using any resource not explicitly listed in the course syllabus or on the course web page. When you work on a programming assignment, it must be **your** program, not your adaptation of someone else's program.
+Direct copying of code or other work from other students, web sites, or other sources (including ChatGPT) **is absolutely forbidden under any circumstances**.
+
+Any sources (ChatGPT, books, websites, articles, fellow students, etc.) that you consult in completing an assignment **must be properly acknowledged in your code comments**. In general, I strongly discourage you from using any resource not explicitly listed in the course syllabus or on the course web page. When you work on a programming assignment, it must be **your** program, not your adaptation of someone else's program.
 
 Any violation of the course's academic integrity policy will be referred to the Dean of Academic Affairs, and could have consequences ranging from a 0 on an assignment, a reduced or failing grade in the course, up to dismissal from the college.
 

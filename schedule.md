@@ -16,30 +16,30 @@ Fri, Jan 26   | Course Overview <br> **Prep Exam Assigned** | [Lecture 0: Course
 Mon, Jan 29   | Course Overview and Introduction <br> Lab0: ChatGPT Lab assignes <br> **Prep Exam Due (Marmoset)** | [Lecture 0: Course Overview](lectures/lecture00.html) <br> [Lab 0: Using ChatGPT](./labs/lab00.html)
 Wed, Jan 31   | Object Oriented Programming and ChatGPT <br> HTML (content) & CSS (style) using ChatGPT <br> HTML/CSS Resume Lab Assigned | [Lecture 1: OOP and ChatGPT](lectures/lecture01.html)<br> [Lecture 2: HTML and CSS](lectures/lecture02.html)<br> [Lab 1: HTML and CSS Lab](./labs/lab01.html)
 Fri, Feb 2    | Project Introductions<br>Version Control (Git) | [Team Project Proposal](./assign/assign01.html) <br> [Individual Project Proposal](./assign/assign02.html) <br> [Lecture 12: Git for Designers](https://web.archive.org/web/20150301060509/http://hoth.entp.com/output/git_for_designers.html) <br> [Lab 3: Git Lab Part I](./labs/lab03.html)
-Mon, Feb 5    | Introduction to Web Applications <br> Lab 2 Assigned | [Lecture 4: Web Applications](lectures/lecture04.html) <br>  [Lab 2: Web Applications I](./labs/lab02.html)
-Wed, Feb 7    | Web Applications I <br> Lab 2a Assigned | [Lab 2a: Web Applications II](./labs/lab02a.html)
+Mon, Feb 5    | Review ChatGPT & HTML/CSS Resume Labs<br>Project Proposals<br>Quick Intro to Web Applications <br> Lab 2 Assigned | [Lecture 4: Web Applications](lectures/lecture04.html) <br>  [Lab 2: Web Applications I](./labs/lab02.html)
+Wed, Feb 7    | Web Applications I <br> Lab 2a Assigned | Lecture 4: Web Applications](lectures/lecture04.html)<br>[Lab 2a: Web Applications II](./labs/lab02a.html)
 Fri, Feb 9    | Web Applications II <br> Web Applications Lab Review |
 Mon, Feb 12   | Intro to Relational Databases & SQL Labs<br>[Lecture 13: Relational Databases](lectures/lecture13.html)<br>[Lecture 14: Database Applications, JDBC](lectures/lecture14.html) <br> [Lecture 15: ORM, Designing a Persistence Layer](lectures/lecture15.html) | <br> [Lab 4: SQL Lab](./labs/lab04.html) <br> [Lab 5: JDBC Lab](./labs/lab05.html) <br> [Lab 6: ORM Lab](./labs/lab06.html)
-Wed, Feb 14   | Development Processes & Waterfall Model | UD: Chapter 2 <br> [Lecture 6: Development Process](lectures/lecture06.html)
-Fri, Feb 16   | Agile Process & Scrum w/Examples <br> [CS201: Disk Game](https://ycpcs.github.io/cs201-fall2021/assign/assign01.html) <br> [CS320: Web Applications Lab02a](labs/lab02a.html) |  SG: [2016 Scrum Guide](lectures/lecture07/2016_Scrum_Guide_US.pdf) <br> [Lecture 7: Agile & Scrum](lectures/lecture07.html) <br> [Manifesto for Agile Software Development](https://www.sciencedirect.com/topics/computer-science/agile-manifesto)
-Mon, Feb 19   | Requirements<br>User Requirements Exercise and <br> Brainstorming Session (in-class) | UD: Chapter 9 <br>[Lecture 8: Requirements](lectures/lecture08.html)
-Wed, Feb 21   | Requirements & Use Cases<br>Requirements and Use Case Exercise (in-class) | UD: Chapter 9 <br> [Lecture 8: Use Cases](lectures/lecture08.html)
-Fri, Feb 23   | Team Project Session: Team Project Use Cases (in class) | 
-Mon, Feb 26   | Individual Project Milestone 1:<br> **Baseline Prototype** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
-Wed, Feb 28   | Team Project Session: Team Project Textual Analysis (in class) |
+Wed, Feb 14   | Development Processes & Waterfall Model <br> Agile Process & Scrum w/Examples  <br> [CS201: Disk Game](https://ycpcs.github.io/cs201-fall2021/assign/assign01.html) <br> [CS320: Web Applications Lab02a](labs/lab02a.html)| UD: Chapter 2 <br> [Lecture 6: Development Process](lectures/lecture06.html) <br>  [Lecture 7: Agile & Scrum](lectures/lecture07.html) <br> SG: [2016 Scrum Guide](lectures/lecture07/2016_Scrum_Guide_US.pdf)
+Fri, Feb 16   | Requirements<br>User Requirements Exercise and <br> Brainstorming Session (in-class) | UD: Chapter 9 <br>[Lecture 8: Requirements](lectures/lecture08.html)  
+Mon, Feb 19   | Requirements & Use Cases<br>Requirements and Use Case Exercise (in-class) | UD: Chapter 9 <br> [Lecture 8: Use Cases](lectures/lecture08.html)
+Wed, Feb 21   | Team Project Session: Team Project Use Cases (in class) |
+Fri, Feb 23   | Team Project Session: Team Project Textual Analysis (in class) | 
+Mon, Feb 26   | Unified Modeling Language (UML) and <br> Object-Oriented Analysis (OOA)<br>Textual Analysis & UML Exercise (in-class) | UD: Chapter 3 <br> [Lecture 9: UML Class Diagrams](lectures/lecture09.html) <br> [Lecture 10: OO Analysis](lectures/lecture10.html)
+Wed, Feb 28   | Individual Project Milestone 1:<br> **Baseline Prototype** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 Fri, Mar 1    | **Winter Break, no class**
-Mon, Mar 4    | Unified Modeling Language (UML) and <br> Object-Oriented Analysis (OOA)<br>Textual Analysis & UML Exercise (in-class) | UD: Chapter 3 <br> [Lecture 9: UML Class Diagrams](lectures/lecture09.html) <br> [Lecture 10: OO Analysis](lectures/lecture10.html)
-Wed, Mar 6    | Team Project Session: Analysis & Design, Team MS 1, Team Git Set-Up (in-class)    | [Lab 3: Git Lab Part II](./labs/lab03.html)
-Fri, Mar 8    | Team Project Session: Analysis & Design, Team MS 1, Team Git Set-Up (in-class)    |  [Lab 3: Git Lab Part II](./labs/lab03.html)
-Mon, Mar 11   | Team Project Milestone 1:<br> **Minimal Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
-Wed, Mar 13   | Team Project Session: Analysis Model (UML - in class) |
+Mon, Mar 4    | Team Project Session: Analysis & Design Model, Team Git Set-Up, Team Milestone (all in-class) | [Lab 3: Git Lab Part II](./labs/lab03.html)
+Wed, Mar 6    | Team Project Session: Analysis & Design Model, Team Git Set-Up, Team Milestone (all in-class) | [Lab 3: Git Lab Part II](./labs/lab03.html)
+Fri, Mar 8    | Team Project Session: Analysis & Design Model, Team Git Set-Up, Team Milestone (all in-class) | [Lab 3: Git Lab Part II](./labs/lab03.html)
+Mon, Mar 11   | Team Project Session: FInal Preparation for Analysis & Design Model and Team Milestone 1 Presentation |
+Wed, Mar 13   | Team Project Milestone 1:<br> **Minimal Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
 Fri, Mar 15   | Object-Oriented Design (OOD) | [Lecture 11: OO Design, OCP, LSP](lectures/lecture11.html)<br> [Design Principles and Design Patterns](lectures/lecture11/Principles_and_Patterns.pdf), Robert Martin, pages 1-12
 Mon, Mar 18   | Individual Project Milestone 2:<br> **50% Progress** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 Wed, Mar 20   | Relational Databases <br> SQL Lab Assigned <br> Database Applications - JDBC <br> JDBC Lab Assigned | [Lecture 13: Relational Databases](lectures/lecture13.html) <br> [Lab 4: SQL Lab](./labs/lab04.html) <br> [Lecture 14: Database Applications, JDBC](lectures/lecture14.html) <br> [Lab 5: JDBC Lab](./labs/lab05.html)
 Fri, Mar 22   | Database Applications - ORM <br> ORM Lab Assigned | [Lecture 15: ORM, Designing a Persistence Layer](lectures/lecture15.html)<br> [Lab 6: ORM Lab](./labs/lab06.html)
-Mon, Mar 25   | Team Project Milestone 2:<br> **Progress on Navigation & Features** | [Assignment 3: Team Project Milestones](assign/assign03.html)<br>
-Tue, Mar 26   | Team Project Mid-Semester Self / Peer Evaluations Due | [Assignment 11: Team Project Self / Peer Evaluation](assign/assign11.html)
-Wed, Mar 27   | SQL / JDBC / ORM Labs Review |
+Mon, Mar 25   | SQL / JDBC / ORM Labs Review |
+Wed, Mar 27   | Team Project Milestone 2:<br> **Progress on Navigation & Features** | [Assignment 3: Team Project Milestones](assign/assign03.html)<br>
+Thu, Mar 28   | Team Project Mid-Semester Self / Peer Evaluations Due | [Assignment 11: Team Project Self / Peer Evaluation](assign/assign11.html)
 Fri, Mar 29   | **Spring Break, no class**
 Mon, Apr 1    | **Spring Break, no class**
 Wed, Apr 3    | Library Project Example Analysis & Review (part 1) |

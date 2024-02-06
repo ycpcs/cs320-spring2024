@@ -107,11 +107,11 @@ That will store your SSH keypair in the **.ssh** directory on your computer, at 
 
 Now you need to tell Eclipse where to find your SSH keypair:
 
-In Eclipse, open the **Window** tab, select **General**, then select **Network Connections**, and finally **SSH**.  You should see this pop-up window (note that it is showing the current settings from Eclipse on my laptop):
+In Eclipse, open the **Window** tab, select **Preferences**, then **General**, then **Network Connections**, and finally **SSH**.  You should see this pop-up window (note that it is showing the current settings from Eclipse on my laptop):
 
-<img src="./image/eclipse-setting-SSH.jpg" alt="oops, where did the image go?">
+<img src="./images/eclipse-setting-SSH.jpg" alt="OOPS, where did the image go?">
 
-Now set your SSH key location and SSH key file name(s), then **Apply and Close**.
+Now set your **SSH2 home** location and **Private keys** file name(s), then **Apply and Close**.
 
 Alternately, you can do this directly in **Cygwin** by executing the follwoing command, which tells the Eclipse IDE where to find the SSH keypair (adjust this command if you chose to save your SSH keypair somewhere other than your root C: drive):
 

@@ -113,7 +113,7 @@ In Eclipse, open the **Window** tab, select **Preferences**, then **General**, t
 
 You should see this pop-up window (note that it is showing the current settings from Eclipse on my laptop):
 
-> <a href="images/eclipse-setting-SSH.jpg"><img style="width: 500px;" src="images/eclipse-setting-SSH.jpg" /></a>
+> <a href="images/eclipse-setting-SSH.JPG"><img style="width: 500px;" src="images/eclipse-setting-SSH.JPG" /></a>
 
 Now set your **SSH2 home** location and **Private keys** file name(s), then **Apply and Close**.
 

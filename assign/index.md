@@ -10,7 +10,7 @@ This page lists the team and individual project assignments. The team project as
 Assignment | Type | Due
 ---------- | ---- | ---
 **Team Project Assignments** | **Team** | **See Below**
-[Assignment 1: Team Project Proposal](assign01.html) | Team | Sunday, 2-11-24, by Noon (PDF submitted to Marmoset)
+[Assignment 1: Team Project Proposal](assign01.html) | Team | Wednesday, 2-14-24, by 7:00am (PDF submitted to Marmoset)
 [Assignment 5: Use Cases](assign05.html) | Team | Friday, 2-23-24, by Noon (Shared Google Doc)
 [Assignment 6: Problem Domain Analysis](assign06.html) | Team | Tuesday, 3-12-24, by Noon (Shared Google Doc)
 [Assignment 3a: Team Project Milestone 1 (MWS)](assign03.html) | Team | Wednesday, 3-13-24 (in-class Presentation)
@@ -24,7 +24,7 @@ Assignment | Type | Due
 [Assignment 8: Team Project Final Presentation and Demo (Section 102)](assign08.html) | Team | Wednesday, 5-8-24, from 12:45pm to 2:45pm (during Final Exam Period)
  | |
 **Individual Project Assignments** | **Individual** | **See Below**
-[Assignment 2: Individual Project Proposal](assign02.html) | Individual | Saturday, 2-10-24, by Noon (PDF submitted to Marmoset)
+[Assignment 2: Individual Project Proposal](assign02.html) | Individual | Sunday, 2-11-24, by Noon (PDF submitted to Marmoset)
 [Assignment 4a: Individual Project Milestone 1 (base)](assign04.html) | Individual | Wednesday, 2-28-24 (in-class Demo)
 [Assignment 4b: Individual Project Milestone 2 (50%)](assign04.html) | Individual | Monday, 3-18-24 (in-class Demo)
 [Assignment 4c: Individual Project Final Demo](assign04.html) | Individual | Monday, 4-8-24 (in class Demo)

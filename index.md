@@ -90,15 +90,15 @@ As such, some of the links below could return 404 Page Not Found Errors.  Profes
 
 * **Feb 12** - [Assignment 4: Individual Project Milestones](assign/assign04.html) **Individual Milestone 1: Baseline** is **due on Monday, 2-28-22**.  This will be an informal (at your desk) 2-4 minute (max) in-class demonstration of your progress, to date.
 
-* **Feb 6** - [Lab02a: Web Applications II](labs/lab02a.html) is posted and is **due by 7:00am, Sunday, 2-20-22**  You must demonstrate Lab02a for a tutor/mentor or your instructor and have them sign-off on it in order to get credit for the lab.  Please also see the [Java and Eclipse Installation Instructions](labs/Eclipse-Java-Installation.html) for additional information about setting up your development environment for the labs.  See also the [WebApps Notes](labs/lab02_notes.html) for additional information about setting up the lab, if you run into trouble with the libraries or the server.
-
-* **Feb 6** - [Assign01: Team Project Proposal](assign/assign01.html) is posted and the **due date has been moved to 7:00am, Sunday, 2-13-22**.
-
-* **Feb 3** - [Lab02: Web Applications I](labs/lab02.html) is posted.  It is simply an introduction to Web Applications, and will ease you into Lab02a.  It is not required, but it will give you a good start on Lab02a.  Please also see the [Java and Eclipse Installation Instructions](labs/Eclipse-Java-Installation.html) for additional information about setting up your development environment for the labs.  See also the [WebApps Notes](labs/lab02_notes.html) for additional information about setting up the lab, if you run into trouble with the libraries or server.
-
-* **Feb 1** - [Lab03: Git and eGit Lab PartI](labs/lab03.html) is posted, and is **due by the start of class, Friday, 2-4-22**.  You are required to establish your GitHub account, create the SSH key pair to access it, and Fork the example project (do all steps through Step 4: Fork).  You may certainly do more than this - we will be getting to Part II of this lab next week. 
-
 -->
+
+* **Feb 6** - [Lab02a: Web Applications II](labs/lab02a.html) is posted and is **due after sign-off on Monday, 2-19-24**  You must demonstrate Lab02a for a tutor/mentor or your instructor and have them sign-off on it in order to get credit for the lab.  Please also see the [Java and Eclipse Installation Instructions](labs/Eclipse-Java-Installation.html) for additional information about setting up your development environment for the labs.  See also the [WebApps Notes](labs/lab02_notes.html) for additional information about setting up the lab, if you run into trouble with the libraries or the server.
+
+* **Feb 6** - [Assign01: Team Project Proposal](assign/assign01.html) is posted and the **due date has been moved to 7:00am, Wednesday, 2-14-24**.
+
+* **Feb 6** - [Lab02: Web Applications I](labs/lab02.html) is posted.  It is simply an introduction to Web Applications, and will ease you into Lab02a.  It is not required, but it will give you a good start on Lab02a.  Please also see the [Java and Eclipse Installation Instructions](labs/Eclipse-Java-Installation.html) for additional information about setting up your development environment for the labs.  See also the [WebApps Notes](labs/lab02_notes.html) for additional information about setting up the lab, if you run into trouble with the libraries or server.
+
+* **Feb 1** - [Lab03: Git and eGit Lab PartI](labs/lab03.html) is posted, and is **due by the start of class, Monday, 2-5-24**.  You are required to establish your GitHub account, create the SSH key pair to access it, and Fork the example project (do all steps through Step 4: Fork).  You may certainly do more than this - we will be getting to Part II of this later in the course. 
 
 * **Jan 30** - [Lab00: Using ChatGPT](labs/lab00.html) is now **due in Marmoset by 7:00am, Friday, 2-2-24**.
 

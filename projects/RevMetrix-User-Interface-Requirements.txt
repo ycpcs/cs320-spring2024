@@ -1,44 +1,74 @@
-RevMetrix User Interface Requirements
+The RevMetrix Bowler User Interface (UI) will allow bowlers to track their performance by providing means for entering their scores, as well as provide access to an array of statistics based on those scores.
 
-Basic Functionality:
-	User must be able to enter their pin counts on a shot-by-shot basis
-	Pin counts will be entered using a replica of the pin layout, which is an inverted equilateral triangle, with rows 4-3-2-1, with pins numbered from right-to-left within rows, starting with the bottom row (1 pin).
-	Each pin in the pin layout can toggle between white w/black number and black w/white number.
-    User will roll a ball, and then record the number of pins remaining by pressing the corresponding pins on the pin layout.  
-	If the User bowls a strike (knocks down all of the pins on the first shot), they will press the Strike ('X') button to renter a strike
-	
-    If there are pins remaining after the first shot, the user selects the pins remaining.
-	As the user indicates the pins remaining, the score for the first shot is then shown in the "First Shot" box.  The score for the first shot can be calculated from 10 - # of pins remaining.
-	
-	After the User has completed entering the first shot (strike or pins remaining), they press the "Next Shot" button, which records the data from the first shot, and brings up the next shot.
-	
-	If the bowler threw a strike, the next frame starts (meaning that the user will be rolling the first shot of the next frame.
-	If there were pins remaining after the first shot, the bowler advance to the second shot fro the current frame.
-	
-	The second shot starts with the remaining pins still marked
-	User rolls the ball again, in an attempt to convert the spare (knock down all remaining pins).
-	If the user converts the spare (no pins remaining after the second shot), they press the Spare button '/'.
-	If there are pins remaining after the second shot, the user toggles the pins that they knocked down, so that only the pins remaining after the second shot are still marked.
-	As the user toggles the pins, the score for the second shot is updated in "Second Shot" box
-	
+A bowler particpants in several types of Events: practice, leagues, tournaments.  The User should be able to register various events through the UI.  Registering an Event includes entering a variety of data related to the Event:
+-	Name: the name of the Event
+-	Type: practice, league, tournament
+-	Location(s) of the Event: the bowling establishment(s) where the Event will occur
+-	Average: the average for all games thrown for the event
+-	Stats: the high and low session scores, high and low game scores from all games for the event, etc...
+-	Sessions: a list of the Sessions associate with the Event
+
+An Event can be composed of one or more Sessions, i.e., a league generally meets weekly at a scheuled time.  Session information will include:
+-	Establishment: picked from the list for the Event
+-	Date: date of the session
+-	Time: scheduled starting time of the session
+-	Team Opponent: for a team session, the opponent's Team name
+-	Individual Opponent: for match play, the opponent's name (it is possible to have a team opponent and an individual opponent at the same time
+-	Score: total score for all games in the session
+-	Stats: # of first shots, # of strikes, spares, opens, splits, spares converted, splits converted, etc...
+-	Games: a list of Games associated with the Session
+
+A Session consists of a number of Games.  For example, a league session generally consists of 3 games each week, whereas a practise session could consist of any number of games (or even partial games (just a series of frames).  Game information will include:
+-	Lane(s): the lane(s) on which a game was bowled.  A game can be bowled on mulitple lanes.  Fro example, a league session is generally conducted on an odd-even pair of lanes, alternate frames between the two lanes.
+-	Game #: the chronological order of the Game within the Session
+-	Score: the score for the game
+-	Starting Lane: the lane the first frame was bowled on
+-	Frames: a list of Fames associated with the Game
+
+A Game consists of 10 frames. Frame information includes:
+-	Frame #: the chronological order of the Frame within the Game
+-	Lane: the lane the frame was bowled on
+-	Result: indicates the result for the frame: strike, spare, open, etc...
+-	Spare: indica
+-	Shots: a Frame can have up to three shots (the first 9 have up to two shots, the 10th can have up to three shots
+
+A Shot is the most basic component of a Game.  For the firt 9 frames, a Frame consists of one or two shots.  For the 10th frame, there can be up to three shots.  The Shot information consists of:
+- 	Shot #: the chronological order of the shot within the Frame
+-	Ball: the Ball used for the shot
+-	Count: pins knocked down on the shot
+-	Leave:  a list of the number of each pin that was left standing after the shot
+-	Type: the type of leave: strike (no pins standing), spare, open, split, washout, etc...
 
 
-The RevMetrix Bowler User Interface (UI) will allow the bowler to keep track of all of their bowling activity.  The UI will enable them to record their bowling performance on a shot-by-shot basis.
+OTHER COMPONENTS:
+-	Account: an account the User creates in order to enter and interact with their data
+-	Event Registration: a means for the User to add Events to their Event Collection
+-	Ball Registration: a means for the User to add Bowling Balls to their Bowling Ball Aresenal (bowling balls that they own/use)
+-	Ball: an individual entry in the Ball Arsenal
+-	Establishment Registration: a means for entering a bowling establishment into the collectino of bowling establishments that host Events the bowler has/will bowl in.
+	Establishment: an individual entry in the Establishments collection
 
-There is a good deal of information associated
 
-A bowler can participate in various types of "Events": practice, leagues, tournaments.
 
-They will roll a number of games during each event.
+BASIC FUNCTIONALITY:
+BOWLING
+-	The bowler will select an Event and Session, and then commence to bowl.
+-	The UI will keep track of game, lane, frame, and shot #'s
+-	The user will roll each shot, and enter the number of pins left standing using an inverted equilateral triangle of numbered circles	(representing the pin layout at the end of a bowling lane)
+-	They will select the pins that were left standing after each shot.
+-	The UI will display the count for the shot as the user selects/deselects the pins left standing
+-	The User will be able to select 'X' if they threw a strike, or '/' if they converted a spare
+-	After the User has finished their selection for a shot, they will submit that shot, and the shot information will be sent to the Server for analysis, storage, processing, and storage.
+-	The user shoud be able to select the ball used on shot - and the UI should remember which ball was last used so that the User does not have entr the ball for every shot.
 
-Within each game there are 10 frames (well, the 10th frame is special, more on that later).
+STATISTICS:
+-	The bowler wil be able to retrieve a wide array of statistics from the games that they have bowled:
+-	League Average: the average of all games bowled in a league
+-	High and Low Games: across all Events, across a certain league, across certain 1st, 2nd, 3rd game within a league, etc...
+-	Strike percentage: percentage of first shots that are strikes (all events, a league, across a date range, for a given ball, etc...
+-	Spare percentage: similar to above for all spare attempts
+-	Leave percentage: the percentage of leaves that are a 10-pin
+-	Conversion percentage: the percentage of leaves that were converted (# of 10-pins made)
+-	Recent performance: a vareity of metrics for performance on strikes, spares, average, etc...
+-	AND SO MUCH MORE...  :-)
 
-Within each frame, there are 2 shots - considered the first ball and the second ball.
-
-The 10th frame is special in that it can have up to 3 shots.  If the bowler throws a strike on the first ball of the 10th frame, they get two more shots.  If they convert a spare in the first two shots of the 10th frame, they get another shot.  It is possible for the bowler to roll 3 strikes in the 10th frame (thus looking like 3 frames, rather than one).  It is also possible for the bowler to roll a strike, followed by a spare, or a spare followed by a strike - thus looking like two frames in the 10th frame.
-
-At its most basic level, the RevMetrix Bowler UI is going to keep track of each shot - the basic unit within the data that is going to be collected and processed.
-	
-	
-	
-	

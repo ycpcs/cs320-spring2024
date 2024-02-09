@@ -13,14 +13,13 @@ Basic Requirements
 A bowler particpants in several types of Events: practice, leagues, tournaments.  The User should be able to register various events through the UI.  Registering an Event includes entering a variety of data related to the Event:
 
 -	Name: the name of the Event
-
 -	Type: practice, league, tournament
 -	Location(s) of the Event: the bowling establishment(s) where the Event will occur
 -	Average: the average for all games thrown for the event
 -	Stats: the high and low session scores, high and low game scores from all games for the event, etc...
 -	Sessions: a list of the Sessions associate with the Event
 
-An Event can be composed of one or more Sessions, i.e., a league generally meets weekly at a scheuled time.  Session information will include:
+An **Event** can be composed of one or more Sessions, i.e., a league generally meets weekly at a scheuled time.  Session information will include:
 -	Establishment: picked from the list for the Event
 -	Date: date of the session
 -	Time: scheduled starting time of the session
@@ -30,21 +29,21 @@ An Event can be composed of one or more Sessions, i.e., a league generally meets
 -	Stats: # of first shots, # of strikes, spares, opens, splits, spares converted, splits converted, etc...
 -	Games: a list of Games associated with the Session
 
-A Session consists of a number of Games.  For example, a league session generally consists of 3 games each week, whereas a practise session could consist of any number of games (or even partial games (just a series of frames).  Game information will include:
+A **Session** consists of a number of Games.  For example, a league session generally consists of 3 games each week, whereas a practise session could consist of any number of games (or even partial games (just a series of frames).  Game information will include:
 -	Lane(s): the lane(s) on which a game was bowled.  A game can be bowled on mulitple lanes.  Fro example, a league session is generally conducted on an odd-even pair of lanes, alternate frames between the two lanes.
 -	Game #: the chronological order of the Game within the Session
 -	Score: the score for the game
 -	Starting Lane: the lane the first frame was bowled on
 -	Frames: a list of Fames associated with the Game
 
-A Game consists of 10 frames. Frame information includes:
+A **Game** consists of 10 frames. Frame information includes:
 -	Frame #: the chronological order of the Frame within the Game
 -	Lane: the lane the frame was bowled on
 -	Result: indicates the result for the frame: strike, spare, open, etc...
 -	Spare: indica
 -	Shots: a Frame can have up to three shots (the first 9 have up to two shots, the 10th can have up to three shots
 
-A Shot is the most basic component of a Game.  For the firt 9 frames, a Frame consists of one or two shots.  For the 10th frame, there can be up to three shots.  The Shot information consists of:
+A **Shot** is the most basic component of a Game.  For the firt 9 frames, a Frame consists of one or two shots.  For the 10th frame, there can be up to three shots.  The Shot information consists of:
 - 	Shot #: the chronological order of the shot within the Frame
 -	Ball: the Ball used for the shot
 -	Count: pins knocked down on the shot
@@ -52,7 +51,8 @@ A Shot is the most basic component of a Game.  For the firt 9 frames, a Frame co
 -	Type: the type of leave: strike (no pins standing), spare, open, split, washout, etc...
 
 
-OTHER COMPONENTS:
+Other Components
+================
 -	Account: an account the User creates in order to enter and interact with their data
 -	Event Registration: a means for the User to add Events to their Event Collection
 -	Ball Registration: a means for the User to add Bowling Balls to their Bowling Ball Aresenal (bowling balls that they own/use)
@@ -62,8 +62,11 @@ OTHER COMPONENTS:
 
 
 
-BASIC FUNCTIONALITY:
-BOWLING
+Basic Functionality
+===================
+
+**BOWLING:**
+
 -	The bowler will select an Event and Session, and then commence to bowl.
 -	The UI will keep track of game, lane, frame, and shot #'s
 -	The user will roll each shot, and enter the number of pins left standing using an inverted equilateral triangle of numbered circles	(representing the pin layout at the end of a bowling lane)
@@ -73,7 +76,8 @@ BOWLING
 -	After the User has finished their selection for a shot, they will submit that shot, and the shot information will be sent to the Server for analysis, storage, processing, and storage.
 -	The user shoud be able to select the ball used on shot - and the UI should remember which ball was last used so that the User does not have entr the ball for every shot.
 
-STATISTICS:
+**STATISTICS:**
+
 -	The bowler wil be able to retrieve a wide array of statistics from the games that they have bowled:
 -	League Average: the average of all games bowled in a league
 -	High and Low Games: across all Events, across a certain league, across certain 1st, 2nd, 3rd game within a league, etc...
@@ -83,4 +87,3 @@ STATISTICS:
 -	Conversion percentage: the percentage of leaves that were converted (# of 10-pins made)
 -	Recent performance: a vareity of metrics for performance on strikes, spares, average, etc...
 -	AND SO MUCH MORE...  :-)
-

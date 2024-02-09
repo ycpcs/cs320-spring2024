@@ -65,7 +65,7 @@ Other Components
 Basic Functionality
 ===================
 
-**BOWLING:**
+#BOWLING:
 
 -	The bowler will select an Event and Session, and then commence to bowl.
 -	The UI will keep track of game, lane, frame, and shot #'s
@@ -76,7 +76,7 @@ Basic Functionality
 -	After the User has finished their selection for a shot, they will submit that shot, and the shot information will be sent to the Server for analysis, storage, processing, and storage.
 -	The user shoud be able to select the ball used on shot - and the UI should remember which ball was last used so that the User does not have entr the ball for every shot.
 
-**STATISTICS:**
+#STATISTICS:
 
 -	The bowler wil be able to retrieve a wide array of statistics from the games that they have bowled:
 -	League Average: the average of all games bowled in a league

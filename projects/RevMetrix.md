@@ -5,7 +5,7 @@ title: "Project: RevMetrix Bowler User Interface"
 
 Project Summary
 ===============
-The RevMetrix Bowler User Interface (UI) will allow bowlers to record and track their performance by providing the means for entering their scores at the [indivdual shot level](RevMetrix-Bolwer-UI-Shot-Entry.html).  The UI will also keep score for the bowler as a Game and Session progress.  That will be the basic input side of the UI.
+The RevMetrix Bowler User Interface (UI) will allow bowlers to record and track their performance by providing the means for entering their scores at the [indivdual shot level](RevMetrix-Bowler-UI-Shot-Entry.html).  The UI will also keep score for the bowler as a Game and Session progress.  That will be the basic input side of the UI.
 
 The output side of the UI will provide several functions:
 -	The UI will provide the accumulated scores for bowling Sessions and will allow the user to interrogate the overall collection of stored Games across a wide range of queries.

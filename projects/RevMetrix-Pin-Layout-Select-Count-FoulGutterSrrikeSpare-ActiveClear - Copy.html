@@ -107,7 +107,8 @@
             font-size: 28px;
             font-weight: bold;
         }
-       .firstSquare::before {
+		
+		.firstSquare::before {
             position: absolute;
             top: 50%;
             left: 50%;
@@ -277,11 +278,16 @@
 		function setFirstShot() {
 			// set the shot # to first
 			shot = 1;
+            document.querySelector('.firstSquare').style.backgroundColor = 'yellow';
+            document.querySelector('.secondSquare').style.backgroundColor = 'lightgrey';
 		}
 		
 		function setSecondShot() {
 			// set the shot # to second
 			shot = 2;
+			
+			document.querySelector('.secondSquare').style.backgroundColor = 'yellow';
+            document.querySelector('.firstSquare').style.backgroundColor = 'lightgrey';
 		}
 		
 		function clearFirstShot() {

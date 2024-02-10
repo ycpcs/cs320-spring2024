@@ -179,8 +179,8 @@
             <div class="circle" onclick="togglePin(this)"><span>1</span></div>
         </div>
         <div class="row">
-            <div class="firstSquare" ><span> </span></div>
-            <div class="secondSquare" ><span> </span></div>
+            <div class="firstSquare" onClick="setFirstShot()"><span> </span></div>
+            <div class="secondSquare" onClick="setSecondShot()"><span> </span></div>
 		</div>
         <div class="row">
             <div class="foulSquare" onclick="setFoul()"><span>F</span></div>
@@ -198,6 +198,7 @@
 
     <script>
 		let pinCount = 0;		// initialize intermediate pin count
+		let shot = 1;			// initialize shot to first
 		
         function togglePin(circle) {
 			// Toggle the class of the clicked circle
@@ -237,12 +238,20 @@
 		function setGutter() {
 			// set up all pins
 			setAllPinsStanding();
+			
+			// gutter on first shot?
+			if (shot == 1) {
+				// clear secondShot whenever firstShot changes
+				clearSecondShot();
 
-			// clear secondSquare whenever firstSquare changes
-			clearSecondShot();
-
-			// display '-', rather than '0'
-			document.querySelector('.firstSquare span').textContent = '-';
+				// display '-', rather than '0' in first shot
+				document.querySelector('.firstSquare span').textContent = '-';
+			} 
+			// otherwise, gutter on second shot
+			else {
+				// display '-', rather than '0' in second shot
+				document.querySelector('.secondSquare span').textContent = '-';	
+			}				
 		}
 
 		// set foul for firstSquare (will not to adjust for secondSquare)
@@ -250,12 +259,30 @@
 			// set up all pins
 			setAllPinsStanding();
 
-			// clear secondSquare whenever firstSquare changes
-			clearSecondShot();
+			// foul on first shot?
+			if (shot == 1) {
+				// clear secondShot whenever firstShot changes
+				clearSecondShot();
+				
+				// display 'F', rather than '0' in first shot
+				document.querySelector('.firstSquare span').textContent = 'F';
+			}
+			// otherwise, foul on second shot
+			else {
+				// display 'F', rather than '0' in second shot
+				document.querySelector('.secondSquare span').textContent = 'F';
+			}
+		}
 
-			// display 'F', rather than '0'
-			document.querySelector('.firstSquare span').textContent = 'F';
-		}	
+		function setFirstShot() {
+			// set the shot # to first
+			shot = 1;
+		}
+		
+		function setSecondShot() {
+			// set the shot # to second
+			shot = 2;
+		}
 		
 		function clearFirstShot() {
             // Clear the content of firstSquare
@@ -330,6 +357,7 @@
             // Clear the content of secondSquare
             document.querySelector('.secondSquare span').textContent = ' ';			
 		}
+		
     </script>
 </body>
 </html>

@@ -9,7 +9,9 @@ The RevMetrix Bowler User Interface (UI) will allow bowlers to record and track 
 
 Basic Requirements
 ==================
-Here are the basic requirements for the RevMetrix Bowler User Interface.  Below are listed the major components for the UI, with descriptions, along with their sub-components.  The basic structure is Event->Session(s)->Game(s)->Frames->Shots.
+Here are the basic requirements for the RevMetrix Bowler User Interface.  Below are listed the major components for the UI, with descriptions, along with their sub-components.
+
+The basic structure is Event->Session(s)->Game(s)->Frames->Shot(s).
 
 **Event**: A bowler can participate in several types of **Events**: practice, leagues, tournaments.  The User should be able to register various Events through the UI.  Registering an Event includes entering a variety of data related to that Event:
 

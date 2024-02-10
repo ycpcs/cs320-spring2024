@@ -5,7 +5,11 @@ title: "Project: RevMetrix Bowler User Interface"
 
 Project Summary
 ===============
-The RevMetrix Bowler User Interface (UI) will allow bowlers to record and track their performance by providing the means for entering their scores at the indivdual shot level.  The UI will also provide access to an array of statistics based on those scores.  The user will then be able to review their scores, as well as request a wide variety of statistics and graphs for not only their scores, but also the individual results for each shot on a frame-by-frame and shot-by-shot basis.
+The RevMetrix Bowler User Interface (UI) will allow bowlers to record and track their performance by providing the means for entering their scores at the [indivdual shot level](RevMetrix-Bolwer-UI-Shot-Entry.html).  The UI will also keep score for the bowler as a Game and Session progress.  That will be the basic input side of the UI.
+
+The output side of the UI will provide several functions:
+-	The UI will provide the accumulated scores for bowling Sessions and will allow the user to interrogate the overall collection of stored Games across a wide range of queries.
+- The UI will also provide access to statistics based on the individual Frames/Shots that the User recorded while bowling those Games. The user will be able to request a wide variety of statistics and graphs for not only their Game scores, but also the individual results for each Frame/Shot on a frame-by-frame and shot-by-shot basis, with correlations and trends between Frame/Shot statistics and Game scores.
 
 Basic Requirements
 ==================
@@ -13,16 +17,16 @@ Here are the basic requirements for the RevMetrix Bowler User Interface.  Below 
 
 The basic structure is Event->Session(s)->Game(s)->Frames->Shot(s).
 
-**Event**: A bowler can participate in several types of **Events**: practice, leagues, tournaments.  The User should be able to register various Events through the UI.  Registering an Event includes entering a variety of data related to that Event:
+**Event**: A bowler can participate in several types of **Events**: practice, leagues, tournaments.  The User will be able to register various Events through the UI.  Event information will include:
 
 -	**Name:** the name of the Event
 -	**Type:** practice, league, tournament
 -	**Location(s) of the Event:** the bowling establishment(s) where the Event will occur
--	**Average:** the average for all Games thrown for the event
--	**Stats:** the high and low Session scores, high and low Game scores from all Games for the Event, etc...
--	**Sessions:** a list of the Sessions associate with the Event
+-	**Sessions:** a list of the Sessions associated with the Event
+-	**Stats:** the overall average for the Event, the high and low Session and Game scores for the Event, 1st, 2nd, 3rd Game averages, etc...
+-	**Standings**: where the User currently stands (or finished) in the rankings of the Event (if known)
 
-**Session:** An Event is composed of one or more **Sessions**, i.e., a league generally meets weekly at a scheduled time.  Session information will include:
+**Session:** An Event is composed of one or more **Sessions**, i.e., a league generally meets weekly at a scheduled time, generally at the same establishment - although there are travelling leagues that bowl at different establishments each week.  Tournaments can have multiple Sessions in a single day and can span multiple days and even weeks across multiple establishments.  Session information will include:
 
 -	**Establishment:** picked from the list for the Event
 -	**Date:** date of the Session
@@ -72,7 +76,7 @@ Basic Functionality
 
 -	The bowler will select an Event, Establishment, Session, Lane(s), Bowling Ball(s), and then commence to bowl.
 -	The UI will automatically keep track of Game, score, lane, ball, Frame, and Shots.
--	The user will roll each Shot, and enter the pins left standing via an inverted equilateral triangle of numbered circles (representing the pin layout at the pin deck of a bowling lane).
+-	The user will roll each Shot and enter the pins left standing via an [inverted equilateral triangle of numbered circles](RevMetrix-Bowler-UI-Shot-Entry.html), which represents the pin layout at the pin deck of a bowling lane).
 -	Pin selection will be clickable and touch-sensitive for touch screens.
 -	The User will select the pins that were left standing after each Shot.
 -	The UI will update the count for the Shot as the user selects/deselects the pins left standing.

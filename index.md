@@ -86,11 +86,11 @@ As such, some of the links below could return 404 Page Not Found Errors.  Profes
 
 * **Feb 21** - [Assignment 5: Team Use Cases](assign/assign05.html) is **due by 7:00am, Wednesday, 3-2-22**.  You will need it for the in-class exercise for the Textual Analysis of your team project Use Cases later that day.
 
-* **Feb 15** - Posted the [sign-off criteria for the Web Applications II lab](labs/lab02a-signoff-criteria.html).  The **minimum passing criteria** have been posted under the **Submission section** for the [Web Applications II lab](labs/lab02a.html).  Please review all of the criteria before asking your instructor or a tutor/mentor to sign-off on your **Lab02a** submission.  Also, a [lab sign-off sheet](labs/CS320-Lab02a-WebApplicationsII-LabSignOff.pdf) has been posted as a downloadeable PDF file.  **Please download and print this out so that you can use it as a check-off sheet when you get your lab sign-off.**
-
-* **Feb 12** - [Assignment 4: Individual Project Milestones](assign/assign04.html) **Individual Milestone 1: Baseline** is **due on Monday, 2-28-22**.  This will be an informal (at your desk) 2-4 minute (max) in-class demonstration of your progress, to date.
-
 -->
+
+* **Feb 11** - [Assignment 4: Individual Project Milestones](assign/assign04.html) **Individual Milestone 1: Baseline** is **due on Wednesday, 2-28-24**.  This will be an informal (at your desk) 3-4 minute (max) in-class demonstration of your progress, to date.
+
+* **Feb 11** - Posted the [sign-off criteria for the Web Applications II lab](labs/lab02a-signoff-criteria.html).  The **minimum passing criteria** have been posted under the **Submission section** for the [Web Applications II lab](labs/lab02a.html).  Please review all of the criteria before asking your instructor or a tutor/mentor to sign-off on your **Lab02a** submission.  Also, a [lab sign-off sheet](labs/CS320-Lab02a-WebApplicationsII-LabSignOff.pdf) has been posted as a downloadeable PDF file.  **Please download and print this out so that you can use it as a check-off sheet when you get your lab sign-off.**
 
 * **Feb 6** - [Lab02a: Web Applications II](labs/lab02a.html) is posted and is **due after sign-off on Monday, 2-19-24**  You must demonstrate Lab02a for a tutor/mentor or your instructor and have them sign-off on it in order to get credit for the lab.  Please also see the [Java and Eclipse Installation Instructions](labs/Eclipse-Java-Installation.html) for additional information about setting up your development environment for the labs.  See also the [WebApps Notes](labs/lab02_notes.html) for additional information about setting up the lab, if you run into trouble with the libraries or the server.
 

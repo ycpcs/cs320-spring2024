@@ -10,7 +10,28 @@
             flex-direction: column;
             align-items: center;
         }
-
+		
+		.gameFrameHeader {
+            margin-right: 20px;
+			display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            font-size: 28px;
+            font-weight: bold;
+		}
+		
+		.gameFrameHeader label {
+			margin-right: 10px;
+			text-align: center;
+		}
+		
+		.gameFrameHeader input {
+            border: 2px solid black;
+			text-align: center;
+			font-weight: bold;
+		}
+		
         .row {
             display: flex;
             justify-content: center;
@@ -163,6 +184,16 @@
 </head>
 <body>
     <div class="container">
+		<div class="row">
+			<div class="gameFrameHeader">
+				<label>Game: </label>
+				<input type="text" id="gameNum" readonly size="2" />
+			</div>
+			<div class="gameFrameHeader">			
+				<label>Frame: </label>
+				<input type="text" id="frameNum" readonly size="2" />
+			</div>
+		</div>				
         <div class="row">
             <div class="pin" onclick="togglePin(this)"><span>7</span></div>
             <div class="pin" onclick="togglePin(this)"><span>8</span></div>
@@ -206,14 +237,34 @@
 		const NO_PINS  = 0;
 		const ALL_PINS = 10; 
 		
+		// constants for frame limits
+		const MIN_FRAMES = 1;
+		const MAX_FRAMES = 12;
+		
 		// declare and initialize global variables
 		let pinCount        = NO_PINS;		// intermediate pin count
 		let firstShotCount  = NO_PINS;		// count of pins knocked down on first shot
 		let secondShotCount = NO_PINS;		// count of pins knocked down on second shot
 		let shot 			= FIRST_SHOT;	// start with first shot
 		
+		// TODO: when there is a server/application setting these, remove this
+		// setting these here until they are sent down by the server
+		let frameNumber = 1;
+		let gameNumber  = 1;
+		
+//********************************************************************************
+// This code initializes the display values through JS upon entry to the page
+//********************************************************************************
+
+		// TODO: change this to initialize to values sent from server
+		// initialize Game and Frame
+		document.getElementById('frameNum').value = frameNumber;
+		document.getElementById('gameNum').value = gameNumber;	
+
 		// select first shot to start
 		setFirstShot();
+
+//************************************************************************	
 		
         function togglePin(pin) {
 			// toggle the class of the clicked pin
@@ -419,6 +470,13 @@
 			// start with first shot
 			setFirstShot();
 			
+			// TODO: remove this when server/application is calculating it
+			//       for now, update frame number
+			if (frameNumber > MIN_FRAMES) {
+				frameNumber--;
+				document.getElementById('frameNum').value = frameNumber;
+			}
+			
 			// TODO: this will have to pull from the DB to get the previous shot info,
 			//       and then reconstruct the frame
 			//         what do you do with the existing frame data?
@@ -439,6 +497,13 @@
 			// start with first shot
 			setFirstShot();
 			
+			// TODO: remove this when server/application is calculating it
+			//       for now, update frame number
+			if (frameNumber < MAX_FRAMES) {
+				frameNumber++;
+				document.getElementById('frameNum').value = frameNumber;
+			}
+
 			// TODO: if this is a new frame, then gather the info for the frame,
 			//          submit it to the server, and start a new frame
 			//       if this is an existing frame, then gather the info for the frame,

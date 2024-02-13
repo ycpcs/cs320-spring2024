@@ -175,9 +175,19 @@
             transform: translate(-50%, -50%);
         }
 		
-        .pin.active {
+        .pin.leave {
             background-color: black;
             color: white;
+        }
+
+        .pin.leave {
+            background-color: black;
+            color: white;
+        }
+
+        .pin.miss {
+            background-color: red;
+            color: black;
         }
 
     </style>
@@ -268,13 +278,13 @@
 		
         function togglePin(pin) {
 			// toggle the class of the clicked pin
-            pin.classList.toggle("active");
+            pin.classList.toggle("leave");
 
-            // count the number of inactive pins (pins knocked down)
-            const inactivePins = document.querySelectorAll('.pin:not(.active)');
+            // count the number of pins knocked down
+            const pins = document.querySelectorAll('.pin:not(.leave)');
 			
-			// update pinCount with the # of pins knocked down (inactive)
-            pinCount = inactivePins.length;
+			// update pinCount with the # of pins knocked down
+            pinCount = pins.length;
 			
 			// first shot?
 			if (shot == FIRST_SHOT) {
@@ -323,14 +333,14 @@
         function clearPins() {
             var pins = document.querySelectorAll('.pin');
             pins.forEach(function(pin) {
-                pin.classList.remove('active');
+                pin.classList.remove('leave');
             });
         }
 		
         function setAllPinsStanding() {
             var pins = document.querySelectorAll('.pin');
             pins.forEach(function(pin) {
-                pin.classList.add('active');
+                pin.classList.add('leave');
             });
 			
 			// reset all counts

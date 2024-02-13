@@ -180,11 +180,6 @@
             color: white;
         }
 
-        .pin.leave {
-            background-color: black;
-            color: white;
-        }
-
         .pin.miss {
             background-color: red;
             color: black;
@@ -277,20 +272,31 @@
 //************************************************************************	
 		
         function togglePin(pin) {
-			// toggle the class of the clicked pin
-            pin.classList.toggle("leave");
+			if (shot == FIRST_SHOT) {
+				// toggle between knocked down (white) and leave (black)
+				pin.classList.toggle("leave");
+				
+				// count the number of pins knocked down on first shot
+				const firstPins = document.querySelectorAll('.pin:not(.leave)');
+				
+				// get first shot count from list of pins knocked down
+				firstShotCount = firstPins.length
 
-            // count the number of pins knocked down
-            const pins = document.querySelectorAll('.pin:not(.leave)');
-			
-			// update pinCount with the # of pins knocked down
-            pinCount = pins.length;
+			}
+			else {
+				// toggle between leave (black) and miss (red)
+				pin.classList.toggle("miss");
+
+				// count total number of pins knocked down after second shot
+				const secondPins = document.querySelectorAll('.pin:not(.miss)');
+				
+				// get number of pins knocked down on second shot
+				// from list of pins knocked down after second shot
+				secondShotCount = secondPins.length - firstShotCount
+			}
 			
 			// first shot?
 			if (shot == FIRST_SHOT) {
-				// update first shot count
-				firstShotCount = pinCount;
-
 				// strike?
 				if (firstShotCount == ALL_PINS) {
 					// display 'X'
@@ -307,13 +313,8 @@
 			}
 			// otherwise, second shot
 			else {
-				// calculate second shot count
-				// pins left standing after first shot - pins left standing after second shot
-				// reduces to pinCount - firstShotCount
-				secondShotCount = pinCount - firstShotCount
-				
 				// spare?
-				if (pinCount == ALL_PINS) {
+				if ((firstShotCount + secondShotCount) == ALL_PINS) {
 					// display ('/')
 					document.querySelector('.secondShot span').textContent = '/';
 				}

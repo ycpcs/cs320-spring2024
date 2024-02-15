@@ -8,7 +8,7 @@ Your Task
 
 See [Lab02: Web Applications I Lab](lab02.html) for instructions on how to download the two archive components for Lab02 and then import them into Eclipse.  This version of the lathen b (Lab02a: Web Applications II) assumes that you have downloaded and completed Lab02 and builds upon the **AddNumbers** and **GuessingGame** examples from that lab.
 
-Lab02a will "force" you to investigate, explore, and learn the structure of a WebApp, from the server (**main()**), through **Web.xml**, the servlets, the controllers, the model, and the JSPs, as well as how to refactor project components.  You will need to have this kind of familiarity with the WebApp architecture in order to get started on your team project, as well as to be able to make significant technical contributions to any and all aspects of your team project.  
+Lab02a will "force" you to investigate, explore, and learn the structure of a standard WebApp, from **Web.xml**, the servlets, the controllers, the model, all the way through the **JSPs**.  You will need to have this kind of familiarity with the WebApp architecture in order to get started on your team project, as well as to be able to make significant technical contributions to any and all aspects of your team project.  
 
 **NOTE:** You must work individually on this lab.  It is imperative that everyone on your team be able to fully comprehend, design, implement, toubleshoot, and debug the complete architecture of a standard client-server application.  This **WILL** come up on the exam.
 
@@ -55,8 +55,8 @@ Although you should strive to satisfy all of the above tests, a minimum passing 
 * An **operational Index page** that links to all 3 applications
 * The **Add Numbers page** must allow entry of three numbers
 * A **Numbers.java** model file
-* **AddNumbers.JSP** and **MultiplyNumbers.JSP** must pull their field data directly from **Numbers.java** and **NOT** from the parameter values passed in through the HTTP POST received by the the Servlet.
-* There will be at least **some test cases** for the methods in **MultiplyNumbersController.java** and **Numbers.java**
+* **AddNumbers.JSP** and **MultiplyNumbers.JSP** must pull their field data directly from **Numbers.java** and **NOT** from the original parameter values passed in through the HTTP POST received by the Servlet.
+* There will be at least **some test cases** for the methods in **NumbersController.java** and **Numbers.java**
 
 When you are done, submit the lab to the Marmoset server using the method below.
 

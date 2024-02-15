@@ -38,7 +38,7 @@ After you refactor the project name, refactor the package names, change the loca
 
 * As part of this exercise, implement a complete set of test cases for the controller and model classes.  Implement those test cases as you develop each of the above tasks.  A significant portion of the effort on your team project will be creating an extensive and comprehensive set of JUnit test cases - **WHILE YOU ARE DEVELOPING YOUR TEAM PROJECT**.
 
-* **NOTE: I HIGHLY recommend that you save your work after you have each of the above steps working.**  To that point, I also highly recommend that you use this lab as a means for learning how to use **git** to store your changes on **GitHub**.
+**NOTE: I HIGHLY recommend that you save your work after you have each of the above steps working.**  To that point, I also highly recommend that you use this lab as a means for learning how to use **git** to store your changes on **GitHub**.
 
 At a minimum, archive the project at each stage, and submit it to Marmoset.  That will provide a back-up in case you lose your work, or if you need to revert to a previous version of your work. If you want to keep your previous work accessible to you, make copies of your project in Eclipse after the completion of each step, and then rename that copy to indicate the completed step.  Continue your effort in the existing project.  I still **strongly** suggest regularly storing your archives to Marmoset (preferably to GitHub) so that you can restore your work if your PC dies.
 

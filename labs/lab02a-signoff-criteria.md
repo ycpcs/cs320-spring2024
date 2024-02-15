@@ -17,7 +17,7 @@ Tests for Web Applications II Lab (Lab02a) Sign-Off
  
  6) Replace the **third number** with **"abc"**: Get correct error message: **"Invalid double"** (required), with all fields still filled with the submitted values (optional extra credit).
 
- 7) Go back to the **Index Page**
+ 7) Go back to the **Index Page**.
 
  8) Go to **Multiply Numbers** from the **Index page**: The **MultiplyNumbers** page appears, with two number fields.
  
@@ -37,6 +37,6 @@ Tests for Web Applications II Lab (Lab02a) Sign-Off
 
 16) Pull up **addNumbersServlet.java**: Verify that it is **only** setting the **error message** and the **model** in the HTTP request before forwarding the HTTP request to the JSP.
 
-17) Pull up **multiplyNumbers.JSP**: Verify that it is pulling data for the fields directly from the **Numbers.java** model, and **NOT** using values passed in as named parameters through the Servlet (except for ** error message** and the **Numbers.java** model reference).
+17) Pull up **multiplyNumbers.JSP**: Verify that it is pulling data for the fields directly from the **Numbers.java** model, and **NOT** using values passed in as named parameters through the Servlet (except for **error message** and the **Numbers.java** model reference).
 
 18) Run test cases for **NumbersController.java** controller and **Numbers.java** model: Test cases exist and pass.  A complete set of test cases should cover the **constructor(s)**, the **getters**, **setter(s)**, and the **add** and **multiply** methods.

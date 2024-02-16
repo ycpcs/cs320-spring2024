@@ -106,7 +106,7 @@ Example CSV File Structure:
 
 * Rooms Table CSV File Structure
 
-Each room has links to other rooms that can be reached by the associated move.  This table is esaily extensible to any number of acceptable moves for any room, and any number of rooms.
+Each room has links to other rooms that can be reached by the associated move.  This table is easily extensible to any number of acceptable moves for any room, and any number of rooms.
 <pre>
 ID  room name              move    ID  move   ID   move   ID   move   ID
 

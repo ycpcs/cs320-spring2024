@@ -28,4 +28,4 @@ Assignment | Type | Due
 [Assignment 4a: Individual Project Milestone 1 (base)](assign04.html) | Individual | Wednesday, 2-28-24 (in-class Demo)
 [Assignment 4b: Individual Project Milestone 2 (50%)](assign04.html) | Individual | Monday, 3-18-24 (in-class Demo)
 [Assignment 4c: Individual Project Final Demo](assign04.html) | Individual | Monday, 4-8-24 (in class Demo)
-[Assignment 9: Individual Project Report](assign09.html) | Individual | Tuesday, 4-9-24, by Noon (PDF submitted to Marmoset)
+[Assignment 9: Individual Project Report](assign09.html) | Individual | Wednesday, 4-10-24, by 7:00am (PDF submitted to Marmoset)

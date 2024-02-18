@@ -86,7 +86,7 @@ As such, some of the links below could return 404 Page Not Found Errors.  Profes
 
 	* [Figma](https://www.figma.com/)
 	* [Draw.io online version](https://app.diagrams.net/)
-	* [Draw.io Download)(https://www.drawio.com/)
+	* [Draw.io Download](https://www.drawio.com/)
 
 * **Feb 22** - [Assignment 6: Problem Domain Analysis](assign/assign06.html) is **due by Noon, Tuesday, 3-12-24.**  I STRONGLY recommend that you begin collaborating on this assignment remotely over Winter Break using Google Docs, and your shared Google Team Drive so that you have a preliminary design from which to develop your Team Project for yor upcoming Team Milestone 1 presentation and demo.  You also **MUST** create and embed a **PDF, PNG, or JPG** version of your UML document in your Google Doc submission. **Embed it in your Google doc - DO NOT LINK TO YOUR UML DIAGRAM.**
 

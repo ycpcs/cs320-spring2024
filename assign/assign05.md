@@ -62,5 +62,5 @@ Also save a PDF version of your Google document using the same naming format and
 <div class="callout">
 <b>Important</b>: Your submission <i>must</i> be a Google Doc, shared via your Group Project folder.
 
-**AND** you must also submit a **PDF** version of that document to Marmoset.  Do not submit a file in any other format.
+<b>AND</b> you must also submit a <b>PDF</b> version of that document to Marmoset.  Do not submit a file in any other format.
 </div>

@@ -44,15 +44,29 @@ JavaScript (JS)
 
 [Free Code Camp](https://www.freecodecamp.org): Covers various JavaScript versions (you need to create a free account)
 
-Unified Modeling Language (UML)
-===============================
+Email address validation
+========================
 
-[UML Diagrams](http://usna86-techbits.blogspot.de/2012/11/uml-class-diagram-relationships.html): A concise explanation of UML relationships and diagrams
+[A Java email validator class using regex (regular expressions)](https://www.mkyong.com/regular-expressions/how-to-validate-email-address-with-regular-expression/)
 
-[Violet UML Download](violetumleditor-2.1.0.jar): Use Violet UML for your project UML diagrams
+Drawing Packages for Wireframes, UML Diagrams, and Database Schemas
+===================================================================
 
-Git, GitHub, and eGit
-=====================
+I recommend using either of the following **free** tools for creating your diagrams for your group's Wireframes, UML Diagrams and Database Schemas.  You may use other drawing tools, but whichever drawing tool you use, you **must be able to export PDF, PNG, or JPG versions of your drawings**, so that you can embed them on your assignment submissions.
+
+[Figma](https://www.figma.com/)
+
+[Draw.io online version](https://app.diagrams.net/)
+
+[Draw.io downloadable version)](https://www.drawio.com/)
+
+Git, GitHub, eGit, Git Desktop Clients
+======================================
+
+[GitHub Desktip - Desktop CLient for GitHub](https://desktop.github.com/): If eGit for Eclipse just isn't cutting it for you and your team, try this.  It works outside of your IDE, but many students/faculty consider it easier to use.
+
+[Git-Tower - Desktop Client for Git](https://www.git-tower.com/windows): If eGit for Eclipse just isn't cutting it for you and your team, try this.  It works outside of your IDE, but many students/faculty consider it easier to use.
+
 [Git Branching Demo](https://learngitbranching.js.org/): Great JavaScript-based demo for using branches in Git
 
 [Free Code Camp](https://www.freecodecamp.org): Covers Git and GitHub (you need to create a free account)
@@ -73,6 +87,12 @@ Git, GitHub, and eGit
 
 [eGit: Fetching and merging changes from within Eclipse](fetchMerge.html)
 
+Unified Modeling Language (UML)
+===============================
+
+[UML Diagrams](http://usna86-techbits.blogspot.de/2012/11/uml-class-diagram-relationships.html): A concise explanation of UML relationships and diagrams
+
+
 Relational Databases and Structured Query Language (SQL)
 ========================================================
 
@@ -84,19 +104,13 @@ Relational Databases and Structured Query Language (SQL)
 
 > <div class="callout"><b>When you implement the persistence layer using Derby for your team project</b>: when specifying the JDBC URL in the code where you connect to the database, you should use an absolute file name for the database name. For example, <code>jdbc:derby:H:/mydatabase.db;create=true</code> (this will create the database as <code>H:/mydatabase.db</code>).  If you use a relative file name, your web application will probably not find the database (because it runs in the <code>war</code> directory rather than the root directory of the project).</div>
 
-Email address validation
-========================
-
-[A Java email validator class using regex (regular expressions)](https://www.mkyong.com/regular-expressions/how-to-validate-email-address-with-regular-expression/)
-
-
-CS320 Lab05 (JDBC) Solution (will be posted Wednesday morning, 3-30-22)
+CS320 Lab05 (JDBC) Solution (will be posted by Noon, Tuesday, 3-26-24)
 ==========================
 
 [CS320\_Lab05\_Solution-2022.zip](CS320_Lab05_Solution-2022.zip): A solution for the JDBC lab (Lab05).  You can import this into the same workspace as your Lab05 solution, as the solution project is named **CS320\_Lab05\_Solution-2022**.  Please compare your solution to this code, and make any necessary changes in your code, as an exercise to further understand the material.  There are plenty of comments included in the solution to describe what is happening and why it is being done.
 
 
-CS320 Library Example Project
+CS320 Library Example Project (will be posted by Noon, Thursday, 4-4-24)
 =============================
 
 [CS320\_LibraryExample-2022.zip](CS320_LibraryExample-2022.zip): Eclipse project that ties the [Web Applications Lab](../labs/lab02.html) together with the [ORM Lab](../labs/lab06.html).  This application places a web front-end on the SQL transactions from Lab06, as well as provides examples for creating a Derby database from CSV files, how to use session information after login, and how to use JSTL to display a list of complex objects in a JSP.  It has been updated to incorporate a many-to-many (M2M) relationship between **Books** and **Authors**, using a junction table (**booksAuthors**) that cross-references **book_id**'s with **author_id**'s.  It also contains some basic (non-exhaustive) JUnit Tests for testing the Derby database queries.

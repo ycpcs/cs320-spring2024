@@ -11,7 +11,7 @@ Assignment | Type | Due
 ---------- | ---- | ---
 **Team Project Assignments** | **Team** | **See Below**
 [Assignment 1: Team Project Proposal](assign01.html) | Team | Wednesday, 2-14-24, by 7:00am (PDF submitted to Marmoset)
-[Assignment 5: Use Cases](assign05.html) | Team | Friday, 2-23-24, by Noon (Shared Google Doc)
+[Assignment 5: Draft Use Cases](assign05.html)<br>[Assignment 5: Final Use Cases](assign05.html) | Team | Friday, 2-23-24, by start of class (Shared Google Doc)<br>Sunday, 2-25-24, by Noon (Shared Google Doc)
 [Assignment 6: Problem Domain Analysis](assign06.html) | Team | Tuesday, 3-12-24, by Noon (Shared Google Doc)
 [Assignment 3a: Team Project Milestone 1 (MWS)](assign03.html) | Team | Wednesday, 3-13-24 (in-class Presentation)
 [Assignment 3b: Team Project Milestone 2 (50%)](assign03.html) | Team | Wednesday, 3-27-24 (in-class Presentation)

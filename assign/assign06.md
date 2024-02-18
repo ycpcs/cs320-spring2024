@@ -22,20 +22,24 @@ Step 2: Build an Analysis Model
 
 Based on your textual analysis, construct a UML class diagram modeling your project's problem domain.
 
-You will probably want to work with your group using a whiteboard, since problem domain analysis is a *process*.  Your group will undoubtedly make a number of changes to the model as you explore possible ways of modeling the problem domain.
+You will probably want to work with your group using a whiteboard, since problem domain analysis is a *process*.  Your group will undoubtedly make a number of changes to the UML diagram as you explore possible ways of modeling the problem domain.
 
-Once your group is satisfied with your model, create an electronic version of the model using [Violet UML](http://alexdp.free.fr/violetumleditor/page.php).  Note that you can download the Violet UML jar file from the course [Resources](../resources/index.html) page.
+While your group is creating its UML diagram, create an electronic version of the diagram using a drawing package such as:
+>	[Figma](https://www.figma.com/)
 
-> **Note**: If you would like to use a different UML modeling tool, please see me.
+>	[Draw.io online version](https://app.diagrams.net/)
 
-Use associations (plain, aggregation, composition) and generalizations (Is-A / inheritance) to show the relationships between the classes (noun phrases) in your model. Give each association a name to indicate the roles of the two classes involved in the association. Add the important methods (verb phrases) to the classes to which they are most likely to belong. Don't worry about specifying parameters and return types for the methods.
+>	[Draw.io downloadable version)](https://www.drawio.com/)
+
+
+Use **Associations (plain, aggregation, composition)** and **Generalizations (Is-A / inheritance)** to show the relationships between the **Classes (noun phrases)** in your model. Give each association a name to indicate the roles of the two classes involved in the association. Indicate **multiplicity** in your associations that are NOT 1-to-1.  Add the **important methods (verb phrases)** to the classes to which they are most likely to belong. If you already know them, specifying the parameters and return types for the methods.  Do **NOT** include your constructors, getters, and setters in your Class diagrams - encapsulation is assumed to exist.
 
 > **Note**: Because you are building an analysis model, avoid modeling any "implementation" classes such as those involved in the user interface, data storage, etc., unless there are important requirements which would not otherwise be addressed by the model.
 
 Step 3: Explain the Model
 -------------------------
 
-In a text document of 1 page, *briefly* explain your analysis model. Discuss why you felt the classes you modeled are the most important ones. Is there a class or classes that seem to be "central" to the model? How did you determine where to put the important methods?
+In the description portion of the document, *briefly* (1-2 pages) explain your analysis model. Discuss why you felt the classes you modeled are the most important ones. Is there a class or classes that seem to be "central" to the model? How did you determine where to put the important methods?
 
 Examples: 
 ---------
@@ -51,13 +55,16 @@ Here are some examples of previous Team Problem Domain Analysis submissions:
 Submitting
 ==========
 
-Create an Analysis document for your project in Google Docs that includes your group's Textual Analysis, Violet UML Model, and an explanation of your Analysis Model.  Name the Analysis document **assign06-www-xxx-yyy-zzz**, substituting the YCP user names of your project team members,**in alphabetical order**.
+Create an Analysis and Design document for your project in Google Docs that includes your group's Textual Analysis, UML Model Diagram, and an explanation of your Analysis Model.  Name the document **assign06-www-xxx-yyy-zzz**, substituting the YCP user names of your project team members,**in alphabetical order**.
 
-Place your Analysis document under your shared Google Drive Group Project folder.  Also post your Violet UML (.class.violet) file of your Analysis Model to the Group Project folder.
+Place your Analysis document under your Google shared Group Project folder.  Also post your UML Diagam file(s) of your Analysis Model to the Group Project folder.
+
+Also save a PDF version of your Google document using the same naming format and submit it to Marmoset under the **Assign06: Team Problem Domain Analysis** project.
 
 <div class="callout">
 <b>Important</b>: Your submission <i>must</i> be a Google Doc, shared via your Group Project folder.
-Do not submit a document in any other format.
+
+**AND** you must also submit a **PDF** version of that document to Marmoset.  Do not submit a file in any other format.
 </div>
 
 <!-- vim:set wrap: ­-->

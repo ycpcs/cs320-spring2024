@@ -76,8 +76,6 @@ As such, some of the links below could return 404 Page Not Found Errors.  Profes
 
 * **Mar 14** - [Lab04: SQL, Queries, Joins](labs/lab04.html) is posted.  It is **due by 7:00am, Wednesday, 3-23-22 for 10% extra credit** OR **by 7:00am, Thursday, 3-24-22 for full credit**.  Make sure to use the template for your Lab04 submission. See the instructions on the Lab04 page.
 
--->
-
 * **Feb 26** - [Individual Project Milestone 2: 50% Working System](assign/assign04.html) is **due Monday, 3-18-24**.  This will be an informal (at your desk) 3-4 minute (max) in-class demonstration of your progress since Milestone 1.
 
 * **Feb 26** - [Assignment 3: Team Project Milestones](assign/assign03.html) **Team Milestone 1: Minimal Working System** is **due on Wednesday, 3-13-24**.    This will be a FORMAL 10-12 minute (max) in-class team presentation/demonstration of your team's progress on your UI structure and navigation.  You should have the majority of your servlets and JSPs defined, and be able to navigate between most, if not all, of your pages.  Your HTML/CSS will still be in a rough state - don't worry about making it "pretty", focus on functionality over form.  There is **NO** expectation for having any of your SQL database implemented or working.
@@ -89,6 +87,8 @@ As such, some of the links below could return 404 Page Not Found Errors.  Profes
 	* [Draw.io Download](https://www.drawio.com/)
 
 * **Feb 22** - [Assignment 6: Problem Domain Analysis](assign/assign06.html) is **due by Noon, Tuesday, 3-12-24.**  I STRONGLY recommend that you begin collaborating on this assignment remotely over Winter Break using Google Docs, and your shared Google Team Drive so that you have a preliminary design from which to develop your Team Project for yor upcoming Team Milestone 1 presentation and demo.  You also **MUST** create and embed a **PDF, PNG, or JPG** version of your UML document in your Google Doc submission. **Embed it in your Google doc - DO NOT LINK TO YOUR UML DIAGRAM.**
+
+-->
 
 * **Feb 18** - [Assignment 5: Final Team Use Cases](assign/assign05.html) is **due by Noon, Sunday, 2-25-24**.  You will need them to start your OOP Analysis, Design, and UML diagram in-class on Monday, 2-26-24.
 

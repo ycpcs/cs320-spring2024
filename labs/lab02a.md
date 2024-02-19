@@ -20,11 +20,11 @@ Lab02a will "force" you to investigate, explore, and learn the structure of a st
 
 You have six tasks:
 
-* First, make a copy of the **CS320\_Lab02_username** project, and then refactor that copy to **CS320\_Lab02a\_username**.  YOU MUST DO THIS BEFORE YOU EXPORT YOUR SOLUTION AND SUBMIT IT TO MARMOSET.  **Submissions that DO NOT adhere to that guideline will not be graded until they are refactored and resubmitted.**
+* First, make a copy of the **CS320\_Lab02_username** project, and then refactor (rename) that copy to **CS320\_Lab02a\_username**.  YOU MUST DO THIS BEFORE YOU EXPORT YOUR SOLUTION AND SUBMIT IT TO MARMOSET.  **Submissions that DO NOT adhere to that guideline will not be graded until they are refactored and resubmitted.**
 
-Example: I would refactor the copy of my **CS320\_Lab02\_djhake2** project to **CS320\_Lab02a\_djhake2** as soon as I imported the project into Eclipse.
+Example: I would refactor (rename) the copy of my **CS320\_Lab02\_djhake2** project to **CS320\_Lab02a\_djhake2** as soon as I imported the project into Eclipse.
 
-<!-- Commenting out this part - it is too much of a PITA at this point in the semester
+<!-- Commenting out this part - it is too much of a PITA this early in the semester
 
 After you refactor the project name, refactor the package names, change the locations specified in **Web.xml** and the JSP's, as well as the context folder specified in **main()** so that they all refer to **lab02a\_username**. Verify that both of the **AddNumbers** and **GuessingGame** WebApps still work - you will no longer be able to use the URL links included on the **CS320\_Lab02** page, you will need to modify those URLs to replace **lab02** with **lab02a\_username**.  You should save those new URLs as bookmarks in your browser.
 

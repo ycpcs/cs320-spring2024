@@ -69,7 +69,9 @@ From a web browser
 
 Save your project (**CS320\_Lab02a\_username**) to a zip file by right-clicking it and choosing
 
-> **Export...&rarr;Archive File**
+> **Export &rarr; General &rarr; Archive File**
+
+Make sure to choose an appropriate location and archive name before saving the archive, or you might unintentionally overwrite an archive that you previously saved.
 
 Upload the saved zip file to the **Lab02a** project on the Marmoset server. The server URL is
 

@@ -11,9 +11,9 @@ The labs provide extremely important concepts and techniques that will be essent
 
 In fact, your team will likely be using Lab06 as the basis for your team project's database.  If you ask any of the teams from previous years, they will all tell you that the database portion of their project implementation was the most time-consuming and difficult of their various project's tasks.
 
-**NOTE: For Lab02a, Lab05, and Lab06 (the labs that require programming submissions), you MUST also refactor the name of the project to include your username - BEFORE YOU EXPORT IT AND SUBMIT IT TO MARMOSET.  Submissions that DO NOT adhere to that guideline will NOT be graded until they are refactored and resubmitted.**
+**NOTE: For Lab02a, Lab05, and Lab06 (the labs that require programming submissions), you MUST also refactor (rename) the project to include your username - BEFORE YOU EXPORT IT AND SUBMIT IT TO MARMOSET.  Submissions that DO NOT adhere to that guideline will NOT be graded until they are refactored and resubmitted.**
 
-Example: If I was submitting Lab02, I would refactor the **CS320\_Lab02** project to **CS320\_Lab02\_djhake2** as soon as I imported the project into Eclipse.  You should do the same with your user name for all three Java programming projects that are listed above.
+Example: If I was submitting Lab02a, I would refactor (rename) the **CS320\_Lab02a** project to **CS320\_Lab02a\_djhake2** as soon as I imported the project into Eclipse.  You should do the same with your user name for all three Java programming projects that are listed above.
 
 
 Due Date | Lab | File

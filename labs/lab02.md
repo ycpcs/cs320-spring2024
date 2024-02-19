@@ -20,7 +20,7 @@ To run the AddNumbers webapp, run **Main.java** as a Java application and enter 
 
 > [http://localhost:8081/lab02/addNumbers](http://localhost:8081/lab02/addNumbers)
 
-**NOTE:** You must work individually on this lab.  It is imperative that everyone on your team be able to fully comprehend, design, implement, toubleshoot, and debug the complete architecture of a standard client-server application.  This **WILL** come up on the exam.
+**NOTE:** You must work individually on this lab.  It is imperative that everyone on your team be able to fully comprehend, design, implement, troubleshoot, and debug the complete architecture of a standard client-server application.  This **WILL** come up on the exam.
 
 **NOTE:** If you start the server and then run AddNumbers from your browser and get a mass of Java JSP compiler errors returned from the local host, go to the [Notes for Lab 2 Page](lab02_notes.html) for instructions on solving the problem.  There are also some additional notes at the bottom of that page for other problems that you might encounter.
 

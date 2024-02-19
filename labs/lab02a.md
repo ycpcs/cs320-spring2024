@@ -6,13 +6,15 @@ title: "Lab 2A: Web Applications II"
 Your Task
 ===============
 
-See [Lab02: Web Applications I Lab](lab02.html) for instructions on how to download the two archive components for Lab02 and then import them into Eclipse.  This version of the lathen b (Lab02a: Web Applications II) assumes that you have downloaded and completed Lab02 and builds upon the **AddNumbers** and **GuessingGame** examples from that lab.
+**NOTE: This lab will require a significant effort, and you should start on it as soon as possible.**
+
+See [Lab02: Web Applications I Lab](lab02.html) for instructions on how to download the two archive components for Lab02 and then import them into Eclipse.  This version of the lab (Lab02a: Web Applications II) assumes that you have downloaded and completed Lab02 and builds upon the **AddNumbers** and **GuessingGame** examples from that lab.
 
 Lab02a will "force" you to investigate, explore, and learn the structure of a standard WebApp, from **Web.xml**, the servlets, the controllers, the model, all the way through the **JSPs**.  You will need to have this kind of familiarity with the WebApp architecture in order to get started on your team project, as well as to be able to make significant technical contributions to any and all aspects of your team project.  
 
 **NOTE:** You must work individually on this lab.  It is imperative that everyone on your team be able to fully comprehend, design, implement, toubleshoot, and debug the complete architecture of a standard client-server application.  This **WILL** come up on the exam.
 
-**NOTE:** You **are** allowed to use ChatGPT to assist with with this lab.  If you do use ChatGPT, **you must mention it prominently in your comments**.
+**NOTE:** You **are** allowed to use ChatGPT to assist you with this lab.  If you do use ChatGPT, **you must mention it prominently in your comments**.
 
 **NOTE: This lab will require a significant effort, and you should start on it as soon as possible.**
 

@@ -20,9 +20,7 @@ Lab02a will "force" you to investigate, explore, and learn the structure of a st
 
 You have six tasks:
 
-* First, make a copy of the **CS320\_Lab02_username** project, and then refactor (rename) that copy to **CS320\_Lab02a\_username**.  YOU MUST DO THIS BEFORE YOU EXPORT YOUR SOLUTION AND SUBMIT IT TO MARMOSET.  **Submissions that DO NOT adhere to that guideline will not be graded until they are refactored and resubmitted.**
-
-Example: I would refactor (rename) the copy of my **CS320\_Lab02\_djhake2** project to **CS320\_Lab02a\_djhake2** as soon as I imported the project into Eclipse.
+* First, make a copy of the **CS320\_Lab02_username** project, and then refactor (rename) that copy to **CS320\_Lab02a\_username**.  YOU MUST DO THIS BEFORE YOU EXPORT YOUR SOLUTION AND SUBMIT IT TO MARMOSET.  Example: I would refactor (rename) the copy of my **CS320\_Lab02\_djhake2** project to **CS320\_Lab02a\_djhake2** as soon as I imported the project into Eclipse.  **Submissions that DO NOT adhere to that guideline will not be graded until they are refactored and resubmitted.**
 
 <!-- Commenting out this part - it is too much of a PITA this early in the semester
 

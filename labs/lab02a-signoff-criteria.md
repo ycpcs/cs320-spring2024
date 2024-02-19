@@ -37,6 +37,10 @@ Tests for Web Applications II Lab (Lab02a) Sign-Off
 
 16) Pull up **addNumbersServlet.java**: Verify that it is **only** setting the **error message** and the **model** in the HTTP request before forwarding the HTTP request to the JSP.
 
-17) Pull up **multiplyNumbers.JSP**: Verify that it is pulling data for the fields directly from the **Numbers.java** model, and **NOT** using values passed in as named parameters through the Servlet (except for **error message** and the **Numbers.java** model reference).
+17) In **addNumbersServlet.java**: Verify that there are **NO** direct calls to the **Numbers** model methods.  Any time a change needs to be made to **Numbers** attributes, a controller method is called to perform that task.  The only exception is that the **Numbers** model consructor can be called from the servlet.
 
-18) Run test cases for **NumbersController.java** controller and **Numbers.java** model: Test cases exist and pass.  A complete set of test cases should cover the **constructor(s)**, the **getters**, **setter(s)**, and the **add** and **multiply** methods.
+18) In **multiplyNumbersServlet.java**: Verify that there are **NO** direct calls to the **Numbers** model methods.  Any time a change needs to be made to **Numbers** attributes, a controller method is called to perform that task.  The only exception is that the **Numbers** model consructor can be called from the servlet.
+
+19) Pull up **multiplyNumbers.JSP**: Verify that it is pulling data for the fields directly from the **Numbers.java** model, and **NOT** using values passed in as named parameters through the Servlet (except for **error message** and the **Numbers.java** model reference).
+
+20) Run test cases for **NumbersController.java** controller and **Numbers.java** model: Test cases exist and pass.  A complete set of test cases should cover the **constructor(s)**, the **getters**, **setter(s)**, and the **add** and **multiply** methods.

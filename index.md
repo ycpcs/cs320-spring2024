@@ -90,11 +90,11 @@ As such, some of the links below could return 404 Page Not Found Errors.  Profes
 
 * **Feb 20** - [Assignment 6: Problem Domain Analysis](assign/assign06.html) is **due by Noon, Sunday, 3-10-24.**  I STRONGLY recommend that you begin collaborating on this assignment remotely over Winter Break using Google Docs, and your shared Google Team Drive so that you have a preliminary design from which to develop your Team Project for your upcoming Team Milestone 1 presentation and demo.  You also **MUST** create and embed a **PDF, PNG, or JPG** version of your UML document in your Google Doc submission. **Embed it in your Google doc - DO NOT LINK TO YOUR UML DIAGRAM.**
 
-* **Feb 19** - [The Web Applications Lab](labs/lab02a.html) is now due for full credit by the end of Wednesday, 2-21-24, w/sign-off.  Labs that were submitted on or before the original due date (Monday 2-19-24) and have been signed-off, will receive 10% extra credit per day, i.e., a submission w/sign-off on Friday, 2-16-24 will receive 40% extra credit, a submission w/sign-off on Monday, 2-19-24 will receive 10% extra credit.
+* **Feb 19** - [The Web Applications Lab](labs/lab02a.html) is **now due for full credit by the end of Wednesday, 2-21-24, w/sign-off**.  Labs that were submitted on or before the original due date (Monday 2-19-24) and have been signed-off, will receive 10% extra credit per day, i.e., a submission w/sign-off on Friday, 2-16-24 will receive 40% extra credit, a submission w/sign-off on Monday, 2-19-24 will receive 10% extra credit.
 
-* **Feb 18** - [Assignment 5: Final Team Use Cases](assign/assign05.html) is **due by Noon, Sunday, 2-25-24**.  You will need them to start your OOP Analysis, Design, and UML diagram in-class on Monday, 2-26-24.
+* **Feb 18** - [Assignment 5: Final Team Use Cases](assign/assign05.html) is **due by Noon, Sunday, 2-25-24**.  You will need them to continue your OOP Analysis, Design, and UML diagram in-class on Monday, 2-26-24.
 
-* **Feb 18** - [Assignment 5: Draft Team Use Cases](assign/assign05.html) is **due by start of class, Friday, 2-23-24**.  You will need your draft Use Cases for the in-class exercise for the Textual Analysis of your team project Use Cases that day.
+* **Feb 18** - [Assignment 5: Draft Team Use Cases](assign/assign05.html) is **due by start of class, Friday, 2-23-24**.  You will need your draft Use Cases for the in-class exercise for the Textual Analysis and to start the UML Design for your team project that day.
 
 * **Feb 11** - [Assignment 4: Individual Project Milestones](assign/assign04.html) **Individual Milestone 1: Baseline** is **due on Wednesday, 2-28-24**.  This will be an informal (at your desk) 3-4 minute (max) in-class demonstration of your progress, to date.
 

@@ -31,7 +31,7 @@ In KEC 119 and KEC 123, the latest version of the **JRE System Library** is **1.
 * If it shows the **JRE System Library** either as **JRE System Library[JavaSE-1.8]** or **jdk1.8.0\_181** or later (up to **1.8.0\_301**), then you likely have no further steps to take.
 
 Changing the JRE System Library
-=========
+===============================
 
 On the other hand, if the **JRE System Library** is shown as "unbound", you will likely need to switch to a compatible library.
 
@@ -66,7 +66,7 @@ Go to **C:/Program Files/Java** and look for a JDK folder labelled **jdk1.8.0\_x
 * You should now be able to run the lab.
 
 Installing a new JDK from Oracle
-=========
+================================
 
 If you do not find an acceptable JDK installed on your computer, you'll have to install one from this location:
 
@@ -86,11 +86,17 @@ Create a free Oracle account and then download and install the appropriate versi
 
 
 Other Issues
-=========
+============
 There are some other issues that have been popping up with **CS320\_Lab02**.
 
 * For some unknown reason, the **CS320\_Lab02.zip** file might be protected, and Eclipse won't let you import it.  Let me know if this continues to happen - I think this is fixed with the latest ZIP file.  You may need to log all users off the lab PC you are working on before proceeding.
 
 * When you start Eclipse on the lab PCs, Windows might warn you about running a program that was downloaded from the Internet.  You can ignore this and move on.
 
-* When you go to run **main()** in the **CS320\_Lab02** project, you might get a Windows Firewall warning.  You can hit **Cancel** and the lab will work.
+* When you go to run **main()** in the **CS320\_Lab02** project, you might get a Windows Firewall warning.  You can generally hit **Cancel** and the lab will work.  if it doesn't, you might need to make changes to your specific Windows (or other) firewall settings.
+
+Periodically, someone will come across this issue:
+
+>	org.apache.jasper.JasperException: The absolute uri: http://java.sun.com/jsp/jstl/core cannot be resolved in either web.xml or the jar files deployed with this application
+
+I've been looking into the issue, and came across this fairly involved post, which covers many types of different servers and scenarios.  It is not entirely helpful, but I am posting it here so that we can access it in the future: [absolute URI cannot be resolved](https://stackoverflow.com/questions/4928271/how-to-install-jstl-it-fails-with-the-absolute-uri-cannot-be-resolved-or-una)

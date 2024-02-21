@@ -31,7 +31,7 @@ Fri, Mar 1    | **Winter Break, no class**
 Mon, Mar 4    | Team Project Session: Analysis & Design Model, Team Git Set-Up, Team Milestone (all in-class) | [Lab 3: Git Lab Part II](./labs/lab03.html)
 Wed, Mar 6    | Team Project Session: Analysis & Design Model, Team Git Set-Up, Team Milestone (all in-class) | [Lab 3: Git Lab Part II](./labs/lab03.html)
 Fri, Mar 8    | Team Project Session: Analysis & Design Model, Team Git Set-Up, Team Milestone (all in-class) | [Lab 3: Git Lab Part II](./labs/lab03.html)
-Mon, Mar 11   | Team Project Session: Final Preparation for Analysis & Design Model and Team Milestone 1 Presentation |
+Mon, Mar 11   | Team Project Session: Final Preparation for Team Milestone 1 Presentation (in-class)|
 Wed, Mar 13   | Team Project Milestone 1:<br> **Minimal Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
 Fri, Mar 15   | TBD
 Mon, Mar 18   | Individual Project Milestone 2:<br> **50% Progress** | [Assignment 4: Individual Project Milestones](assign/assign04.html)

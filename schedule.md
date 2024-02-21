@@ -25,7 +25,7 @@ Fri, Feb 16   | Requirements<br>User Requirements Exercise and <br> Brainstormin
 Mon, Feb 19   | Requirements & Use Cases<br>Requirements and Use Case Exercise (in-class) | UD: Chapter 9 <br> [Lecture 8: Use Cases](lectures/lecture08.html)
 Wed, Feb 21   | Unified Modeling Language (UML) and <br> Object-Oriented Analysis (OOA)<br>Team Use Cases Exercise (in class) | UD: Chapter 3 <br> [Lecture 9: UML Class Diagrams](lectures/lecture09.html) <br> [Lecture 10: OO Analysis](lectures/lecture10.html)
 Fri, Feb 23   | Team Project Session: Team Project Textual Analysis  and UML (in class) | 
-Mon, Feb 26   | Object-Oriented Design (OOD)<br>UML (in class) | [Lecture 11: OO Design, OCP, LSP](lectures/lecture11.html)<br> [Design Principles and Design Patterns](lectures/lecture11/Principles_and_Patterns.pdf), Robert Martin, pages 1-12
+Mon, Feb 26   | Object-Oriented Design (OOD)<br>Team Project Session: UML (in class) | [Lecture 11: OO Design, OCP, LSP](lectures/lecture11.html)<br> [Design Principles and Design Patterns](lectures/lecture11/Principles_and_Patterns.pdf), Robert Martin, pages 1-12
 Wed, Feb 28   | Individual Project Milestone 1:<br> **Baseline Prototype** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 Fri, Mar 1    | **Winter Break, no class**
 Mon, Mar 4    | Team Project Session: Analysis & Design Model, Team Git Set-Up, Team Milestone (all in-class) | [Lab 3: Git Lab Part II](./labs/lab03.html)

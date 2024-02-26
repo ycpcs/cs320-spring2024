@@ -52,6 +52,9 @@ Here are some examples of previous Team Project Use Case submissions:
 - [Card Repository w/Multiplayer & Bots](examples-assign05/Sp22-assign05-bfleming2-iviveiros-mwilliams28-pwalter3.pdf)
 - [VSS: Virtual Stock Sim](examples-assign05/Sp20-assign05-bkearney1-dpalmieri-ekennedy2.pdf)
 - [Air Quality Monitor](examples-assign05/Sp20-assign05-dbieber-dmchugh-mtrost-tgerst.pdf)
+- [TBAG: Minotaur's Labyrinth](examples-assign05/Sp20-assign05-janderson7-lplaudsmith-zredcay
+.pdf)
+
 
 # Submitting your work
 

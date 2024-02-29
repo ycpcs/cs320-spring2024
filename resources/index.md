@@ -54,6 +54,8 @@ Drawing Packages for Wireframes, UML Diagrams, and Database Schemas
 
 I recommend using either of the following **free** tools for creating your diagrams for your group's Wireframes, UML Diagrams and Database Schemas.  You may use other drawing tools, but whichever drawing tool you use, you **must be able to export PDF, PNG, or JPG versions of your drawings**, so that you can embed them on your assignment submissions.
 
+[Lucid Chart](https://www.lucidchart.com/)
+
 [Figma](https://www.figma.com/)
 
 [Draw.io online version](https://app.diagrams.net/)
@@ -63,7 +65,7 @@ I recommend using either of the following **free** tools for creating your diagr
 Git, GitHub, eGit, Git Desktop Clients
 ======================================
 
-[GitHub Desktip - Desktop CLient for GitHub](https://desktop.github.com/): If eGit for Eclipse just isn't cutting it for you and your team, try this.  It works outside of your IDE, but many students/faculty consider it easier to use.
+[GitHub Desktop - Desktop CLient for GitHub](https://desktop.github.com/): If eGit for Eclipse just isn't cutting it for you and your team, try this.  It works outside of your IDE, but many students/faculty consider it easier to use.
 
 [Git-Tower - Desktop Client for Git](https://www.git-tower.com/windows): If eGit for Eclipse just isn't cutting it for you and your team, try this.  It works outside of your IDE, but many students/faculty consider it easier to use.
 

@@ -26,13 +26,14 @@ Slides to consider (you may include others, as you see fit):
 * Challenges you have encountered, and how you have dealt with them.
 * Goals for the next milestone.
 * Updated version of your UML diagram.
-* Updated version of your database schema - all DB tables with all attributes and their respective data types for each table.
+* Updated version of your database schema - all DB tables with all attributes and their respective data types for each table (NOT required for Milestone 1, recommended for Milestone 2 for the Fake database).
 
 **Milestone 1: Minimal Working System**. Your team should demonstrate
 
+* A web-based user interface (e.g., JSPs and servlets) that implements a small number of essential features in some minimal form: provide as much navigation between pages as you can
 * Model classes, controllers, and unit tests associated with a small number of "essential" requirements
 * A persistence interface and a "fake" in-memory implementation of the persistence interface (e.g., using array lists to store model objects rather than database tables)
-* A minimal web-based user interface (e.g., JSPs and servlets) that implements a small number of essential features in some minimal form
+* For this milestone, if you want to persist user-entered data between your UI and your server, consider using the HTTP Session for that.
 
 The idea of a minimal working system is to create a working foundation early in the project's development.  Subsequent iterations of the development process will build upon this foundation to implement additional features.
 
@@ -40,7 +41,7 @@ The idea of a minimal working system is to create a working foundation early in 
 
 **NOTE: In order to hit the first milestone, and place your team in a good position to achieve success, you will need to put in a good deal of initial development work on your web front-end navigation before and over Winter Break.**
 
-**Milestone 2: Progress on features**.  In this milestone, your team should demonstrate some progress on features, such that at least some use cases are fully or partially implemented.  It is fine if your system is using the "fake" database at this point.
+**Milestone 2: Progress on features**.  In this milestone, your team should demonstrate some progress on features, such that at least some use cases are fully or partially implemented.  It is fine if your system is still using the "fake" database at this point.  For this milestone, if you want to persist user-entered data between your UI and your server, consider using the HTTP Session for that.
 
 **Milestone 3: "75%" Working System, Persistence using SQL database**. Your team should demonstrate a working system that implements most of the major system requirements.  Also, Your team should demonstrate that there is a working implementation of the persistence interface that uses an SQL database to store and retrieve data (e.g., using Derby).  Note that it is not expected that the system has a high degree of "polish": the UI doesn't have to be beautiful, for example.  However, the features that are implemented should be functional and free of bugs.  Make sure to include the following slide in your presentation (in addition to your other slides):
 

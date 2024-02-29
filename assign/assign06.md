@@ -25,6 +25,8 @@ Based on your textual analysis, construct a UML class diagram modeling your proj
 You will probably want to work with your group using a whiteboard, since problem domain analysis is a *process*.  Your group will undoubtedly make a number of changes to the UML diagram as you explore possible ways of modeling the problem domain.
 
 While your group is creating its UML diagram, create an electronic version of the diagram using a drawing package such as:
+>	[Lucid Chart](https://www.lucidchart.com/)
+
 >	[Figma](https://www.figma.com/)
 
 >	[Draw.io online version](https://app.diagrams.net/)

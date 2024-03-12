@@ -31,9 +31,9 @@ Fri, Mar 1    | **Winter Break, no class**
 Mon, Mar 4    | Team Project Session: Analysis & Design Model, Team Git Set-Up, Team Milestone (all in-class) | [Lab 3: Git Lab Part II](./labs/lab03.html)
 Wed, Mar 6    | Team Project Session: Analysis & Design Model, Team Git Set-Up, Team Milestone (all in-class) | [Lab 3: Git Lab Part II](./labs/lab03.html)
 Fri, Mar 8    | Team Project Session: Analysis & Design Model, Team Git Set-Up, Team Milestone (all in-class) | [Lab 3: Git Lab Part II](./labs/lab03.html)
-Mon, Mar 11   | Team Project Session: Final Preparation for Team Milestone 1 Presentation (in-class)|
-Wed, Mar 13   | Team Project Milestone 1:<br> **Minimal Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
-Fri, Mar 15   | TBD
+Mon, Mar 11   | Assign06: Team Problem Domain Submission Reviews |
+Wed, Mar 13   | Team Project Session: Final Preparation for Team Milestone 1 Presentation (in-class)|
+Fri, Mar 15   | Team Project Milestone 1:<br> **Minimal Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
 Mon, Mar 18   | Individual Project Milestone 2:<br> **50% Progress** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 Wed, Mar 20   | Relational Databases <br> SQL Lab Assigned <br> Database Applications - JDBC <br> JDBC Lab Assigned | [Lecture 13: Relational Databases](lectures/lecture13.html) <br> [Lab 4: SQL Lab](./labs/lab04.html) <br> [Lecture 14: Database Applications, JDBC](lectures/lecture14.html) <br> [Lab 5: JDBC Lab](./labs/lab05.html)
 Fri, Mar 22   | Database Applications - ORM <br> ORM Lab Assigned | [Lecture 15: ORM, Designing a Persistence Layer](lectures/lecture15.html)<br> [Lab 6: ORM Lab](./labs/lab06.html)

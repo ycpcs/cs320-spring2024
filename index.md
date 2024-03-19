@@ -66,17 +66,17 @@ As such, some of the links below could return 404 Page Not Found Errors.  Profes
 
 * **Mar 22** - [Lab04: SQL, Queries, Joins](labs/lab04.html) is now **due for full credit credit by 7:00am, Thursday, 3-24-22**.  If you submit by the **original due date, 7:00am, Wednesday, 3-23-22, you will receive 110% credit (10% extra credit)**.  Make sure to use the template for your Lab04 submission. See the instructions on the Lab04 page.
 
-* **Mar 18** - [Lab06: ORM](labs/lab06.html) is posted.  It is due **7:00am, Saturday, 4-2-22 for 10% extra credit** OR **by 7:00am, Sunday, 4-3-22 for full credit**.
-
-* **Mar 14** - Mid-semester self/peer evaluations are **due by 7:00am, Tuesday, 3-29-22**.  See the instructions under [Assignment 11](assign/assign11.html).
-
-* **Mar 14** - [Team Project Milestone 2: 50% Working System](assign/assign03.html) is **due Monday, 3-28-22**.  This will be a FORMAL 8-10 minute (max) in-class team presentation/demonstration of your team's progress since milestone 1.  SQL database functionality is **NOT** required for this milestone (but **IS** required for the third milestone.)
-
-* **Mar 14** - [Lab05: JDBC](labs/lab05.html) is posted.  It is **due by 7:00am, Saturday, 3-26-22 for 10% extra credit** OR **by 7:00am, SUnday, 3-27-22 for full credit**.
-
-* **Mar 14** - [Lab04: SQL, Queries, Joins](labs/lab04.html) is posted.  It is **due by 7:00am, Wednesday, 3-23-22 for 10% extra credit** OR **by 7:00am, Thursday, 3-24-22 for full credit**.  Make sure to use the template for your Lab04 submission. See the instructions on the Lab04 page.
-
 -->
+
+* **Mar 19** - [Lab06: ORM](labs/lab06.html) is posted.  It is due **Noon, Tuesday, 4-2-24**.
+
+* **Mar 19** - Mid-semester self/peer evaluations are **due by noon, Thursday, 3-28-24**.  See the instructions under [Assignment 11](assign/assign11.html).
+
+* **Mar 19** - [Team Project Milestone 2: 50% Working System](assign/assign03.html) is **due Wednesday, 3-27-24**.  This will be a FORMAL 12-14 minute (max) in-class team presentation/demonstration of your team's progress since milestone 1.  You are **required to have some fake hard-coded data** to demonstrate your basic functionality.  SQL database functionality is **NOT** required for this milestone (but **IS** required for the third milestone.)
+
+* **Mar 19** - [Lab05: JDBC](labs/lab05.html) is posted.  It is **due by 10:00am,  Monday, 3-25-24**.
+
+* **Mar 19** - [Lab04: SQL, Queries, Joins](labs/lab04.html) is posted.  It is **due by 10:00am, Friday, 3-22-24**.  Make sure to use the template for your Lab04 submission. See the instructions on the Lab04 page.
 
 * **Mar 11** - [Team Project Milestone 1: Minimal Working System](assign/assign03.html) **has been moved to Friday, 3-15-24**.  This will be a FORMAL 10-12 minute (max) in-class team presentation/demonstration of your team's progress on your UI structure and navigation.  You should have the majority of your servlets and JSPs defined, and be able to navigate between most, if not all, of your pages.  Your HTML/CSS will still be in a rough state - don't worry about making it "pretty", focus on functionality over form.  There is **NO** expectation for having any of your SQL database implemented or working.  For the time being, if you want to persist user-entered data between your UI and your server, consider using the HTTP Session for that.
 

@@ -23,13 +23,13 @@ Sunday, 2-4-24, by Noon (Marmoset) | [Lab 1: HTML/CSS Resume](lab01.html) | n/a
 Monday, 2-5-24 (in-class) | [Lab 3: Git Part I](lab03.html) | n/a
 Friday, 2-9-24 (practice, ungraded) | [Lab 2](lab02.html) | [CS320\_Lab02.zip](CS320_Lab02.zip)<br> [CS320\_Jetty9.zip](CS320_Jetty9.zip)
 Monday, 2-19-24 (extra credit), w/sign-off (Marmoset)<br> Wednesday, 2-21-24 (full credit), w/sign-off (Marmoset) | [Lab 2a: Web Applications II](lab02a.html) | [CS320\_Lab02.zip](CS320_Lab02.zip)<br> [CS320\_Jetty9.zip](CS320_Jetty9.zip)
-Thursday, 3-21-24, by Noon (Marmoset) | [Lab 4: SQL Queries & Joins](lab04.html) | [CS320\_Lab04.zip](CS320_Lab04.zip), [CS320\_Derby.zip](CS320_Derby.zip)
-Sunday, 3-24-24, by Noon (Marmoset) | [Lab 5: JDBC](lab05.html) | [CS320\_Lab05.zip](CS320_Lab05.zip)
+Friday, 3-22-24, by 10:00a (Marmoset) | [Lab 4: SQL Queries & Joins](lab04.html) | [CS320\_Lab04.zip](CS320_Lab04.zip), [CS320\_Derby.zip](CS320_Derby.zip)
+Monday, 3-25-24, by 10:00a (Marmoset) | [Lab 5: JDBC](lab05.html) | [CS320\_Lab05.zip](CS320_Lab05.zip)
 Tuesday, 4-2-24, by Noon (Marmoset) | [Lab 6: ORM](lab06.html) | [CS320\_Lab06.zip](CS320_Lab06.zip)
 
 All of the above labs, with the exception of Lab03 (Git Lab) are to be completed individually. I encourage you to discuss high level concepts and strategies with other students, but any work you submit **must be yours alone**.
 
-The exception to the above policy is that you may use ChatGPT (or any other similar servide) for Lab00 (Using ChatGPT), Lab01 (HTML/CSS Resume), Lab02 and Lab02a (Web Applications Labs).  You may **NOT** use ChatGPT for the SQL Lab (Lab04).  I haven't yet decided about ChatGPT for the JDBC Lab (Lab05) or the ORM Lab (Lab06). At this point, you are **NOT** allowed to use ChatGPT for any of the SQL labs (La04, Lab05, Lab06.
+The exception to the above policy is that you may use ChatGPT (or any other similar servide) for Lab00 (Using ChatGPT), Lab01 (HTML/CSS Resume), Lab02 and Lab02a (Web Applications Labs).  **You may NOT use ChatGPT for the SQL Lab (Lab04).**  You may also use ChatGPT for the JDBC Lab (Lab05) and the ORM Lab (Lab06).
 
 Because these labs are essential for working towards and demonstrating the capability to provide a significant technical contribution to your team project, as well the achievement of the course outcomes, you must solve them on your own.  You may discuss the problem and high-level (pseudo-code) approaches to solving the problem with other students.  You may *not*, under any circumstances, discuss or share concrete implementation techniques or code.  Examples of forbidden types of collaboration include, but are not limited to: looking at another student's code, allowing another student to see your code, viewing and/or using code from an external source such as a web page or ChatGPT (unless explicitly allowed by the instructor and/or the instructions), discussing the use of specific API functions to solve a problem, giving or receiving help debugging specific code.
 

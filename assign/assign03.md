@@ -15,19 +15,25 @@ This document describes the expectations for each milestone.  See the [Assignmen
 > Assignment 8a      | Final Technical Report - submit in PDF form to Marmoset
 > Assignment 8b      | Final Presentation & Demo, during final exam period
 
-## Expectations
-Each milestone will be a **formal** presentation, where your team should be assembling a collection of 5-10 PowerPoint slides, along with a demonstration of your working code, and a run of the complete set of test cases that you have developed to that point.  Bear in mind that it is acceptable for **some** of your test cases to fail, as you will not have implemented all of your code - at least for the first three (3) milestones above.
+## General Milestone Expectations
+Each milestone will be a **formal** presentation, where your team should be assembling a collection of 5-10 PowerPoint slides, **along with a demonstration of your working code, and a run of the complete set of test cases that you have developed to that point.**  Bear in mind that it is acceptable for **some** of your test cases to fail, as you will not have implemented all of your code - at least for the first three (3) milestones above.
 
-Slides to consider (you may include others, as you see fit):
+**Slides to consider (you may include others, as you see fit):**
 * Project title slide that also includes all of the names of the team members.
 * Brief description of you project.
+* Updated version of your UML diagram.
+* Updated version of your database schema - all DB tables with all attributes and their respective data types for each table (NOT required for Milestone 1, required for Milestone 2 for the Fake database).
 * List of major features, with the status of each feature.
 * Task assignments for the team members.
 * Challenges you have encountered, and how you have dealt with them.
 * Goals for the next milestone.
-* Updated version of your UML diagram.
-* Updated version of your database schema - all DB tables with all attributes and their respective data types for each table (NOT required for Milestone 1, required for Milestone 2 for the Fake database).
 
+**Following your slide presentation:**
+* Demonstrate the current functionality of your project.
+* Run your suite of test cases.
+
+
+## Specfic Milestone Expectations
 **Milestone 1: Minimal Working System**. Your team should demonstrate:
 
 * A web-based user interface (e.g., JSPs and servlets) that implements a small number of essential features in some minimal form: provide as much navigation between pages as you can

@@ -109,7 +109,7 @@ Relational Databases and Structured Query Language (SQL)
 CS320 Lab05 (JDBC) Solution (will be posted by Noon, Tuesday, 3-26-24)
 ==========================
 
-[CS320\_Lab05\_Solution-2022.zip](CS320_Lab05_Solution-2022.zip): A solution for the JDBC lab (Lab05).  You can import this into the same workspace as your Lab05 solution, as the solution project is named **CS320\_Lab05\_Solution-2022**.  Please compare your solution to this code, and make any necessary changes in your code, as an exercise to further understand the material.  There are plenty of comments included in the solution to describe what is happening and why it is being done.
+[CS320\_Lab05\_Solution-2023.zip](CS320_Lab05_Solution-2023.zip): A solution for the JDBC lab (Lab05).  You can import this into the same workspace as your Lab05 solution, as the solution project is named **CS320\_Lab05\_Solution-2023**.  Please compare your solution to this code, and make any necessary changes in your code, as an exercise to further understand the material.  There are plenty of comments included in the solution to describe what is happening and why it is being done.
 
 
 CS320 Library Example Project (will be posted by Noon, Thursday, 4-4-24)

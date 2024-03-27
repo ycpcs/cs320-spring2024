@@ -60,15 +60,11 @@ As such, some of the links below could return 404 Page Not Found Errors.  Profes
 
 * **Mar 30** - The **midterm exam** will be a take-at-home exam that I will hand out in class on **Wednesday, 4-6-22**.  You will turn it back in to me at the beginning of your class period on **Friday, 4-8-22**.  There is NO Programming portion, it is all written.  You will also need to create a UML diagram (either using a drawing package, or a NEATLY hand-drawn diagram).  The exam will be open notes and you can use any resource on the CS320 website, as well as your assignment and lab solutions.  The exam is 120 points, and was originally designed to be an in-class 50-minute exam, with a built-in curve of 20 points.  Since this is now a take home exam, there is no practice exam posted, nor will there be a review for the exam.  Taking the exam at home IS the review.   **YOU MUST DO YOUR OWN WORK - YOU ARE NOT ALLOWED TO CONSULT WITH ANYONE ELSE, OR USE ANY RESOURCES THAT ARE NOT LISTED ON THE RESOURCES PAGE OF THE CS320 WEBSITE.  I AM TRUSTING YOU TO WORK ON YOUR HONOR - PLEASE DO NOT BETRAY THAT TRUST.**
 
-* **Mar 29** - A solution to [Lab05: JDBC](labs/lab05.html) will be posted to the [Resources page](./resources) on Wednesday morning (3-30-22), so that you can have a common code base to work from for [Lab06: ORM](labs/lab06.html).  No submissions for Lab05 will be accepted for credit after the Lab05 solution is posted.
-
-* **Mar 23** - Please review the updated Course Calendar.  The Individual and Team Project Milestone 3 presentation dates have been pushed to later in the semester, and certain lectures have been moved around in their places.
-
-* **Mar 22** - [Lab04: SQL, Queries, Joins](labs/lab04.html) is now **due for full credit credit by 7:00am, Thursday, 3-24-22**.  If you submit by the **original due date, 7:00am, Wednesday, 3-23-22, you will receive 110% credit (10% extra credit)**.  Make sure to use the template for your Lab04 submission. See the instructions on the Lab04 page.
-
 -->
 
-* **Mar 19** - [Lab06: ORM](labs/lab06.html) is posted.  It is due **Noon, Tuesday, 4-2-24**.
+* **Mar 26** - A solution to [Lab05: JDBC](labs/lab05.html) has been posted to the [Resources page](./resources), so that you can have a common code base to work from for [Lab06: ORM](labs/lab06.html).  No submissions for Lab05 will be accepted for credit now that the Lab05 solution has been posted.
+
+* **Mar 19** - [Lab06: ORM](labs/lab06.html) is posted.  It is due **Noon, Tuesday, 4-2-24**.  You **ARE** now allowed to work with your team members on Lab06 - **BUT the solution and code must be YOUR OWN.**
 
 * **Mar 19** - Mid-semester self/peer evaluations are **due by noon, Thursday, 3-28-24**.  See the instructions under [Assignment 11](assign/assign11.html).
 

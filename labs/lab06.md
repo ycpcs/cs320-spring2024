@@ -33,9 +33,9 @@ Tasks:
 
 Using **TitleQuery** as a model, write your own programs (separate classes with main() methods) to do the following:
 
-1. Create class **BooksByAuthorLastNameQuery** that finds all books written by the author whose last name is specified by the user. Return the books in the same form as the **TitleQuery** program, but sorted in ascending order by **Title**.  This is the same SQL query as **problem 1** from [Lab 5](lab05.html).  You are welcome to reuse your code from that solution.
+1. Create class **BooksByAuthorLastNameQuery** that finds all books written by the author whose last name is specified by the user. Return the books in the same form as the **TitleQuery** program, but sorted in ascending order by **Title**.  This is the same SQL query as **problem 1** from [Lab 5](lab05.html).  You are welcome to use code from the JDBC lab (Lab05) solution that I posted, or reuse your code from your own solution.
 
-2. Create class **InsertNewBookWithAuthor**: Given the full (first and last) name of an author, a title, an ISBN, and a publish year, insert the book into the database. The program should add a new tuple to the **authors** table if the author doesn't already exist. If the author already exists, the program should use that author's **author\_id**.  Use the SQL **insert** statement to insert the new tuple(s).  **NOTE:**  This is the same set of SQL queries as **problem 3** from [Lab 5](lab05.html).  You are welcome to reuse your code from that solution.
+2. Create class **InsertNewBookWithAuthor**: Given the full (first and last) name of an author, a title, an ISBN, and a publish year, insert the book into the database. The program should add a new tuple to the **authors** table if the author doesn't already exist. If the author already exists, the program should use that author's **author\_id**.  Use the SQL **insert** statement to insert the new tuple(s).  **NOTE:**  This is the same set of SQL queries as **problem 3** from [Lab 5](lab05.html).  You are welcome to use code from the JDBC lab (Lab05) solution that I posted, or reuse your code from your own solution.
 
 ## Hints
 

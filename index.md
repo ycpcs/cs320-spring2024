@@ -62,6 +62,8 @@ As such, some of the links below could return 404 Page Not Found Errors.  Profes
 
 -->
 
+* **Mar 27** - [Lab06: ORM](labs/lab06.html) due date has been modified.  Passing submissions received by **Noon, Tuesday, 4-2-24 will receive 50% extra credit**.  Passing submissions received by **Noon, Thursday, 4-4-24 will receive 25% extra credit**.  Passing submissions received by **Noon, Saturday, 4-6-24 will receive full credit**.  You **ARE** allowed to work with your team members on Lab06 - **BUT the submitted solution and code must be YOUR OWN.**
+
 * **Mar 26** - A solution to [Lab05: JDBC](labs/lab05.html) has been posted to the [Resources page](./resources), so that you can have a common code base to work from for [Lab06: ORM](labs/lab06.html).  No submissions for Lab05 will be accepted for credit now that the Lab05 solution has been posted.
 
 * **Mar 19** - [Lab06: ORM](labs/lab06.html) is posted.  It is due **Noon, Tuesday, 4-2-24**.  You **ARE** now allowed to work with your team members on Lab06 - **BUT the solution and code must be YOUR OWN.**

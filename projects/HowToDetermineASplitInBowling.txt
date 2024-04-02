@@ -1,0 +1,58 @@
+Determining a split (algorithm)
+
+7 8 9 10
+ 4 5 6
+  2 3
+   1
+   
+   2.1.8 A split (normally marked with an O around the number of pins) is a setup of pins left standing after the first delivery, provided the head pin is down and:
+
+a) At least one pin is down between two or more standing pins; i.e. 7-9 or 3-10.
+
+b) At least one pin is down immediately ahead of two or more standing pins; i.e. 5-6.
+   
+   order standing pins in ascending order, forward most pin will be the first pin in that list
+   
+   determine all adjacent pins to forward-most pin
+     - for 2-pin, 4-5-8 are adjacent
+	 - for 3-pin, 5-6-9 are adjacent
+	 - for 4-pin, 7-8 are adjacent
+	 - for 5-pin, 8-9 are adjacent
+	 - for 6-pin, 9-10 are adjacent
+	 - for 7-pin, none 
+	 - for 8-pin, none
+	 - for 9-pin, none
+	 - for 10-pin, none
+	 
+Determine if there is at least one standing pin that is isolated from other standing pins
+
+	 So, determine forward-most pin, determine all pins that are adjacent to that pin, and then determine all pins adjacent to those pins - this can only go two levels deep (row 2 and row 3)
+	 Mark all adjacent pins
+	 
+	 If there are any standing pins left that are not marked, then have split
+	 
+	 Create a 2-dimensional array of integers that serves as the adjacency matrix for the pins - can use pin number as index into row
+	 
+	 0:
+	 1: 
+	 2: 4 5 8
+	 3: 5 6 9
+	 4: 7 8
+	 5: 8 9
+	 6: 9 10
+	 
+Start with a standing pin list, pins are sorted in ascending numerical order (this is the "leave" after the first ball)
+	 	 
+	 Create an 11-entry integer adjacency array - the index into the array serves as the pin number - 0th entry is unused.  First pin in the standing pin list is the forward-most pin, mark it with 'F' in the adjacency array.  Initialize every other standing pin with 'S' and every pin that was knocked down with a 'D'
+	 
+	 for each pin in the standing pin list
+	    for each pin in that pin's adjacency row - mark any corresponding 'S' entries in the adjacency array with an 'A' (use the pin number from the pin's adjacency row as the index into the adjacency array)
+		
+stop when next standing pin is > 6 or end of list, whichever comes first
+
+if there are any pins in the adjacency list still marked as 'S', then have a split
+
+		
+	
+	 
+	 

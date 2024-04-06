@@ -57,7 +57,7 @@ As such, some of the links below could return 404 Page Not Found Errors.  Profes
 
 -->
 
-* **Mar 27** - [Assignment 9](assign/assign09.html) describes the deliverables for the individual project.  Your individual project report is due **Wednesday, 4-10-24, by 10:00am**.
+* **Mar 27** - [Assignment 9](assign/assign09.html) describes the deliverables for the individual project.  Your individual project report is due **Wednesday, 4-10-24, by 10:00am** in PDF form in Marmoset.
 
 * **Mar 27** - [Individual Project Milestone 3](assign/assign04.html) is due **Monday, 4-8-24**.  This will be your final informal (at your desk) 2-4 minute (max) in-class demonstration of your final individual project.
 

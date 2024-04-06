@@ -47,7 +47,7 @@ Fri, Apr 5    | ORM and SQL Database Questions, SQL DB Testing |
 Mon, Apr 8    | Individual Project Milestone 3:<br> **FINAL PROJECT DEMO** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 Wed, Apr 10   | Library Example Project Analysis & Review | Located near the bottom of the [Resources Page](resources/index.html)
 Fri, Apr 12   | Team Project Work Session (in-class) |
-Mon, Apr 15   | Testing and Code Coverage <br><br> Ensuring Code Quality | [Lecture 16: Testing](lectures/lecture16.html) <br> [Lecture 17: Ensuring Code Quality](lectures/lecture17.html)
+Mon, Apr 15   | Testing and Code Coverage <br><br> Ensuring Code Quality | [Lecture 16: Testing](lectures/lecture16.html) <br><br> [Lecture 17: Ensuring Code Quality](lectures/lecture17.html)
 Wed, Apr 17   | Team Project Work Session (in-class) |
 Fri, Apr 19   | Team Project Work Session (in-class) |
 Mon, Apr 22   | Team Project Milestone 3:<br> **75% Working System w/working SQL DB** | [Assignment 3: Team Project Milestones](assign/assign03.html)
@@ -57,7 +57,7 @@ Mon, Apr 29   | Team Project Work Session (in-class) |
 Wed, May 1    | Team Project Work Session (in-class) | 
 Fri, May 3    | Team Project Work Session (in-class, last class session of semester) |
 Sat, May 4    | Team Project Report Due | [Assignment 8: Team Project Deliverables](assign/assign08.html)
-Sun, May 5    | Team Project Reflection Due<br>Team Project Final Self / Peer Evaluations Due | [Assignment 10: Team Project Reflection](assign/assign10.html)<br> [Assignment 11: Team Project Self / Peer Evaluation](assign/assign11.html)
+Sun, May 5    | Team Project Reflection Due<br><br>Team Project Final Self / Peer Evaluations Due | [Assignment 10: Team Project Reflection](assign/assign10.html)<br> [Assignment 11: Team Project Self / Peer Evaluation](assign/assign11.html)
 Mon, May 6    | **TEAM PROJECT FINAL PRESENTATIONS (Section 101)**<br>Section 101: 10:15am to 12:15pm (during Final Exam Period) | [Assignment 8: Team Project Deliverables](assign/assign08.html)
 Wed, May 8    | **TEAM PROJECT FINAL PRESENTATIONS (Section 102)**<br>Section 102: 12:45pm to 2:45pm (during Final Exam Period) | [Assignment 8: Team Project Deliverables](assign/assign08.html)
 

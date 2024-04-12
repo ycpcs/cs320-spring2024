@@ -46,9 +46,9 @@ Wed, Apr 3    | ORM Lab06 Review and Questions |
 Fri, Apr 5    | ORM and SQL Database Questions, SQL DB Testing |
 Mon, Apr 8    | Individual Project Milestone 3:<br> **FINAL PROJECT DEMO** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 Wed, Apr 10   | Library Example Project Analysis & Review | Located near the bottom of the [Resources Page](resources/index.html)
-Fri, Apr 12   | Team Project Work Session (in-class) |
-Mon, Apr 15   | Testing and Code Coverage <br><br> Ensuring Code Quality | [Lecture 16: Testing](lectures/lecture16.html) <br><br> [Lecture 17: Ensuring Code Quality](lectures/lecture17.html)
-Wed, Apr 17   | Team Project Work Session (in-class) |
+Fri, Apr 12   | Team Project Work Session (in-class) | **SPARTAN DAY** (class optional)
+Mon, Apr 15   | Team Project Work Session (in-class) |
+Wed, Apr 17   | Testing and Code Coverage <br><br> Ensuring Code Quality | [Lecture 16: Testing](lectures/lecture16.html) <br><br> [Lecture 17: Ensuring Code Quality](lectures/lecture17.html)
 Fri, Apr 19   | Team Project Work Session (in-class) |
 Mon, Apr 22   | Team Project Milestone 3:<br> **75% Working System w/working SQL DB** | [Assignment 3: Team Project Milestones](assign/assign03.html)
 Wed, Apr 24   | Work Ethic Lecture <br>**Take Home Exam (handed out)** |

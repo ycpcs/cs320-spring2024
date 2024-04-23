@@ -40,18 +40,21 @@ As such, some of the links below could return 404 Page Not Found Errors.  Profes
 ## News
 
 <!-- Commenting out News until it's needed - and the dates will change, anyway
+-->
 
-* **Apr 22** - [Team Project Final Presentation and Demonstration](assign/assign08.html) is schedule for each section's final exam period.  These will be 30-40 minute formal presentations.  See [Assignment 8](assign/assign08.html) for the details and guidelines.
+* **Apr 22** - [Team Project Final Presentation and Demonstration](assign/assign08.html) is scheduled for each section's final exam period.  These will be 30 minute (section 101) to 45 minute (section 102) formal presentations.  See [Assignment 8](assign/assign08.html) for the details and guidelines.
 	- **10:00a section (101) - 10:15a to 12:15p on Monday, 5-6-24**
 	- ** 1:00p section (102) - 12:45p to 2:45p on Wednesday, 5-8-24**
 
-* **Apr 22** - [Assignment 10](assign/assign10.html) is an individual reflection on the team project.  [Assignment 11](assign/assign11.html) is a self/peer evaluation for the team project.  They are both INDIVIDUAL assignments and are are both **due by noon, Sunday, 5-5-24 in PDF form in Marmoset**.
+* **Apr 23** - [Assignment 8](assign/assign08.html) describes the final deliverables for the team project.  There are several - please read the assignment carefully.  The team project final report is **due by Noon, Sunday, 5-5-24 in PDF form in Marmoset**.  Please have only one team member submit the report.
 
-* **Apr 22** - [Assignment 8](assign/assign08.html) describes the final deliverables for the team project.  There are several - please read the assignment carefully.  The team project final report is **due by Noon, Saturday, 5-4-24 in PDF form in Marmoset**.  Please have only one team member submit the report.
+* **Apr 23** - [Assignment 10](assign/assign10.html) is an individual reflection on the team project.  [Assignment 11](assign/assign11.html) is the final self/peer evaluation for the team project.  They are both INDIVIDUAL assignments, combined into one form, and are **due by noon, Sunday, 4-28-24 in PDF form in Marmoset**.
 
--->
+<!-- Commenting out the Exam for this year
 
 * **Apr 7** - The **midterm exam** will be a take-at-home exam that I will hand out in class on **Wednesday, 4-24-24**.  You will turn it back in to me at the beginning of your class period on **Friday, 4-26-24**.  There is NO Programming portion, it is all written.  You will also need to create a UML diagram (either using a drawing package, or a NEATLY hand-drawn diagram).  The exam will be open notes and you can use any resource on the CS320 website (**EXCEPT FOR CHATGPT OR ANY OTHER SIMILAR LLM AI**), as well as your assignment and lab solutions.  The exam is 120 points, and was originally designed to be an in-class 50-minute exam, with a built-in curve of 20 points.  Since this is now a take home exam, there is no practice exam posted, nor will there be a review for the exam.  Taking the exam at home IS the review.   **YOU MUST DO YOUR OWN WORK - YOU ARE NOT ALLOWED TO CONSULT WITH ANYONE ELSE, OR USE ANY RESOURCES THAT ARE NOT LISTED ON THE RESOURCES PAGE OF THE CS320 WEBSITE.  I AM TRUSTING YOU TO WORK ON YOUR HONOR - PLEASE DO NOT BETRAY THAT TRUST.**
+
+-->
 
 * **Apr 7** - [Team Project Milestone 3: 75% Working System, w/SQL DB](assign/assign03.html) is **due Monday, 4-22-24**.  This will be a FORMAL 12-14 minute (max) team presentation/demonstration of your team's progress since milestone 2.  SQL database functionality **IS REQUIRED** for this milestone.  A large majority of your classes, methods, test cases, and web page navigation should be implemented by milestone 3, as well.  If you do not have substantial test case coverage, your team will receive a Below Expectations assessment.
 

@@ -5,9 +5,7 @@ title: "Assignment 10: Team Project Reflection"
 
 **Due: [See Assignment Schedule](index.html)**
 
-This is an **individual** assignment
-
-Important: late submissions will **not** be accepted
+This is an **individual** assignment in conjunction with your [Team Project Self/Peer Evaluation Form](PeerReview.doc).  You will submit it as part of each Team Project Self/Peer Evaluation (midterm and final).
 
 Your Task
 =========
@@ -30,7 +28,7 @@ Choose what you consider to be your three most important technical contributions
 
 Example (this is an example of *one* technical contribution, remember that you need to document three contributions):
 
-> **Contibution**: I added support for viewing the source code and test results for all of a student's submissions for a given problem.
+> **Contribution**: I added support for viewing the source code and test results for all of a student's submissions for a given problem.
 >
 > Commits:
 >
@@ -54,8 +52,8 @@ In an essay of 2-3 paragraphs, reflect on the process of working on your team pr
 Submitting
 ==========
 
-Upload your reflection in **PDF** format to Marmoset as **assign10-reflection**.
+You will fill out this information on your[Team Project Self/Peer Evaluation Form](PeerReview.doc).  Once you have completed everything on that form, follow the submission instructions for that form.
 
 <div class="callout">
-Your reflection <em>must</em> be submitted in PDF format.  Submissions in any other format may receive a grade of 0.
+Your reflection <em>must</em> be submitted in PDF form as part of your Team Projet Self/Peer Evaluation.  Submissions in any other format may receive a grade of 0.
 </div>

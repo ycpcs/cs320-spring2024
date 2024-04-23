@@ -17,9 +17,9 @@ Assignment | Type | Due
 [Assignment 3b: Team Project Milestone 2 (50%)](assign03.html) | Team | Wednesday, 3-27-24 (in-class Presentation)
 [Assignment 11: Team Project Midterm Self / Peer Evaluation](assign11.html) | Individual | Thursday, 3-28-24, by Noon (PDF submitted to Marmoset)
 [Assignment 3c: Team Project Milestone 3 (w/SQL DB)](assign03.html) | Team | Monday, 4-22-24 (in-class Presentation)
-[Assignment 8: Team Project Technical Report](assign08.html) | Team | Saturday, 5-4-24, by Noon (PDF submitted to Marmoset)
-[Assignment 11: Final Team Project Self / Peer Evaluation](assign11.html) | Individual | Sunday, 5-4-24, by Noon (PDF submitted to Marmoset)
-[Assignment 10: Team Project Reflection](assign10.html) | Individual | Sunday, 5-5-24, by Noon (PDF submitted to Marmoset)
+[Assignment 10: Team Project Reflection](assign10.html) | Individual | Sunday, 4-28-24, by Noon (as part of your Final Team Project Peer Evaluations)
+[Assignment 11: Final Team Project Self / Peer Evaluation](assign11.html) | Individual | Sunday, 4-28-24, by Noon (PDF submitted to Marmoset)
+[Assignment 8: Team Project Technical Report](assign08.html) | Team | Sunday, 5-5-24, by Noon (PDF submitted to Marmoset)
 [Assignment 8: Team Project Final Presentation and Demo (Section 101)](assign08.html) | Team | Monday, 5-6-24, from 10:00am to 12:15pm (during Final Exam Period)
 [Assignment 8: Team Project Final Presentation and Demo (Section 102)](assign08.html) | Team | Wednesday, 5-8-24, from 12:45pm to 2:45pm (during Final Exam Period)
  | |

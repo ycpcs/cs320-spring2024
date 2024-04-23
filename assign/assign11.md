@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 11: Team Project Self / Peer Evaluation"
 ---
 
-**DUE: There are two self / peer evaluations forms due this semester: the first following Team Milestone 2, and the second just before the final Team Project presentation and demo.  [See Assignment Schedule](index.html)**
+**DUE: There are two self / peer evaluations forms due this semester: the first following Team Milestone 2, and the second a week before the final Team Project presentation and demo.  [See Assignment Schedule](index.html)**
 
 This is an **individual** assignment
 
@@ -15,13 +15,19 @@ Use this form to evaluate and rank the contributions of you and your team member
 
 You must also rank and rate all of the team projects that are being developed in your section.
 
-When you are ready, download [PeerReview.doc](PeerReview.doc), fill it out, and follow the submission instructions below.
+# Project Self Reflection
+
+You will also be using this form to submit your [Assignment 10: Team Project Self Reflection](.assign/assign10.html).
+
+You will fill out and submit both portions at the same time.
 
 # Submitting
 
-**Midterm submission:** upload the completed form to Marmoset as **assign11-mid-peereval**.  You *must* submit it in PDF format, which means that you must save the final document version as a PDF.
+When you are ready, download [PeerReview.doc](PeerReview.doc), fill it out, and follow the submission instructions below.
 
-**Final submission:** upload the completed form to Marmoset as **assign11-final-peereval**.  You *must* submit it in PDF format, which means that you must save the final document version as a PDF.
+**Midterm submission:** upload the completed form to Marmoset as **assign11-midterm-peereval-username**.  You *must* submit it in PDF format, which means that you must save the final document version as a PDF.
+
+**Final submission:** upload the completed form to Marmoset as **assign11-final-peereval-username**.  You *must* submit it in PDF format, which means that you must save the final document version as a PDF.
 
 <div class="callout">
 Your self / peer evaluation <em>must</em> be submitted in PDF format.  Submissions in any other format may receive a grade of 0.

@@ -5,7 +5,7 @@ title: "Assignment 10: Team Project Reflection"
 
 **Due: [See Assignment Schedule](index.html)**
 
-This is an **individual** assignment in conjunction with your [Team Project Self/Peer Evaluation Form](PeerReview.doc).  You will submit it as part of each Team Project Self/Peer Evaluation (midterm and final).
+This is an **individual** assignment in conjunction with your [Team Project Self/Peer Evaluation Form](PeerReview.pdf).  You will submit it as part of each Team Project Self/Peer Evaluation (midterm and final).
 
 Your Task
 =========
@@ -55,5 +55,5 @@ Submitting
 You will fill out this information on your[Team Project Self/Peer Evaluation Form](PeerReview.doc).  Once you have completed everything on that form, follow the submission instructions for that form.
 
 <div class="callout">
-Your reflection <em>must</em> be submitted in PDF form as part of your Team Projet Self/Peer Evaluation.  Submissions in any other format may receive a grade of 0.
+Your reflection <em>must</em> be submitted in PDF form as part of your Team Project Self/Peer Evaluation.  Submissions in any other format may receive a grade of 0.
 </div>

@@ -17,9 +17,9 @@ You must also rank and rate all of the team projects that are being developed in
 
 # Project Self Reflection
 
-You will also be using this form to submit your [Assignment 10: Team Project Self Reflection](.assign/assign10.html).
+You will also be using the same form to submit your [Assignment 10: Team Project Self Reflection](assign10.html).
 
-You will fill out and submit both portions at the same time.
+You will fill out and submit both assignments in that form at the same time.
 
 # Submitting
 

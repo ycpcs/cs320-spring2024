@@ -58,7 +58,6 @@ Mon, Apr 29   | Team Project Work Session (in-class) |
 Wed, May 1    | Team Project Work Session (in-class) | 
 Fri, May 3    | Team Project Work Session (in-class, last class session of semester) |
 Sun, May 5    | Team Project Report Due | [Assignment 8: Team Project Deliverables](assign/assign08.html)
-
 Mon, May 6    | **TEAM PROJECT FINAL PRESENTATIONS (Section 101)**<br>Section 101: 10:15am to 12:15pm (during Final Exam Period) | [Assignment 8: Team Project Deliverables](assign/assign08.html)
 Wed, May 8    | **TEAM PROJECT FINAL PRESENTATIONS (Section 102)**<br>Section 102: 12:45pm to 2:45pm (during Final Exam Period) | [Assignment 8: Team Project Deliverables](assign/assign08.html)
 

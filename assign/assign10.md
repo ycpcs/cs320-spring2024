@@ -5,7 +5,7 @@ title: "Assignment 10: Team Project Reflection"
 
 **Due: [See Assignment Schedule](index.html)**
 
-This is an **individual** assignment in conjunction with your [Team Project Self/Peer Evaluation Form](PeerReview.pdf).  You will submit it as part of each Team Project Self/Peer Evaluation (midterm and final).
+This is an **individual** assignment in conjunction with your [Team Project Self/Peer Evaluation Form](PeerReview.pdf).  You will submit it as part of each Team Project Self/Peer Evaluation (midterm or final).
 
 Your Task
 =========
@@ -52,7 +52,7 @@ In an essay of 2-3 paragraphs, reflect on the process of working on your team pr
 Submitting
 ==========
 
-You will fill out this information on your[Team Project Self/Peer Evaluation Form](PeerReview.doc).  Once you have completed everything on that form, follow the submission instructions for that form.
+You will fill out this information on your [Team Project Self/Peer Evaluation Form](PeerReview.doc).  Once you have completed everything on that form, follow the submission instructions for that form from [Assignment 11](assign11.html).
 
 <div class="callout">
 Your reflection <em>must</em> be submitted in PDF form as part of your Team Project Self/Peer Evaluation.  Submissions in any other format may receive a grade of 0.

@@ -30,13 +30,13 @@ The Final Presentation
 
 At the conclusion of your team project, your group will give a 30 minute (3 teams in your section) or 45 minutes (2 teams in your section) presentation.
 
-Here is a suggested structure for your presentation, with approximate times to spend on each part.  The time estimates for each portion of the presentation are based on 3 times presenting in a 2 hour period.  You can expand these by 50% if there are only two teams presenting in your section:
+Here is a suggested structure for your presentation, with approximate times to spend on each part.  The time estimates for each portion of the presentation are based on THREE teams presenting in a 2 hour period.  You can expand those esimtate by 50% if there are only TWO teams presenting in your section:
 
 > **1.** Background: (3 minutes) What problem were you trying to solve? Discuss the system requirements.
 >
 > **2.** Analysis and design: (4-5 minutes) Discuss your design model. In this part of the presentation, you must show your updated UML class diagram illustrating the *most important* classes and methods in your system, and how they relate/interact with each other.  In order for the diagram to be legible during the presentation, it should contain at most 8 or so classes, and each class should show at most 1-3 methods. You can use multiple diagrams if you want to show more classes than would fit in a single diagram.
 >
-> This is also a good opportunity to discuss how the design of the system changed as you worked on the implementation.
+> This is also a good opportunity to discuss how the design of the system changed/eveolved as you worked on the implementation.
 >
 > **3.** Database Schema: (3-4 minutes) Present the Schema for your SQL database.  The DB Schema should include all tables with their attribute names (columns) and their respective data types, as well as how the tables are related to each other.
 >
@@ -44,7 +44,7 @@ Here is a suggested structure for your presentation, with approximate times to s
 >
 > **5.** Demonstration: (8-10 minutes) Show your system working. Demonstrate the most important/interesting features, and run your JUnit test cases.
 >
-> **6.** Conclusions: (3 minutes) Sum up what you learned. If there are aspects of the project you would do differently if you started again from scratch, mention them. You can also talk about how you might want to extend the system in the future.
+> **6.** Conclusions: (5 minutes) Sum up what you learned. If there are aspects of the project you would do differently if you started again from scratch, mention them. You can also talk about how you might want to extend the system in the future.
 
 Your presentation should include between 7-10 slides.
 

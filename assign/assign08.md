@@ -66,7 +66,7 @@ Submit a 4-5 page report describing:
 
 Feel free to ere on the side of more content, rather than less.  Also, don't forget to include the "main" repository URL as mentioned above, **with me assigned as a contributor to your project.**
 
-Submit the report to Marmoset as **assign08report**.  Use *only* PDF: do *not* upload a Microsoft Word or rich text document.
+Submit the report to Marmoset as **assign08report-usernames** as you have done for other team assignment submissions.  Use *only* PDF: do *not* upload a Microsoft Word or rich text document.
 
 <div class="callout">
 Your report <em>must</em> be submitted in PDF format.  Submissions in any other format may receive a grade of 0.

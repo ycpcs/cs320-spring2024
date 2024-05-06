@@ -86,10 +86,11 @@ Grades are assigned on a 100-point scale:
 
 Your overall grade for the course will be determined as follows:
 
--   Individual project, labs, and assignments: 30% **(&dagger;)**
--   Contributions to team project: 40% **(\*)**
--   Midterm exam: 15%
--   Professionalism: 15% (Attendance, Attentiveness, Participation, Timeliness, Work Ethic, Teamwork)
+-   Individual project, labs, and assignments: 35% (was 30%) **(&dagger;)**
+-   Contributions to team project: 45% (was 40%) **(\*)**
+-   Professionalism: 20% (was 15%) - Attendance, Attentiveness, Participation, Timeliness, Work Ethic, Teamwork.
+-   Midterm exam: 0% (was 15%) - The original 15% assigned to the exam was distributed evenly to the above three categories.
+
 
 **(&dagger;) You must make a good faith effort to complete all of the labs and assignments.  Failure to submit a good faith attempt for any assignment or lab is grounds for receiving a reduced grade for the course.  Labs will be graded on a *Pass / Fail* basis.  In order to receive a passing grade on a lab, your submission must have a substantial portion of the lab implemented and correctly working.  You could be penalized up to 5% points off your course grade for each lab for which you do not receive a passing grade.**
 

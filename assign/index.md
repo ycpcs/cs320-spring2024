@@ -21,8 +21,8 @@ Assignment | Type | Due
 [Assignment 11: Final Team Project Self / Peer Evaluation](assign11.html) | Individual | Sunday, 4-28-24, by Noon (PDF submitted to Marmoset)
 [Assignment 8: Team Project Final Presentation and Demo (Section 101)](assign08.html) | Team | Monday, 5-6-24, from 10:15am to 12:15pm (during Final Exam Period)
 [Assignment 8: Team Project Final Presentation and Demo (Section 102)](assign08.html) | Team | Wednesday, 5-8-24, from 12:45pm to 2:45pm (during Final Exam Period)
- | |
  [Assignment 8: Team Project Technical Report](assign08.html) | Team | Thursday, 5-9-24, by Noon (PDF submitted to Marmoset)
+  | |
 **Individual Project Assignments** | **Individual** | **See Below**
 [Assignment 2: Individual Project Proposal](assign02.html) | Individual | Sunday, 2-11-24, by Noon (PDF submitted to Marmoset)
 [Assignment 4a: Individual Project Milestone 1 (base)](assign04.html) | Individual | Wednesday, 2-28-24 (in-class Demo)

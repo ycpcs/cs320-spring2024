@@ -42,13 +42,14 @@ As such, some of the links below could return 404 Page Not Found Errors.  Profes
 <!-- Commenting out News until it's needed - and the dates will change, anyway
 -->
 
+
+* **Apr 26** - [Assignment 8](assign/assign08.html) describes the final deliverables for the team project.  There are several - please read the assignment carefully.  The team project final report is **due by Noon, Thursday, 5-9-24 in PDF form in Marmoset**.  Please have only one team member submit the report.
+
 * **Apr 22** - [Team Project Final Presentation and Demonstration](assign/assign08.html) is scheduled for each section's final exam period.  These will be 30 minute (section 101) to 45 minute (section 102) formal presentations.  See [Assignment 8](assign/assign08.html) for the details and guidelines.
 	- **10:00a section (101) - 10:15a to 12:15p on Monday, 5-6-24**
 	- **1:00p section (102) - 12:45p to 2:45p on Wednesday, 5-8-24**
 
-* **Apr 23** - [Assignment 8](assign/assign08.html) describes the final deliverables for the team project.  There are several - please read the assignment carefully.  The team project final report is **due by Noon, Thursday, 5-9-24 in PDF form in Marmoset**.  Please have only one team member submit the report.
-
-* **Apr 23** - [Assignment 10](assign/assign10.html) is an individual reflection on the team project.  [Assignment 11](assign/assign11.html) is the final self/peer evaluation for the team project.  They are both INDIVIDUAL assignments, combined into one form, and are **due by noon, Sunday, 4-28-24 in PDF form in Marmoset**.
+* **Apr 22** - [Assignment 10](assign/assign10.html) is an individual reflection on the team project.  [Assignment 11](assign/assign11.html) is the final self/peer evaluation for the team project.  They are both INDIVIDUAL assignments, combined into one form, and are **due by noon, Sunday, 4-28-24 in PDF form in Marmoset**.
 
 <!-- Commenting out the Exam for this year
 
